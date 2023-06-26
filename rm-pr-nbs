@@ -1,2 +1,2 @@
-find . -name "*.ipynb" -type f | xargs git rm -r --cached
+git rm  --cached *.ipynb
 /git_automated
