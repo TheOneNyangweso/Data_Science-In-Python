@@ -7,6 +7,7 @@ import requests
 import sys
 
 # Using requests to lazily download the bitmap.txt file...no need to type the whole prototype map
+# You can uncomment this part if you want to do the same
 """ 
 with open('/home/nyangweso/Desktop/Ds_1/Data_Structures/Python projects/bitmap.txt', 'w') as f:
     url = 'https://inventwithpython.com/bitmapworld.txt'
