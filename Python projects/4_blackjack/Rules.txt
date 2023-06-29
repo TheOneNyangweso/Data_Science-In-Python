@@ -1,0 +1,16 @@
+Welcome to Blackjack.
+
+Rules:
+    1. Try to get as close to 21 without going over.
+    2. Kings, Queens, and Jacks are worth 10 points.
+    3. Aces are worth 1 or 11 points.
+    4. Cards 2 through 10 are worth their face value.
+    
+(H)it to take another card.
+(S)tand to stop taking cards.
+
+On your first play, you can (D)ouble down to increase your bet.
+but must hit exactly one more time before standing.
+
+Incase of a tie, the bet is returned to the player.
+The dealer stops hitting at 17.
