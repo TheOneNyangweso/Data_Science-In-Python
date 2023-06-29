@@ -19,7 +19,7 @@ with open('/home/nyangweso/Desktop/Ds_1/Data_Structures/Python projects/bitmap.t
 # You can change the path to match that in your system
 # open the bitmap.txt and save it in a variable
 with open(
-    "/home/nyangweso/Desktop/Ds_1/Data_Structures/Python projects/bitmap.txt", "r"
+    "/home/nyangweso/Desktop/Ds_1/Data_Structures/Python projects/3_bitmap_message/bitmap.txt", "r"
 ) as f:
     bitmap = f.read()
 
