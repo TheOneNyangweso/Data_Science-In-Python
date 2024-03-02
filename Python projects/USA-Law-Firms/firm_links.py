@@ -6,7 +6,7 @@ import pandas as pd
 
 def get_firm_links():
     # count keeps track of successful iterations
-    count = 338
+    count = 193
     global links
     links = []
     try:
@@ -14,19 +14,23 @@ def get_firm_links():
             browser = pw.firefox.launch(headless=False)
             page = browser.new_page()
 
-            page.goto("https://law.usnews.com/law-firms/search?page=340")
+            page.goto("https://law.usnews.com/law-firms/search?page=340",
+                      timeout=120000, wait_until='domcontentloaded')
 
-            # var = 'button.page-numbers__Button-sc-138ov1k-4:nth-child(3)'
-            # page.wait_for_timeout(timeout= 60000)
+            var = 'button.page-numbers__Button-sc-138ov1k-4:nth-child(3)'
 
-            #while count < 341:
-            # get html
+            # while count < 341:
+                # get html
             html = page.content()
             # parse the HTML using parsel
             selector = Selector(text=html)
             for a in range(1, 7):
-                href = selector.xpath(
-                    f'/html/body/main/div[3]/div/div[4]/div[2]/div[1]/ol/li/div[1]/div[2]/div[{a}]/div[1]/div/a/@href').get()
+                href = [
+                    selector.xpath(
+                        f'/html/body/main/div[3]/div/div[4]/div[2]/div[1]/ol/li/div[1]/div[2]/div[{a}]/div[1]/div/a/text()').get(),
+                    selector.xpath(
+                        f'/html/body/main/div[3]/div/div[4]/div[2]/div[1]/ol/li/div[1]/div[2]/div[{a}]/div[4]/div/text()').get()
+                ]
                 print(href)
                 links.append(href)
 
@@ -34,7 +38,7 @@ def get_firm_links():
                 # click "next page" button
                 # page.click(selector=var)
                 # if successful update counter
-                count += 1
+                # count += 1
 
             time.sleep(10)
             # screenshot is useful to know where the program crashed just in case
@@ -51,5 +55,5 @@ def get_firm_links():
 
 if __name__ == '__main__':
     get_firm_links()
-    df = pd.DataFrame(links, columns=['link'])
-    df.to_csv('law_firm_links_3.csv', index=False)
+    df = pd.DataFrame(links, columns=['name', 'no_of_lawyers'])
+    df.to_csv('law_firm_name_no_of_lawyers_3.csv', index=False)
