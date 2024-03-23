@@ -38,6 +38,7 @@ def get_data():
                 html = page.content()
                 # parse the HTML using parsel
                 selector = Selector(text=html)
+                
 
                 name_of_law_firm = selector.xpath(
                     '/html/body/main/div[3]/div[3]/div[1]/div[1]/div[2]/div/h1/text()').get()
