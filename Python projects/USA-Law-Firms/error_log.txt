@@ -1,0 +1,52 @@
+Iteration 0 for the state of Alabama has some errror
+Iteration 1 for the state of Alaska has some errror
+Iteration 2 for the state of Arizona has some errror
+Iteration 3 for the state of Arkansas has some errror
+Iteration 4 for the state of California has some errror
+Iteration 5 for the state of Colorado has some errror
+Iteration 6 for the state of Connecticut has some errror
+Iteration 7 for the state of Delaware has some errror
+Iteration 8 for the state of Florida has some errror
+Iteration 9 for the state of Georgia has some errror
+Iteration 10 for the state of Hawaii has some errror
+Iteration 11 for the state of Idaho has some errror
+Iteration 12 for the state of Illinois has some errror
+Iteration 13 for the state of Indiana has some errror
+Iteration 14 for the state of Iowa has some errror
+Iteration 15 for the state of Kansas has some errror
+Iteration 16 for the state of Kentucky has some errror
+Iteration 17 for the state of Louisiana has some errror
+Iteration 18 for the state of Maine has some errror
+Iteration 19 for the state of Maryland has some errror
+Iteration 20 for the state of Massachusetts has some errror
+Iteration 21 for the state of Michigan has some errror
+Iteration 22 for the state of Minnesota has some errror
+Iteration 23 for the state of Mississippi has some errror
+Iteration 24 for the state of Missouri has some errror
+Iteration 25 for the state of Montana has some errror
+Iteration 26 for the state of Nebraska has some errror
+Iteration 27 for the state of Nevada has some errror
+Iteration 28 for the state of New Hampshire has some errror
+Iteration 29 for the state of New Jersey has some errror
+Iteration 30 for the state of New Mexico has some errror
+Iteration 31 for the state of New York has some errror
+Iteration 32 for the state of North Carolina has some errror
+Iteration 33 for the state of North Dakota has some errror
+Iteration 34 for the state of Ohio has some errror
+Iteration 35 for the state of Oklahoma has some errror
+Iteration 36 for the state of Oregon has some errror
+Iteration 37 for the state of Pennsylvania has some errror
+Iteration 38 for the state of Rhode Island has some errror
+Iteration 39 for the state of South Carolina has some errror
+Iteration 40 for the state of South Dakota has some errror
+Iteration 41 for the state of Tennessee has some errror
+Iteration 42 for the state of Texas has some errror
+Iteration 43 for the state of Utah has some errror
+Iteration 44 for the state of Vermont has some errror
+Iteration 45 for the state of Virginia has some errror
+Iteration 46 for the state of Washington has some errror
+Iteration 47 for the state of West Virginia has some errror
+Iteration 48 for the state of Wisconsin has some errror
+Iteration 49 for the state of Wyoming has some errror
+Iteration 50 for the state of Washington, D.C. has some errror
+Iteration 0 for the state of Alabama has some errror

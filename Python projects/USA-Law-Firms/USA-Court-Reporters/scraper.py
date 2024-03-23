@@ -19,7 +19,7 @@ STATES = [
 TIMEOUT = 120000
 
 
-def get_page_one(selector):
+def get_page_one(selector, state):
     for i in range(1, 21):
         index = str(i * 2)
         name = selector.xpath(
@@ -32,7 +32,6 @@ def get_page_one(selector):
         if number is None:
             number = selector.xpath(
                 f'/html/body/div[4]/div/div[9]/div[1]/div/div[2]/div[2]/div/div/div/div/div/div/div/div/div[1]/div[3]/div[{index}]/div/div/div/a/div/div/div[3]/text()').get()
-        state = 'Iowa'
         website = selector.xpath(
             f'/html/body/div[4]/div/div[9]/div[1]/div/div[2]/div[2]/div/div/div/div/div/div/div/div/div[1]/div[3]/div[{index}]/div[2]/div/a[1]/@href').get()
         if website is None:
@@ -41,7 +40,7 @@ def get_page_one(selector):
         print(name, number, state, website, sep='|')
 
 
-def get_other_pages(selector):
+def get_other_pages(selector, state):
     for i in range(1, 21):
         index = str(i * 2)
         name = selector.xpath(
@@ -54,7 +53,6 @@ def get_other_pages(selector):
         if number is None:
             number = selector.xpath(
                 f'/html/body/div[4]/div/div[9]/div[1]/div/div[2]/div[2]/div/div/div/div/div/div/div/div/div/div[1]/div[3]/div[{index}]/div/div/div/a/div/div/div[3]/text()').get()
-        state = 'Iowa'
         website = selector.xpath(
             f'/html/body/div[4]/div/div[9]/div[1]/div/div[2]/div[2]/div/div/div/div/div/div/div/div/div/div[1]/div[3]/div[{index}]/div[2]/div/a[1]/@href').get()
         if website is None:
@@ -70,13 +68,16 @@ def scrape(state):
         page.goto(INITIAL_URL, timeout=TIMEOUT,
                   wait_until='domcontentloaded')
         time.sleep(5)
-        html = page.content()
-        selector = Selector(text=html)
 
         page.fill('//*[@id="APjFqb"]', f'court reporters in {state}')
         page.press('//*[@id="APjFqb"]', 'Enter')
-        time.sleep(5)
-        get_page_one(selector=selector)
+        time.sleep(10)
+
+        html = page.content()
+        selector = Selector(text=html)
+
+        get_page_one(selector=selector, state=state)
+
         while page.query_selector('//*[@id="pnnext"]'):
             page.click('//*[@id="pnnext"]')
             # Wait until the new content loads
@@ -84,26 +85,29 @@ def scrape(state):
             html = page.content()
             selector = Selector(text=html)
             print("I have the html!!\n")
-            get_other_pages(selector=selector)
+            get_other_pages(selector=selector, state=state)
         else:
             print("no clickable element")
         print('done!!')
 
+        browser.close()
+
+        if state == state[-1]:
+            pw.stop()
+
 
 def run():
-    with sync_playwright() as pw:
-        for count, state in enumerate(STATES):
-            try:
-                scrape(state=state)
-            except:
-                with open("error_log.txt", 'a') as f:
-                    f.write(
-                        str(f'Iteration {count} for the state of {state} has some errror\n'))
-                continue
-
-            time.sleep(30)
-        pw.stop()
-        print(f"Scraped ALL states")
+    for count, state in enumerate(STATES):
+        try:
+            scrape(state=state)
+            print(f'State of {state} data scraped successfully')
+        except:
+            with open("error_log.txt", 'a') as f:
+                f.write(
+                    str(f'Iteration {count} for the state of {state} has some errror\n'))
+            continue
+        time.sleep(30)
+    print(f"Scraped ALL states")
 
 
 if __name__ == '__main__':
