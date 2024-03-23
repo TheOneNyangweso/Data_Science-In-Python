@@ -29,43 +29,6 @@ Isbell & Associates, LLC|Mobile, AL, Marekani · +1 800-565-3376|Alabama|http://
 Camp & Associates|Mobile, AL, Marekani · +1 251-661-8833|Alabama|http://www.campandassociates.com/
 Freedom Reporting|Birmingham, AL, Marekani · +1 877-373-3660|Alabama|http://www.freedomreporting.com/
 Circuit Court Reporters|Phenix City, AL, Marekani · +1 334-298-1285|Alabama|/maps/dir//Circuit+Court+Reporters,+501+14th+St,+Phenix+City,+AL+36867,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x888ccdb77f91115d:0x52b56ff37f95296d?sa=X&ved=1t:57443&ictx=111
-None|None|Alabama|None
-None|None|Alabama|None
-None|None|Alabama|None
-None|None|Alabama|None
-None|None|Alabama|None
-None|None|Alabama|None
-None|None|Alabama|None
-None|None|Alabama|None
-None|None|Alabama|None
-None|None|Alabama|None
-None|None|Alabama|None
-no clickable element
-done!!
-State of Alabama data scraped successfully
-None|None|Alaska|None
-None|None|Alaska|None
-None|None|Alaska|None
-None|None|Alaska|None
-None|None|Alaska|None
-None|None|Alaska|None
-None|None|Alaska|None
-None|None|Alaska|None
-None|None|Alaska|None
-None|None|Alaska|None
-None|None|Alaska|None
-None|None|Alaska|None
-None|None|Alaska|None
-None|None|Alaska|None
-None|None|Alaska|None
-None|None|Alaska|None
-None|None|Alaska|None
-None|None|Alaska|None
-None|None|Alaska|None
-None|None|Alaska|None
-no clickable element
-done!!
-State of Alaska data scraped successfully
 Herder & Associates Court Reporters|Phoenix, AZ, Marekani · +1 480-481-0649|Arizona|http://www.courtreportersaz.com/
 Coash Court Reporting & Video|Phoenix, AZ, Marekani · +1 602-258-1440|Arizona|http://www.coashcourtreportingandvideo.com/
 Thompson Court Reporters, Inc.|Phoenix, AZ, Marekani · +1 602-344-9979|Arizona|http://thompsonreporters.com/phoenix
@@ -101,14 +64,6 @@ Kim Bata Reporting|Phoenix, AZ, Marekani · +1 480-502-9900|Arizona|/maps/dir//K
 Foldy Reporting|Scottsdale, AZ, Marekani · +1 480-699-8002|Arizona|/maps/dir//Foldy+Reporting,+9375+E+Shea+Blvd+Suite+100,+Scottsdale,+AZ+85260,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x872b0bb8875c22bd:0x65e380a627b3ac1d?sa=X&ved=1t:57443&ictx=111
 KMD Court Reporting Services|Gilbert, AZ, Marekani · +1 480-203-9959|Arizona|https://www.kmdcrs.com/contact-us/
 Nichols Court Reporters|Scottsdale, AZ, Marekani · +1 480-990-8869|Arizona|/maps/dir//Nichols+Court+Reporters,+7373+E+Doubletree+Ranch+Rd+Unit+200,+Scottsdale,+AZ+85258,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x872b74cf4a177fcf:0x408c43412867dee1?sa=X&ved=1t:57443&ictx=111
-None|None|Arizona|None
-None|None|Arizona|None
-None|None|Arizona|None
-None|None|Arizona|None
-None|None|Arizona|None
-None|None|Arizona|None
-None|None|Arizona|None
-no clickable element
 done!!
 State of Arizona data scraped successfully
 Arkansas Realtime Reporting, LLC|Fayetteville, AR, Marekani · +1 479-301-2040|Arkansas|http://www.arkansasrealtimereporting.com/
@@ -149,11 +104,6 @@ Arvest Weddington Court|Fayetteville, AR, Marekani · +1 479-695-0026|Arkansas|/
 David Roe Legal Video|Fayetteville, AR, Marekani · +1 479-521-2150|Arkansas|/maps/dir//David+Roe+Legal+Video,+5644+W+Chattel+St,+Fayetteville,+AR+72704,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87c971e6450ce753:0x4fb97313ee492c78?sa=X&ved=1t:57443&ictx=111
 Royal Court Reporting|North Little Rock, AR, Marekani · +1 281-546-6994|Arkansas|/maps/dir//Royal+Court+Reporting,+5965+Allwood+Dr,+North+Little+Rock,+AR+72116,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x65f1907bac8b0795:0x23626eca90cf32ad?sa=X&ved=1t:57443&ictx=111
 donald court reporting online|Springdale, AR, Marekani|Arkansas|https://donaldcourtreporting.com/
-None|None|Arkansas|None
-None|None|Arkansas|None
-None|None|Arkansas|None
-None|None|Arkansas|None
-no clickable element
 done!!
 State of Arkansas data scraped successfully
 Jilio-Ryan Court Reporters|Tustin, CA, Marekani · +1 714-424-9902|California|https://www.jilioryan.com/?utm_source=google&utm_medium=gbp
@@ -390,12 +340,6 @@ Personal Exposure Reporting (PER)|Sacramento, CA, Marekani · +1 916-921-9111|Ca
 First Watch Leasing|Torrance, CA, Marekani · +1 310-328-7028|California|/maps/dir//First+Watch+Leasing,+1867+Western+Way,+Torrance,+CA+90501,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c2b54de9090299:0x9d4335c8b1b0c2e5?sa=X&ved=1t:57443&ictx=111
 Steno Doctor|Orange, CA, Marekani · +1 714-937-5457|California|http://www.stenodoctor.com/
 Litigation Services|Sacramento, CA, Marekani · +1 800-330-1112|California|http://www.litigationservices.com/
-None|None|California|None
-None|None|California|None
-None|None|California|None
-None|None|California|None
-None|None|California|None
-None|None|California|None
 no clickable element
 done!!
 State of California data scraped successfully
@@ -434,13 +378,6 @@ Court Reporter|Norwalk, CT, Marekani · +1 203-847-3861|Connecticut|http://www.j
 Court Reporter|Milford, CT, Marekani · +1 203-874-8523|Connecticut|/maps/dir//Court+Reporter,+14+W+River+St,+Milford,+CT+06460,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e80e7a7f5c6757:0x761847d0a481b85e?sa=X&ved=1t:57443&ictx=111
 Court Reporter|Enfield, CT, Marekani · +1 860-745-8614|Connecticut|/maps/dir//Court+Reporter,+111+Phoenix+Ave,+Enfield,+CT+06082,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e6fb9adbbd02b3:0xb2f08722db54da0d?sa=X&ved=1t:57443&ictx=111
 Court Reporter|Bantam, CT, Marekani · +1 860-567-3938|Connecticut|/maps/dir//Court+Reporter,+80+Doyle+Rd,+Bantam,+CT+06750,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e791a39e6c0899:0xe96bf085bc2d6f11?sa=X&ved=1t:57443&ictx=111
-None|None|Connecticut|None
-None|None|Connecticut|None
-None|None|Connecticut|None
-None|None|Connecticut|None
-None|None|Connecticut|None
-None|None|Connecticut|None
-None|None|Connecticut|None
 no clickable element
 done!!
 State of Connecticut data scraped successfully
@@ -457,13 +394,6 @@ Media Court Reporting|Media, PA, Marekani · +1 610-566-0805|Delaware|http://www
 Cecil County Court Reporters|Elkton, MD, Marekani · +1 410-996-5326|Delaware|http://www.courts.state.md.us/clerks/cecil/courtreporters.html
 DLS Discovery Trial Support|Wilmington, DE, Marekani · +1 302-654-3345|Delaware|https://dlsdiscovery.net/
 Lexitas|Wilmington, DE, Marekani · +1 302-655-0477|Delaware|https://www.lexitaslegal.com/
-None|None|Delaware|None
-None|None|Delaware|None
-None|None|Delaware|None
-None|None|Delaware|None
-None|None|Delaware|None
-None|None|Delaware|None
-None|None|Delaware|None
 no clickable element
 done!!
 State of Delaware data scraped successfully
@@ -712,24 +642,6 @@ I have the html!!
 A Pro Court Reporting|Tampa, FL, Marekani · +1 800-949-2776|Florida|/maps/dir//A+Pro+Court+Reporting,+505+E+Jackson+St,+Tampa,+FL+33606,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88c2c4859042c6d3:0x80add46e1abca0cc?sa=X&ved=1t:57443&ictx=111
 The Reporters Group, Inc.|Tampa, FL, Marekani · +1 813-228-8561|Florida|/maps/dir//The+Reporters+Group,+Inc.,+5300+W+Cypress+St+%23280,+Tampa,+FL+33607,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88c2c34e9af4d90b:0x2a6fed22546d1b56?sa=X&ved=1t:57443&ictx=111
 Pleasanton, Greenhill, Meek & Marsaa|West Palm Beach, FL, Marekani · +1 561-833-7811|Florida|/maps/dir//Pleasanton,+Greenhill,+Meek+%26+Marsaa,+330+Clematis+St,+West+Palm+Beach,+FL+33401,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d8d689dd948351:0xd0f0ebdd6627420a?sa=X&ved=1t:57443&ictx=111
-None|None|Florida|None
-None|None|Florida|None
-None|None|Florida|None
-None|None|Florida|None
-None|None|Florida|None
-None|None|Florida|None
-None|None|Florida|None
-None|None|Florida|None
-None|None|Florida|None
-None|None|Florida|None
-None|None|Florida|None
-None|None|Florida|None
-None|None|Florida|None
-None|None|Florida|None
-None|None|Florida|None
-None|None|Florida|None
-None|None|Florida|None
-no clickable element
 done!!
 State of Florida data scraped successfully
 Elizabeth Gallo Court Reporting|Atlanta, GA, Marekani · +1 404-389-1155|Georgia|https://www.georgiareporting.com/?utm_source=GMBlisting&utm_medium=organic
@@ -853,16 +765,6 @@ Ann B. Matsumoto|Honolulu, HI, Marekani · +1 808-541-2061|Hawaii|http://www.hid
 Alphabetum LLC|+1 808-536-0022|Hawaii|None
 Island Court Reporting & Transcription Services|Hilo, HI, Marekani · +1 808-933-9800|Hawaii|http://www.islandcourtreporting.com/
 Ralph Rosenberg Court Reporters|Kailua-Kona, HI, Marekani · +1 808-329-5443|Hawaii|http://www.hawaiicourtreporters.com/
-None|None|Hawaii|None
-None|None|Hawaii|None
-None|None|Hawaii|None
-None|None|Hawaii|None
-None|None|Hawaii|None
-None|None|Hawaii|None
-None|None|Hawaii|None
-None|None|Hawaii|None
-None|None|Hawaii|None
-None|None|Hawaii|None
 no clickable element
 done!!
 State of Hawaii data scraped successfully
@@ -879,14 +781,6 @@ K & K Reporting|Lewiston, ID, Marekani · +1 208-743-1380|Idaho|http://kkreport.
 CDA Reporting Court Reporting|Coeur d'Alene, ID, Marekani · +1 208-765-3666|Idaho|/maps/dir//CDA+Reporting+Court+Reporting,+250+Northwest+Blvd+%23101A,+Coeur+d%27Alene,+ID+83814,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x5361c68b010353f3:0xb1502ca23d3d6466?sa=X&ved=1t:57443&ictx=111
 M & M Court Reporting Services Inc|Coeur d'Alene, ID, Marekani · +1 800-879-1700|Idaho|http://www.mmcourt.com/
 Ron Fernicola & Associates|Coeur d'Alene, ID, Marekani · +1 661-775-8299|Idaho|http://www.rfa-reporters.com/
-None|None|Idaho|None
-None|None|Idaho|None
-None|None|Idaho|None
-None|None|Idaho|None
-None|None|Idaho|None
-None|None|Idaho|None
-None|None|Idaho|None
-no clickable element
 done!!
 State of Idaho data scraped successfully
 illinois official court reporters|Springfield, IL, Marekani · +1 217-557-0876|Illinois|https://www.ilcrs.com/
@@ -1049,23 +943,6 @@ Wimmel Reporting Services|+1 513-365-5825|Indiana|http://www.wimmelreporting.com
 College of Court Reporting Inc|Valparaiso, IN, Marekani · +1 866-294-3974|Indiana|http://www.ccr.edu/
 Callahan Reporting Inc|Fishers, IN, Marekani|Indiana|/maps/dir//Callahan+Reporting+Inc,+151+Sunblest+Blvd+S,+Fishers,+IN+46038,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8814b3a23f7a81a5:0x222ad68af76e513?sa=X&ved=1t:57443&ictx=111
 L & L Reporting Inc|Gary, IN, Marekani · +1 219-670-2238|Indiana|/maps/dir//L+%26+L+Reporting+Inc,+7801+Lake+Shore+Dr,+Gary,+IN+46403,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8811c0ecfc0af811:0xf54e3b272aecd3b1?sa=X&ved=1t:57443&ictx=111
-None|None|Indiana|None
-None|None|Indiana|None
-None|None|Indiana|None
-None|None|Indiana|None
-None|None|Indiana|None
-None|None|Indiana|None
-None|None|Indiana|None
-None|None|Indiana|None
-None|None|Indiana|None
-None|None|Indiana|None
-None|None|Indiana|None
-None|None|Indiana|None
-None|None|Indiana|None
-None|None|Indiana|None
-None|None|Indiana|None
-no clickable element
-done!!
 State of Indiana data scraped successfully
 Court Reporters of Iowa - Iowa City Iowa|Iowa City, IA, Marekani · +1 800-270-3376|Iowa|http://www.courtreportersofiowa.com/
 Court Reporters of Iowa - Des Moines|Des Moines, IA, Marekani · +1 800-270-3376|Iowa|http://www.courtreportersofiowa.com/
@@ -1106,10 +983,6 @@ Accurate Reporting, Inc.|Sergeant Bluff, IA, Marekani · +1 712-271-7111|Iowa|/m
 Legal conference|+1 319-382-8907|Iowa|None
 Accurate Reporting Service|Dubuque, IA, Marekani · +1 563-584-9673|Iowa|http://www.accuratereportingservice.com/
 Polk County Court Reporters|Des Moines, IA, Marekani · +1 515-286-3108|Iowa|/maps/dir//Polk+County+Court+Reporters,+500+Mulberry+St,+Des+Moines,+IA+50309,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87ee990024f82e55:0xfad5613e29ffaeb3?sa=X&ved=1t:57443&ictx=111
-None|None|Iowa|None
-None|None|Iowa|None
-None|None|Iowa|None
-no clickable element
 done!!
 State of Iowa data scraped successfully
 Metropolitan Court Reporters|Overland Park, KS, Marekani · +1 913-317-8800|Kansas|http://www.metropolitanreporters.com/
@@ -1170,12 +1043,6 @@ Joplin Court Reporting|Joplin, MO, Marekani · +1 479-273-9199|Kansas|/maps/dir/
 Kansas Legal Video|+1 800-528-3194|Kansas|https://midwestreporters.net/
 Kansas Association Of Court Services Officers|Kansas City, KS, Marekani · +1 913-573-8018|Kansas|http://kacso.net/
 None|None|Kansas|None
-None|None|Kansas|None
-None|None|Kansas|None
-None|None|Kansas|None
-None|None|Kansas|None
-None|None|Kansas|None
-None|None|Kansas|None
 no clickable element
 done!!
 State of Kansas data scraped successfully
@@ -1211,16 +1078,6 @@ An /Dor Reporting & Video Technologies Inc|Lexington, KY, Marekani · +1 859-254
 Chuppe Soergel & Abell LLC|Louisville, KY, Marekani · +1 502-459-4000|Kentucky|http://www.kydepo.net/
 Domanico Reporting Inc|+1 859-271-8593|Kentucky|None
 Laura L. Wagner, Court Reporter|+1 502-664-6677|Kentucky|https://laura-l-wagner-court-reporter.business.site/?utm_source=gmb&utm_medium=referral
-None|None|Kentucky|None
-None|None|Kentucky|None
-None|None|Kentucky|None
-None|None|Kentucky|None
-None|None|Kentucky|None
-None|None|Kentucky|None
-None|None|Kentucky|None
-None|None|Kentucky|None
-None|None|Kentucky|None
-None|None|Kentucky|None
 no clickable element
 done!!
 State of Kentucky data scraped successfully
@@ -1289,7 +1146,6 @@ Debbie Chaney G-Court Rep|Lafayette, LA, Marekani · +1 337-988-6039|Louisiana|h
 goDEPO Court Reporting & Legal Video|Alexandria, LA, Marekani · +1 318-357-9377|Louisiana|https://www.godepo.com/
 Kelly & Associates LLC|Jefferson, LA, Marekani · +1 504-891-6333|Louisiana|/maps/dir//Kelly+%26+Associates+LLC,+621+Dodge+Ave,+Jefferson,+LA+70121,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8620a436ffffffff:0x14e525b14c66eaf?sa=X&ved=1t:57443&ictx=111
 I have the html!!
-
 Vincent P Borrello Jr & Associates|Metairie, LA, Marekani · +1 504-391-9878|Louisiana|http://www.vincentborrello.com/
 Accu-Depo, LLC|+1 888-228-1370|Louisiana|http://accudepo.com/
 Rush Reporting, LLC|New Orleans, LA, Marekani · +1 504-833-7110|Louisiana|/maps/dir//Rush+Reporting,+LLC,+New+Orleans,+LA+70112,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8620a5e300000001:0x388d49c947532e86?sa=X&ved=1t:57443&ictx=111
@@ -1298,44 +1154,8 @@ Janet Parker Johns Pendleton|Baton Rouge, LA, Marekani · +1 225-344-4559|Louisi
 Provision Media Services, LLC|+1 504-715-3925|Louisiana|http://provisionmediaservices.com/
 Nicole Poirrier Court Reporting|Youngsville, LA, Marekani|Louisiana|/maps/dir//Nicole+Poirrier+Court+Reporting,+115+Weeks+Dr,+Youngsville,+LA+70592,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8623625426c983db:0x9da3cd8b223d516c?sa=X&ved=1t:57443&ictx=111
 Thorla Legal|Broussard, LA, Marekani · +1 337-371-9055|Louisiana|/maps/dir//Thorla+Legal,+406+Easy+Rock+Landing+Dr,+Broussard,+LA+70518,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x86237d3da7d3137b:0xa51bb7a2fc1cae29?sa=X&ved=1t:57443&ictx=111
-None|None|Louisiana|None
-None|None|Louisiana|None
-None|None|Louisiana|None
-None|None|Louisiana|None
-None|None|Louisiana|None
-None|None|Louisiana|None
-None|None|Louisiana|None
-None|None|Louisiana|None
-None|None|Louisiana|None
-None|None|Louisiana|None
-None|None|Louisiana|None
-None|None|Louisiana|None
-no clickable element
 done!!
 State of Louisiana data scraped successfully
-None|None|Maine|None
-None|None|Maine|None
-None|None|Maine|None
-None|None|Maine|None
-None|None|Maine|None
-None|None|Maine|None
-None|None|Maine|None
-None|None|Maine|None
-None|None|Maine|None
-None|None|Maine|None
-None|None|Maine|None
-None|None|Maine|None
-None|None|Maine|None
-None|None|Maine|None
-None|None|Maine|None
-None|None|Maine|None
-None|None|Maine|None
-None|None|Maine|None
-None|None|Maine|None
-None|None|Maine|None
-no clickable element
-done!!
-State of Maine data scraped successfully
 CRC Salomon Court Reporting|Pikesville, MD, Marekani · +1 410-821-4888|Maryland|http://www.crcsalomon.com/
 Court Reporters ETCetera, Inc.|Baltimore, MD, Marekani · +1 800-947-3376|Maryland|https://credepo.com/
 Capital Reporting Co|Baltimore, MD, Marekani · +1 410-685-3376|Maryland|https://www.capitalreportingcompany.com/
@@ -1372,81 +1192,6 @@ Bryan Wayne Court Reporter|Washington, DC, Marekani · +1 202-289-8464|Maryland|
 Court Reporter Washington DC|Washington, DC, Marekani · +1 202-436-9475|Maryland|http://courtreporter-washingtondc.com/
 Epiq|Rockville, MD, Marekani · +1 301-762-8282|Maryland|http://www.epiqglobal.com/
 Banks Sharon L Reporting|Brandywine, MD, Marekani · +1 301-372-6922|Maryland|/maps/dir//Banks+Sharon+L+Reporting,+3712+Danville+Rd,+Brandywine,+MD+20613,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89b7a4426c811b19:0x9acc1eaf466ab1a0?sa=X&ved=1t:57443&ictx=111
-None|None|Maryland|None
-None|None|Maryland|None
-None|None|Maryland|None
-None|None|Maryland|None
-None|None|Maryland|None
-None|None|Maryland|None
-no clickable element
-done!!
-State of Maryland data scraped successfully
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-I have the html!!
-
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-I have the html!!
-
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-None|None|Massachusetts|None
-no clickable element
-done!!
 State of Massachusetts data scraped successfully
 Newman Court Reporting|+1 248-417-5651|Michigan|http://www.newmancourtreporting.com/
 Lansing Court Reporting|+1 248-535-8227|Michigan|http://www.avrealtime.com/
@@ -1807,4 +1552,1057 @@ None|None|Nevada|None
 no clickable element
 done!!
 State of Nevada data scraped successfully
+Duffy & Mckenna Reporting|Bedford, NH, United States|New Hampshire|http://dmreporting.com/Manchester_NH_Court_Reporters.htm
+Avicore Reporting|Bedford, NH, United States|New Hampshire|http://www.avicorereporting.com/
+Connelly Reporting & Video|Manchester, NH, United States|New Hampshire|/maps/dir//Connelly+Reporting+%26+Video,+814+Elm+St+%23309,+Manchester,+NH+03101,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e24f27aff055f3:0x2f5fe731b1753ce5?sa=X&ved=1t:57443&ictx=111
+Jones & Fuller|Manchester, NH, United States|New Hampshire|http://www.jonesfuller.com/
+Amicus Court Reporting|Bedford, NH, United States|New Hampshire|http://amicuscourtreporting.com/
+Mekula Reporting Services|Northfield, NH, United States|New Hampshire|/maps/dir//Mekula+Reporting+Services,+23+Glines+Park+Rd,+Northfield,+NH+03276,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e20d01c70549f5:0x4dc61eab46e710ef?sa=X&ved=1t:57443&ictx=111
+Depositions Unlimited|Bedford, NH, United States|New Hampshire|/maps/dir//Depositions+Unlimited,+4+Hunters+Rd,+Bedford,+NH+03110,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e24aed6ef6cdfb:0xa4a4a02bcde03dbe?sa=X&ved=1t:57443&ictx=111
+Deposition Transcription Vrbtm|Weare, NH, United States|New Hampshire|/maps/dir//Deposition+Transcription+Vrbtm,+86+Peaslee+Hill+Rd,+Weare,+NH+03281,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e23a547e0398d3:0xec67bd3fae313c33?sa=X&ved=1t:57443&ictx=111
+Asap Transcription|Manchester, NH, United States|New Hampshire|/maps/dir//Asap+Transcription,+254+Brunelle+Ave,+Manchester,+NH+03103,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e24eec0e521359:0xb018847d03ea39b1?sa=X&ved=1t:57443&ictx=111
+None|None|New Hampshire|None
+None|None|New Hampshire|None
+None|None|New Hampshire|None
+None|None|New Hampshire|None
+None|None|New Hampshire|None
+None|None|New Hampshire|None
+None|None|New Hampshire|None
+None|None|New Hampshire|None
+None|None|New Hampshire|None
+None|None|New Hampshire|None
+None|None|New Hampshire|None
+no clickable element
+done!!
+State of New Hampshire data scraped successfully
+Kaplan Leaman & Wolfe Court Reporters|Marlton, NJ, United States|New Jersey|https://klwreporters.com/locations/new-jersey-court-reporters/
+Rizman Rappaport, LLC|Livingston, NJ, United States|New Jersey|http://www.rizmanrappaport.com/
+Hudson Court Reporting & Video Inc|Woodbridge, NJ, United States|New Jersey|https://www.hudsonreporting.com/?utm_source=google_my_business&utm_medium=new_jersey
+Varhley Vittor & Associates, LLC - Court Reporting|Somerset, NJ, United States|New Jersey|http://www.varhleyvittor.com/
+Veritext Legal Solutions|Livingston, NJ, United States|New Jersey|https://www.veritext.com/newjersey/
+Metropolitan Court Reporting Service, Inc.|Maywood, NJ, United States|New Jersey|https://www.metrocrs.com/contactus.cfm
+Burness Court Reporting, LLC|Bordentown, NJ, United States|New Jersey|http://burnesscourtreporting.com/
+Reporter's Ink Corporation|Hazlet, NJ, United States|New Jersey|http://www.reporters-ink.com/
+Jersey Shore Reporting, LLC|Wall Township, NJ, United States|New Jersey|http://www.jerseyshorereporting.com/
+Superior Court Reporters LLC|Little Falls, NJ, United States|New Jersey|/maps/dir//Superior+Court+Reporters+LLC,+36+Main+St,+Little+Falls,+NJ+07424,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c301dbc6481597:0x6411318581cc4d82?sa=X&ved=1t:57443&ictx=111
+Varhley Court Reporting|New Brunswick, NJ, United States|New Jersey|https://varhleyvittor.com/
+Renzi Legal Resources|Hamilton Township, NJ, United States|New Jersey|https://rlresources.com/
+Sentry Court Reporting|Cedar Knolls, NJ, United States|New Jersey|http://sentrycourtreporting.com/
+Bateman Reporting|Bellmawr, NJ, United States|New Jersey|http://www.batemanreporting.com/
+Quick Court Reporting, LLC|West Caldwell, NJ, United States|New Jersey|http://www.quickreporters.com/
+Ace Reporters, Inc.|Open 24 hours · +1 215-627-6701|New Jersey|http://www.acereporters.com/
+Campise Reporting Inc|Cinnaminson, NJ, United States|New Jersey|http://www.campise.com/
+American Court Reporters Inc|Somerset, NJ, United States|New Jersey|http://americancourtreporters.com/
+Trifecta Court Reporting|Open 24 hours · +1 215-853-6777|New Jersey|https://trifectacr.com/
+Vitale Reporting Service|Red Bank, NJ, United States|New Jersey|http://vitalereporting.com/
+I have the html!!
 
+Fitzsimmons Reporting & Videoconference Center|Livingston, NJ, United States|New Jersey|http://www.fitzsimmonsreporting.com/
+NYC court reporter|Fort Lee, NJ, United States|New Jersey|https://ww2.nycourts.gov/careers/courtreportertitles.shtml
+Veritext Legal Solutions|Cherry Hill, NJ, United States|New Jersey|https://www.veritext.com/
+DepoLink Court Reporting Services|Livingston, NJ, United States|New Jersey|http://www.depolinklegal.com/
+Schulman Wiegmann & Associates|Piscataway, NJ, United States|New Jersey|/maps/dir//Schulman+Wiegmann+%26+Associates,+216+Stelton+Rd+%23+C1,+Piscataway,+NJ+08854,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c3b8f43d71c949:0xdd874571d9ffeb63?sa=X&ved=1t:57443&ictx=111
+William C. O'Brien & Associates Inc|Kenilworth, NJ, United States|New Jersey|/maps/dir//William+C.+O%27Brien+%26+Associates+Inc,+525+Boulevard+Lower+Level,+Kenilworth,+NJ+07033,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c3b3fa73e54303:0x1352e986d7a67684?sa=X&ved=1t:57443&ictx=111
+Shute Certified Reporters|+1 856-401-2876|New Jersey|None
+Albanese & Associates|Toms River, NJ, United States|New Jersey|/maps/dir//Albanese+%26+Associates,+250+Washington+St+A,+Toms+River,+NJ+08753,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c19ddeb9b3df13:0xdafb11718ce23ae6?sa=X&ved=1t:57443&ictx=111
+Tate & Tate|Marlton, NJ, United States|New Jersey|http://www.tate-tate.com/
+State Shorthand Reporting Services|Oakhurst, NJ, United States|New Jersey|http://www.stateshorthand.com/
+J & J Court Transcribers|Hamilton Township, NJ, United States|New Jersey|http://www.jjcourt.com/
+Richard A. Merlino & Associates|Ewing Township, NJ, United States|New Jersey|/maps/dir//Richard+A.+Merlino+%26+Associates,+7+Montague+Ave,+Ewing+Township,+NJ+08628,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x24556cd90308172b:0x3e2f2d1a36d136a9?sa=X&ved=1t:57443&ictx=111
+Taylor & Friedberg|Morristown, NJ, United States|New Jersey|http://www.taylorfriedberg.com/
+Degnan & Bateman|Turnersville, NJ, United States|New Jersey|http://degnanandbateman.com/
+Paone & Associates|Denville, NJ, United States|New Jersey|http://www.paonereporting.com/
+Summit Court Reporting & Video|Hammonton, NJ, United States|New Jersey|/maps/dir//Summit+Court+Reporting+%26+Video,+424+Fleming+Pike,+Hammonton,+NJ+08037,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c129077831f7f9:0x5a85b61a20eaea09?sa=X&ved=1t:57443&ictx=111
+Shore Reporting Services, P.C.|Toms River, NJ, United States|New Jersey|/maps/dir//Shore+Reporting+Services,+P.C.,+29+Tobago+Ave,+Toms+River,+NJ+08753,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c19b8a58d7efc3:0xf424464f3191a13f?sa=X&ved=1t:57443&ictx=111
+Wyble Reporting, Inc.|Millville, NJ, United States|New Jersey|/maps/dir//Wyble+Reporting,+Inc.,+500+Fernwood+Rd,+Millville,+NJ+08332,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c7340eccdeaaab:0xe47d658c88a5ba13?sa=X&ved=1t:57443&ictx=111
+Superior Court Reporter|Camden, NJ, United States|New Jersey|https://www.njcourts.gov/attorneys/rules-of-court/court-reporters
+Sussman & Associates|Cedar Grove, NJ, United States|New Jersey|/maps/dir//Sussman+%26+Associates,+50+Beverly+Rd,+Cedar+Grove,+NJ+07009,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c3000e674101f5:0xa195099e7001dcb7?sa=X&ved=1t:57443&ictx=111
+I have the html!!
+
+Nexdep On-Demand Court Reporters|Open 24 hours · +1 800-757-2148|New Jersey|http://www.nexdep.com/
+CSR Associates Inc|Northfield, NJ, United States|New Jersey|http://csrcourtreporters.com/
+NJ Reporters & Interpreters, LLC|Hackensack, NJ, United States|New Jersey|https://www.njreporters.com/
+Brittany Transcription|Morristown, NJ, United States|New Jersey|http://brittanytranscription.com/
+Mastroianni & Formaroli Inc|Audubon, NJ, United States|New Jersey|http://www.mfreporting.com/
+Kaplan Leaman & Wolfe Court Reporters|New York, NY, United States|New Jersey|https://klwreporters.com/locations/new-york-court-reporters/
+Magna Legal Services|Edison, NJ, United States|New Jersey|https://magnals.com/
+Court Reporter|+1 484-264-7727|New Jersey|None
+Jung Court Reporting Services|Cinnaminson, NJ, United States|New Jersey|/maps/dir//Jung+Court+Reporting+Services,+702+Windsor+Dr,+Cinnaminson,+NJ+08077,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c6b56f6fa51007:0xdc786f5297372a00?sa=X&ved=1t:57443&ictx=111
+Court Reporter Depot|Harrison, NJ, United States|New Jersey|/maps/dir//Court+Reporter+Depot,+1+Cape+May+St,+Harrison,+NJ+07029,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c254755eab2cd3:0x866f69903f9d9cfc?sa=X&ved=1t:57443&ictx=111
+None|None|New Jersey|None
+None|None|New Jersey|None
+None|None|New Jersey|None
+None|None|New Jersey|None
+None|None|New Jersey|None
+None|None|New Jersey|None
+None|None|New Jersey|None
+None|None|New Jersey|None
+None|None|New Jersey|None
+None|None|New Jersey|None
+no clickable element
+done!!
+State of New Jersey data scraped successfully
+None|None|New York|None
+Kaplan Leaman & Wolfe Court Reporters|1412 Broadway #2100|New York|https://klwreporters.com/locations/new-york-court-reporters/
+MGR Reporting, Inc.|222 Broadway, 18th floor|New York|https://mgrreporting.com/
+Barkley Court Reporters|60 E 42nd St #4700|New York|https://barkley.com/
+Cindy Afanador Court Reporting|488 Madison Ave Fl 11|New York|http://www.cindycourtreporting.com/
+NAEGELI Deposition & Trial Court Reporters|1411 Broadway Suite 1600|New York|https://www.naegeliusa.com/locations/new-york-new-york
+Toby Feldman Inc. Court Reporting|3 Columbus Cir #1524|New York|http://tobyfeldman.com/
+Accelerated Court Reporting|Brooklyn, NY, United States|New York|http://acceleratedcourtreporting.com/
+New York City Court Reporting & Video|245 Park Ave|New York|/maps/dir//New+York+City+Court+Reporting+%26+Video,+245+Park+Ave,+New+York,+NY+10167,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c25909f0f95131:0x45bd6ffd62fb73b6?sa=X&ved=1t:57443&ictx=111
+Planet Depos|77 Water St #800|New York|https://www.planetdepos.com/
+Diamond Reporting Inc|Brooklyn, NY, United States|New York|https://www.veritext.com/diamondreporting/
+Esquire Deposition Solutions, LLC - Mid-Town East|228 E 45th St 8th Floor|New York|https://www.esquiresolutions.com/?utm_medium=yext&utm_source=gmb&y_source=1_OTI0MzU3MTgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+Tri Star Court Reporting|501 5th Ave|New York|http://www.tristarreporting.com/
+Worldwide Court Reporting|450 W 17th St|New York|http://worldwidecourtreporting.com/
+Bursner & Associates Court Reporting|1431 Broadway|New York|http://bursnercourtreporting.com/
+Lex Reporting Service|160 Broadway|New York|http://www.lexreporting.com/
+Nexdep On-Demand Court Reporters|Open 24 hours · +1 800-757-2148|New York|http://www.nexdep.com/
+Capital Reporting Company|708 Third St.|New York|/maps/dir//Capital+Reporting+Company,+708+Third+St.,+New+York,+NY+10017,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c259029328d09d:0x3e3f93a8d3f4673e?sa=X&ved=1t:57443&ictx=111
+U.S. Legal Support Court Reporting Services|89-0 Sutphin Blvd #307|New York|https://www.uslegalsupport.com/court-reporting-services-jamaica/?utm_source=GMBlisting&utm_medium=organic
+Reporters Central|363 7th Ave|New York|http://reporterscentralllc.com/
+I have the html!!
+
+None|None|New York|None
+TSG Reporting|228 E 45th St Suite 810|New York|https://www.tsgreporting.com/
+Veritext Legal Solutions|7 Times Sq # 1604|New York|https://www.veritext.com/newyork/
+Pixel Court Reporting, LLC|233 Broadway # 2700|New York|http://pixelreporting.com/
+Apex Court Reporting & Legal Support Services|350 5th Ave|New York|http://www.apexcourtreportingny.com/
+DALCO Reporting, Inc.|280 Madison Ave #908|New York|http://www.dalcoreporting.com/
+Hall of Fame Deposition Services, Inc.|303 E 37th St # 2m|New York|http://www.hofdepos.com/
+Pirozzi & Hillman|Burlington House, 1345 6th Ave 2nd Flr|New York|http://www.pirozzireporting.com/
+Lexitas Court Reporting|Brooklyn, NY, United States|New York|/maps/dir//Lexitas+Court+Reporting,+26+Court+St,+Brooklyn,+NY+11242,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c25a4917ad2225:0xd161e3075528ef80?sa=X&ved=1t:57443&ictx=111
+Jane Rose Reporting|74 5th Ave|New York|https://www.janerosereporting.com/
+Southern District Reporters Pc|500 Pearl St # 8|New York|https://www.sdreporters.com/
+Barrister Reporting Service (Bronx)|Bronx, NY, United States|New York|http://www.brsnyc.com/
+All-Star Reporting|Floral Park, NY, United States|New York|https://www.allstarreporters.com/
+Greenhouse Reporting|236 W 30th St f5|New York|http://www.greenhousereporting.com/
+Barrister Reporting Service|188 Montague St # 402|New York|http://www.brsnyc.com/
+Realtime Advantage, LLC|2 Park Ave 20th floor|New York|https://www.realtimeadvantage.com/
+TGS Reporting|747 3rd Ave|New York|/maps/dir//TGS+Reporting,+747+3rd+Ave,+New+York,+NY+10017,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c25902a7f5e6b1:0x20849187c5f6604f?sa=X&ved=1t:57443&ictx=111
+Lex Reporting Service|Bronx, NY, United States|New York|http://lexreporting.com/
+Diamond Reporting Inc|Jamaica, NY, United States|New York|https://www.veritext.com/diamondreporting/
+Hudson Court Reporting & Video Inc| · +1 212-273-9911|New York|https://www.hudsonreporting.com/?utm_source=google_my_business&utm_medium=new_york
+I have the html!!
+
+None|None|New York|None
+Atkinson-Baker|641 Lexington Ave #14th|New York|https://www.depo.com/
+Arista Court Reporting|192 Lexington Ave #1004|New York|/maps/dir//Arista+Court+Reporting,+192+Lexington+Ave+%231004,+New+York,+NY+10016,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c25907d860d69d:0x8c60bab82759b712?sa=X&ved=1t:57443&ictx=111
+The Little Reporting Company|330 W 38th St #404|New York|http://littlecourtreporting.com/
+NYC court reporter|Fort Lee, NJ, United States|New York|https://ww2.nycourts.gov/careers/courtreportertitles.shtml
+Cross County Reporting|Flushing, NY, United States|New York|https://crosscountyreporting.com/
+Olender Reporting Inc.|260 Madison Ave|New York|http://olenderreporting.com/
+U.S. Legal Support|Brooklyn, NY, United States|New York|https://www.uslegalsupport.com/
+Veritext Legal Solutions|Bronx, NY, United States|New York|https://www.veritext.com/
+North Shore Court Reporters|Manhasset, NY, United States|New York|http://www.northshorecourtreporters.com/
+Elisa Dreier Reporting Corp.|950 3rd Ave|New York|/maps/dir//Elisa+Dreier+Reporting+Corp.,+950+3rd+Ave,+New+York,+NY+10022,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c258e45456c4d5:0x76f7d1ea41399cf2?sa=X&ved=1t:57443&ictx=111
+Lexitas Court Reporting|880 River Ave|New York|/maps/dir//Lexitas+Court+Reporting,+880+River+Ave,+Bronx,+NY+10452,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c2f6a2fab168bf:0xd558f9495c3ceb8f?sa=X&ved=1t:57443&ictx=111
+Barrister Reporting Service|80 Broad St|New York|http://www.brsnyc.com/
+Veritext Legal Solutions|Jamaica, NY, United States|New York|https://www.veritext.com/
+Veritext Legal Solutions|16 Court St Suite 907|New York|https://www.veritext.com/
+Reinig Reporting Inc|192 Lexington Ave #1004|New York|https://reinigreporting.com/
+DALCO Reporting, Inc.|Bronx, NY, United States|New York|http://dalcoreporting.com/
+Reporting USA|55 Broadway #304|New York|http://www.reportingusa.com/
+Alliance Reporting Services Inc|Brooklyn, NY, United States|New York|http://www.alliancereporting.com/
+Excel Reporting, Inc.|+1 516-596-1109|New York|http://www.excelcourtreporters.com/
+I have the html!!
+
+None|None|New York|None
+Magna Legal Services (New York)|320 W 37th St f12|New York|https://magnals.com/office-locations/new-york/
+Winter Reporting, Inc.|1 Whitehall St|New York|http://winterreporting.com/
+AMG Reporting|314 W 105th St|New York|/maps/dir//AMG+Reporting,+314+W+105th+St,+New+York,+NY+10025,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c2f6256b95aaab:0x928f628d5e33c2e2?sa=X&ved=1t:57443&ictx=111
+None|None|New York|None
+None|None|New York|None
+None|None|New York|None
+None|None|New York|None
+None|None|New York|None
+None|None|New York|None
+None|None|New York|None
+None|None|New York|None
+None|None|New York|None
+None|None|New York|None
+None|None|New York|None
+None|None|New York|None
+None|None|New York|None
+None|None|New York|None
+None|None|New York|None
+None|None|New York|None
+no clickable element
+done!!
+State of New York data scraped successfully
+NC Court Reporting|Greenville, NC, United States|North Carolina|http://nccourtreporting.com/
+Charlotte Court Reporters|Charlotte, NC, United States|North Carolina|/maps/dir//Charlotte+Court+Reporters,+800+E+4th+St,+Charlotte,+NC+28202,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8856a020c097181d:0x974c848203268b7?sa=X&ved=1t:57443&ictx=111
+Pace Reporting Services|Raleigh, NC, United States|North Carolina|https://www.pacereporting.com/
+Greater Raleigh Court Reporting|Raleigh, NC, United States|North Carolina|http://www.raleighcourtreporter.com/
+Queen City Court Reporting|Charlotte, NC, United States|North Carolina|https://queencitycourtreporting.com/
+Overby Court Reporting Services|Charlotte, NC, United States|North Carolina|http://www.overbycourtreporting.com/
+Durham Court Reporting|Durham, NC, United States|North Carolina|http://www.durhamcourtreporting.com/
+Greensboro Court Reporting|Greensboro, NC, United States|North Carolina|http://www.greensborocourtreporting.com/
+Worley Reporting|Raleigh, NC, United States|North Carolina|http://www.worleyreporting.com/
+Overby Court Reporting Services|Rocky Mount, NC, United States|North Carolina|http://www.overbycourtreporting.com/
+Atlantic Professional Reporters|Lewisville, NC, United States|North Carolina|http://atlanticreporters.com/
+Overby Court Reporting Services|Greensboro, NC, United States|North Carolina|http://www.overbycourtreporting.com/
+Overby Court Reporting Services|Fayetteville, NC, United States|North Carolina|http://www.overbycourtreporting.com/
+Asheville Reporting Service|Asheville, NC, United States|North Carolina|http://www.ashevillereporting.com/
+Huseby Inc. Litigation Services|Charlotte, NC, United States|North Carolina|http://www.huseby.com/
+Westmoreland Reporting, Inc.|Charlotte, NC, United States|North Carolina|http://westmorelandreporting.com/
+NC Court Reporter|Wilmington, NC, United States|North Carolina|http://www.courtreporternc.com/
+Overby Court Reporting Services|Wilmington, NC, United States|North Carolina|http://www.overbycourtreporting.com/
+Chapel Hill Court Reporting|Chapel Hill, NC, United States|North Carolina|https://chapelhillcourtreporter.com/
+CaseWorks Court Reporting|Raleigh, NC, United States|North Carolina|/maps/dir//CaseWorks+Court+Reporting,+3739+National+Dr+%23200,+Raleigh,+NC+27612,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89acf653ffffffff:0x3707dad8e22ace66?sa=X&ved=1t:57443&ictx=111
+I have the html!!
+
+Cain & Crane Court Reporters|Mint Hill, NC, United States|North Carolina|http://cainandcrane.com/
+Chapel Hill Reporting, LLC - Court Reporters|Raleigh, NC, United States|North Carolina|/maps/dir//Chapel+Hill+Reporting,+LLC+-+Court+Reporters,+4801+Glenwood+Ave,+Raleigh,+NC+27612,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89acf42a60d44f85:0xc8893466f68196a9?sa=X&ved=1t:57443&ictx=111
+Overby Court Reporting|Burlington, NC, United States|North Carolina|http://www.overbycourtreporting.com/
+Olender Reporting, Inc.|Charlotte, NC, United States|North Carolina|http://olenderreporting.com/
+Chapel Hill Reporting, LLC - Court Reporters|Durham, NC, United States|North Carolina|/maps/dir//Chapel+Hill+Reporting,+LLC+-+Court+Reporters,+2608+Erwin+Rd,+Durham,+NC+27705,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89ace6b36904b0b9:0xf3fb7f3ac2837dcd?sa=X&ved=1t:57443&ictx=111
+CaseWorks Court Reporting|Durham, NC, United States|North Carolina|/maps/dir//CaseWorks+Court+Reporting,+811+9th+St+%23260,+Durham,+NC+27705,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89acefd71d89a343:0x654de1a5da49cecf?sa=X&ved=1t:57443&ictx=111
+Chapel Hill Reporting, LLC - Court Reporters|Chapel Hill, NC, United States|North Carolina|/maps/dir//Chapel+Hill+Reporting,+LLC+-+Court+Reporters,+20000+Fountain,+Chapel+Hill,+NC+27517,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89acc206809248e7:0x8c1e9a1530fe2e45?sa=X&ved=1t:57443&ictx=111
+Starkings Court Reporting Services|Fayetteville, NC, United States|North Carolina|http://www.starkingsreporting.com/
+Bodenheimer Verbatim Reporting|Elon, NC, United States|North Carolina|https://www.bodenheimerreporting.com/
+Cape Fear Court Reporting, Inc|Wilmington, NC, United States|North Carolina|http://www.capefearcourtreporting.com/
+Clark Bolen Court Reporting & Video Conferencing|Charlotte, NC, United States|North Carolina|http://www.clarkbolen.com/
+Chaplin & Associates|Mooresville, NC, United States|North Carolina|https://www.chaplinandassociates.com/
+Huseby Inc. Litigation Services|Asheville, NC, United States|North Carolina|http://www.huseby.com/
+Noteworthy Reporting Services LLC|Raleigh, NC, United States|North Carolina|http://noteworthyreporting.com/home/
+Depositions, Inc. - Production & Billing|Fuquay-Varina, NC, United States|North Carolina|https://www.ncdepo.com/
+Pittman Stenography| · +1 919-931-6222|North Carolina|http://www.pittmanstenography.com/
+B Jordan Court Reporting|Chapel Hill, NC, United States|North Carolina|/maps/dir//B+Jordan+Court+Reporting,+201+Ferguson+Rd,+Chapel+Hill,+NC+27516,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89acc4367aafaa97:0xe87a22c80ec43101?sa=X&ved=1t:57443&ictx=111
+Ruffin Consulting, Inc. - Raleigh|Raleigh, NC, United States|North Carolina|http://www.ruffinconsulting.com/
+Gray Court Reporting|Rolesville, NC, United States|North Carolina|/maps/dir//Gray+Court+Reporting,+217+Teresa+Dr,+Rolesville,+NC+27571,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89ac4e3a45fc6a2b:0x27c3f4f6ab45e93f?sa=X&ved=1t:57443&ictx=111
+CaseWorks Court Reporting|Chapel Hill, NC, United States|North Carolina|/maps/dir//CaseWorks+Court+Reporting,+1340+Environ+Way,+Chapel+Hill,+NC+27517,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89acc29e5f8546ab:0x3d3ddf66999c32f9?sa=X&ved=1t:57443&ictx=111
+I have the html!!
+
+Associated Reporters International Inc.|Franklinton, NC, United States|North Carolina|https://courtsteno.com/
+AWR Court Reporting|Charlotte, NC, United States|North Carolina|https://scheduledepo.com/locations/charlotte-nc/
+Bryant Court Reporting Services Inc|Chapel Hill, NC, United States|North Carolina|/maps/dir//Bryant+Court+Reporting+Services+Inc,+5217+Big+Woods+Rd,+Chapel+Hill,+NC+27517,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89acc118b8fa0a8d:0x2e07f5d162123061?sa=X&ved=1t:57443&ictx=111
+Charlotte Court Reporting|Kannapolis, NC, United States|North Carolina|/maps/dir//Charlotte+Court+Reporting,+280+S+Main+St,+Kannapolis,+NC+28081,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8854089b458bbdb3:0xbd57ca08b3ae4289?sa=X&ved=1t:57443&ictx=111
+Civil Court Reporting, LLC| · +1 336-406-7684|North Carolina|http://civilcourtreporting.com/
+CaseWorks Court Reporting - Charlotte|Charlotte, NC, United States|North Carolina|/maps/dir//CaseWorks+Court+Reporting+-+Charlotte,+6000+Fairview+Rd+%231273,+Charlotte,+NC+28210,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8856992eaaaaaaab:0xe0a691a3a8fcfc21?sa=X&ved=1t:57443&ictx=111
+Worley Reporting| · +1 919-870-8070|North Carolina|http://www.worleyreporting.com/charlotte-nc-court-reporting
+Overby Reporting Services Inc|Greenville, NC, United States|North Carolina|https://www.overbycourtreporting.com/
+Aurelia Ruffin & Associates, Inc.|Wilmington, NC, United States|North Carolina|http://www.peterruffin.com/
+Depositions, Inc.|Raleigh, NC, United States|North Carolina|https://www.ncdepo.com/
+CaseWorks Court Reporting - Wilmington|Wilmington, NC, United States|North Carolina|/maps/dir//CaseWorks+Court+Reporting+-+Wilmington,+1213+Culbreth+Dr,+Wilmington,+NC+28405,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89a9f35d65d80d55:0x44fb0fb58db918f9?sa=X&ved=1t:57443&ictx=111
+Depositions, Inc. - Greenville North|Greenville, NC, United States|North Carolina|https://www.ncdepo.com/
+Depositions, Inc. - Raleigh|Raleigh, NC, United States|North Carolina|https://www.ncdepo.com/
+Signwrite Reporting Services|Blowing Rock, NC, United States|North Carolina|/maps/dir//Signwrite+Reporting+Services,+309+Sorrento+Knoll+Dr,+Blowing+Rock,+NC+28605,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8850fb19f052b55b:0x6b6c4d8f98985c98?sa=X&ved=1t:57443&ictx=111
+CaseWorks|Winston-Salem, NC, United States|North Carolina|/maps/dir//CaseWorks,+1540+Westbrook+Plaza+Dr+%23102,+Winston-Salem,+NC+27103,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8853b05c23b505e7:0xbbbac7d30a40d9f6?sa=X&ved=1t:57443&ictx=111
+Depositions, Inc. - Fayetteville|Fayetteville, NC, United States|North Carolina|https://www.ncdepo.com/
+CaseWorks|Asheville, NC, United States|North Carolina|/maps/dir//CaseWorks,+28+Schenck+Pkwy+%23200,+Asheville,+NC+28803,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8859ed36e7a77945:0xc3d88188540eeeff?sa=X&ved=1t:57443&ictx=111
+Depositions, Inc. - Kinston|Kinston, NC, United States|North Carolina|https://www.ncdepo.com/
+Depositions, Inc. - Durham|Durham, NC, United States|North Carolina|https://www.ncdepo.com/
+Creel Court Reporting|Charlotte, NC, United States|North Carolina|/maps/dir//Creel+Court+Reporting,+6837+Ronda+Ave,+Charlotte,+NC+28211,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8854211df0182bed:0xa74a24a7cd9876d8?sa=X&ved=1t:57443&ictx=111
+I have the html!!
+
+Depositions, Inc. - Winston Salem South|Winston-Salem, NC, United States|North Carolina|https://www.ncdepo.com/
+Legal Media Experts - Durham|Durham, NC, United States|North Carolina|http://www.legalmediaexperts.com/index.html
+Depositions, Inc. - Charlotte|Charlotte, NC, United States|North Carolina|https://www.ncdepo.com/
+Depositions, Inc. - Havelock|Newport, NC, United States|North Carolina|https://www.ncdepo.com/
+Depositions, Inc. - Winston-Salem|Winston-Salem, NC, United States|North Carolina|http://www.ncdepo.com/
+Depositions, Inc. - Charlotte|Charlotte, NC, United States|North Carolina|https://www.ncdepo.com/
+Depositions, Inc.|Greensboro, NC, United States|North Carolina|https://www.ncdepo.com/
+Depositions, Inc. - Jacksonville|Jacksonville, NC, United States|North Carolina|https://www.ncdepo.com/
+Court Reporters|Hillsborough, NC, United States|North Carolina|/maps/dir//Court+Reporters,+Orange+County+Courthouse,+Hillsborough,+NC+27278,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89acdf2f6b5eec9f:0x9ce3c638f00bb795?sa=X&ved=1t:57443&ictx=111
+Depositions, Inc. - Wilmington|Wilmington, NC, United States|North Carolina|https://www.ncdepo.com/
+Huseby Inc. Litigation Services|Raleigh, NC, United States|North Carolina|http://www.huseby.com/
+AWR Court Reporting|Charlotte, NC, United States|North Carolina|https://scheduledepo.com/locations/charlotte-nc/
+None|None|North Carolina|None
+None|None|North Carolina|None
+None|None|North Carolina|None
+None|None|North Carolina|None
+None|None|North Carolina|None
+None|None|North Carolina|None
+None|None|North Carolina|None
+None|None|North Carolina|None
+no clickable element
+done!!
+State of North Carolina data scraped successfully
+Johnson Court Reporter Services|Grand Forks, ND, United States|North Dakota|/maps/dir//Johnson+Court+Reporter+Services,+2100+S+Columbia+Rd+%23204,+Grand+Forks,+ND+58201,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x52c680cc6403da21:0x490fc3d0cd8bd454?sa=X&ved=1t:57443&ictx=111
+E Mark Norman Court Reporter|Fargo, ND, United States|North Dakota|http://normanemark.com/
+Emineth & Associates|Minot, ND, United States|North Dakota|https://www.emineth.com/
+Emineth & Associates|Bismarck, ND, United States|North Dakota|https://www.emineth.com/
+CATS Court Reporting Service, Inc.|Fargo, ND, United States|North Dakota|http://www.catsreporting.com/
+Lori Hauge Court Reporter|Williston, ND, United States|North Dakota|/maps/dir//Lori+Hauge+Court+Reporter,+2218+7th+Ave+E,+Williston,+ND+58801,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x53215cb12f64cb69:0x976d18cd3d1cb99b?sa=X&ved=1t:57443&ictx=111
+Worldwide Litigation Services|Fargo, ND, United States|North Dakota|http://www.worldwidelit.com/
+None|None|North Dakota|None
+None|None|North Dakota|None
+None|None|North Dakota|None
+None|None|North Dakota|None
+None|None|North Dakota|None
+None|None|North Dakota|None
+None|None|North Dakota|None
+None|None|North Dakota|None
+None|None|North Dakota|None
+None|None|North Dakota|None
+None|None|North Dakota|None
+None|None|North Dakota|None
+None|None|North Dakota|None
+no clickable element
+done!!
+State of North Dakota data scraped successfully
+Cleveland Reporting Partners, LLC|Cleveland, OH, United States|Ohio|https://clereporting.com/
+Blair Reporting Services|+1 937-865-4992|Ohio|https://www.blairreporting.com/
+PRI Court Reporting, LLC|Columbus, OH, United States|Ohio|http://www.priohio.com/
+Ohio Court Reporters Association|Columbus, OH, United States|Ohio|http://www.ocraonline.com/aws/OCRA/pt/sp/contact
+Drown Stenography| · +1 419-680-2020|Ohio|http://www.drownsteno.com/
+Jackson-Whitney Reporting LLC|Franklin, OH, United States|Ohio|http://www.jackson-whitney.com/
+Court Reporters, Inc.|Canton, OH, United States|Ohio|http://www.courtreportersinc.com/
+Court Reporters, Inc.|Cleveland, OH, United States|Ohio|http://www.courtreportersinc.com/
+Spectrum Reporting LLC|Columbus, OH, United States|Ohio|http://www.spectrumreporting.com/
+Anderson Reporting Services Inc|Columbus, OH, United States|Ohio|https://andersonreporting.com/
+Ware Reporting Service, LLC|Rocky River, OH, United States|Ohio|https://www.warereportingservice.com/
+Medina Court Reporters, Inc.|Medina, OH, United States|Ohio|/maps/dir//Medina+Court+Reporters,+Inc.,+209+N+Broadway+St,+Medina,+OH+44256,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8830c967a2bbecd9:0x1bf756ab05e3736?sa=X&ved=1t:57443&ictx=111
+Toledo Court Reporter – Lori Wozniak|Toledo, OH, United States|Ohio|http://toledocourtreporter.com/
+Higgins & Associates Court Reporters|Columbus, OH, United States|Ohio|http://www.higginscourtreporting.com/
+Beres & Associates Court Reporters, LLC| · +1 615-742-2550|Ohio|https://beresandassociates.com/
+Premier Court Reporting|Canton, OH, United States|Ohio|http://www.premierreporters.com/
+Genovese & Reno Reporting Services, LLC|Toledo, OH, United States|Ohio|https://genovesereno.com/
+Jarrett Kuebler Court Reporting|Beachwood, OH, United States|Ohio|http://jarkub.com/
+Associated Court Reporting Inc.|Akron, OH, United States|Ohio|http://www.associatedcourtreporting.com/
+Veritext Legal Solutions|Cleveland, OH, United States|Ohio|https://www.veritext.com/cleveland/
+I have the html!!
+
+Collins Reporting Service, Inc.|Toledo, OH, United States|Ohio|http://www.collinsreporting.com/
+Mike Mobley Reporting|Columbus, OH, United States|Ohio|/maps/dir//Mike+Mobley+Reporting,+4200+Regent+St+%23200,+Columbus,+OH+43219,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x883889f787e0ca33:0x3b5d1969f5e9b75f?sa=X&ved=1t:57443&ictx=111
+Mike Mobley Reporting|Columbus, OH, United States|Ohio|/maps/dir//Mike+Mobley+Reporting,+41+S+High+St+%23210,+Columbus,+OH+43215,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88388f735b7dc235:0x4522b176f283dd03?sa=X&ved=1t:57443&ictx=111
+Court Reporters Inc|Akron, OH, United States|Ohio|http://www.courtreportersinc.com/
+Midwest Reporting Service|+1 419-394-7339|Ohio|http://midwestreportingservice.com/
+Armstrong & Okey Inc.|Columbus, OH, United States|Ohio|https://www.aando.com/
+Mike Mobley Reporting|Dayton, OH, United States|Ohio|/maps/dir//Mike+Mobley+Reporting,+334+S+Main+St,+Dayton,+OH+45402,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88408154b79b215b:0x7329b1ee440421e7?sa=X&ved=1t:57443&ictx=111
+Northern Kentucky Court Reporters|Cincinnati, OH, United States|Ohio|http://northern-kentucky-court-reporters.com/
+Glass City Reporting, LLC|Toledo, OH, United States|Ohio|/maps/dir//Glass+City+Reporting,+LLC,+405+Madison+Ave+%23930,+Toledo,+OH+43604,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x883b86cee20357e5:0xd472dfa85106f5f9?sa=X&ved=1t:57443&ictx=111
+Marlene Lewis & Associate Reporters| · +1 419-929-0505|Ohio|None
+DCR Denmark Court Reporting Agency, LLC| · +1 513-873-8095|Ohio|http://dcr-denmark-court-reporting-agency-llc.business.site/
+Mike Mobley Reporting|Cincinnati, OH, United States|Ohio|https://www.mobleyreporting.com/cincinnati-court-reporter/
+Southern Ohio Reporting, LLC|Wheelersburg, OH, United States|Ohio|/maps/dir//Southern+Ohio+Reporting,+LLC,+1048+Van+Dyke+Ave,+Wheelersburg,+OH+45694,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88466114997a8dcf:0xb8bff9cbe4825722?sa=X&ved=1t:57443&ictx=111
+Tackla & Associates|Cleveland, OH, United States|Ohio|http://www.tacklacourtreporting.com/
+Huntley Reporting Services|Sandusky, OH, United States|Ohio|http://www.huntleyreporting.com/
+Fitch Reporting Inc|West Chester Township, OH, United States|Ohio|https://fitchreportinginc.com/
+Frank Versagi Court Reporters|North Olmsted, OH, United States|Ohio|http://www.versagicourtreporters.com/
+Classic Reporting Services|Toledo, OH, United States|Ohio|/maps/dir//Classic+Reporting+Services,+420+Madison+Ave+%23+1200,+Toledo,+OH+43604,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x883b86cee8c9fec3:0x76f4e8bbe660f0f9?sa=X&ved=1t:57443&ictx=111
+Runfola Reporters|Columbus, OH, United States|Ohio|https://www.runfola.com/
+Fincun-Mancini Court Reporters|Cleveland, OH, United States|Ohio|http://fincunmancini.com/
+I have the html!!
+
+Mike Mobley Reporting|Columbus, OH, United States|Ohio|/maps/dir//Mike+Mobley+Reporting,+200+E+Campus+View+Blvd+STE+200,+Columbus,+OH+43235,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8838f36a14742a55:0xc9ae17d68ecb0732?sa=X&ved=1t:57443&ictx=111
+Molnar Reporting Services, LLC|Avon Lake, OH, United States|Ohio|/maps/dir//Molnar+Reporting+Services,+LLC,+605+Arborside+Ln,+Avon+Lake,+OH+44012,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88308e239827ff9b:0xbd3721eb87c3c573?sa=X&ved=1t:57443&ictx=111
+Verbatim Reporting and Transcription Services| · +1 812-363-2614|Ohio|None
+Britton & Associates|Dayton, OH, United States|Ohio|http://www.brittoncourtreporters.com/
+Munguia Court Reporting & Captioning, LLC|+1 440-345-6820|Ohio|https://munguiareporting.com/
+Nagy-Baker Court Reporting & Video Conferencing|Youngstown, OH, United States|Ohio|http://www.nagybaker.com/
+Charlene E Nicholas & Associates|Clayton, OH, United States|Ohio|http://www.charlenenicholascourtreporting.com/
+Worldwide Court Reporting|Columbus, OH, United States|Ohio|http://worldwidecourtreporting.com/
+Elite Reporting Agency LLC|Cincinnati, OH, United States|Ohio|http://www.elitereportingagency.com/
+Thornsberry Reporting|Columbus, OH, United States|Ohio|http://www.thornsberryreporting.com/
+AceMerit Court Reporters|Cincinnati, OH, United States|Ohio|http://www.acemerit.com/
+Hall Court Reporting| · +1 304-295-4908|Ohio|None
+A & A Reporting & Transcription Services|Youngstown, OH, United States|Ohio|https://aareporting.com/
+Thornsberry Reporting|Columbus, OH, United States|Ohio|http://www.thornsberryreporting.com/
+Accuscript Reporting|Blue Ash, OH, United States|Ohio|/maps/dir//Accuscript+Reporting,+10979+Reed+Hartman+Hwy,+Blue+Ash,+OH+45242,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x884053dec9075f03:0xae3a7ed73739e967?sa=X&ved=1t:57443&ictx=111
+National Court Reporters Inc|Middleburg Heights, OH, United States|Ohio|https://nationalcourtreporters.com/
+Giglio Reporting Services|Cincinnati, OH, United States|Ohio|/maps/dir//Giglio+Reporting+Services,+3+Cypress+Garden+St,+Cincinnati,+OH+45220,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8841b37e855a789d:0xdd997a35b2351ff?sa=X&ved=1t:57443&ictx=111
+Ohio Court Reporters Association|+1 614-300-0906|Ohio|http://ocraonline.com/
+Stark County Court Reporters|Canton, OH, United States|Ohio|https://www.starkcountyohio.gov/government/legal___judicial/court_of_common_pleas/services/court_reporters.php
+King & Melton Court Reporters|Painesville, OH, United States|Ohio|/maps/dir//King+%26+Melton+Court+Reporters,+11668+Girdled+Rd,+Painesville,+OH+44077,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8831a16561c1e281:0xfb1b1bcd58db7278?sa=X&ved=1t:57443&ictx=111
+I have the html!!
+
+Advanced Court Reporting|Akron, OH, United States|Ohio|/maps/dir//Advanced+Court+Reporting,+12+E+Exchange+St+%232nd,+Akron,+OH+44311,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8830d623aaaaaaab:0xe0d0fb3575d0e5e6?sa=X&ved=1t:57443&ictx=111
+Mike Mobley Reporting|Cincinnati, OH, United States|Ohio|http://www.mobleyreporting.com/
+Mahoning County Court Reporters|Youngstown, OH, United States|Ohio|http://www.mahoningcountyoh.gov/
+Queen City Court Reporting|Amelia, OH, United States|Ohio|/maps/dir//Queen+City+Court+Reporting,+1216+Harthill,+Amelia,+OH+45102,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8841074e95fd9691:0xd204334316dc9152?sa=X&ved=1t:57443&ictx=111
+None|None|Ohio|None
+None|None|Ohio|None
+None|None|Ohio|None
+None|None|Ohio|None
+None|None|Ohio|None
+None|None|Ohio|None
+None|None|Ohio|None
+None|None|Ohio|None
+None|None|Ohio|None
+None|None|Ohio|None
+None|None|Ohio|None
+None|None|Ohio|None
+None|None|Ohio|None
+None|None|Ohio|None
+None|None|Ohio|None
+None|None|Ohio|None
+no clickable element
+done!!
+State of Ohio data scraped successfully
+Dodson Court Reporting Inc|Oklahoma City, OK, United States|Oklahoma|http://www.dodsonreporting.net/
+D & R Reporting & Video, Inc. | Court Reporting Services|Oklahoma City, OK, United States|Oklahoma|http://www.drreporting.com/
+Professional Reporters|Oklahoma City, OK, United States|Oklahoma|http://proreporters.com/
+Oklahoma College-Court Reprtng|Oklahoma City, OK, United States|Oklahoma|https://courtreportingcollege.com/
+Oklahoma Court Reporting & Deposition Services|Oklahoma City, OK, United States|Oklahoma|/maps/dir//Oklahoma+Court+Reporting+%26+Deposition+Services,+Oklahoma+City,+OK+73102,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87b217e8ca77e81f:0xffca7afb36a3f722?sa=X&ved=1t:57443&ictx=111
+City Reporters|Oklahoma City, OK, United States|Oklahoma|http://www.okcityreporters.com/
+Verbatim Reporting, LLC|Oklahoma City, OK, United States|Oklahoma|http://www.verbatimreportingokc.com/
+Oklahoma Reporting Services, LLC|Oklahoma City, OK, United States|Oklahoma|http://oklareporting.reporterbase.com/contact
+Steno Services, LLC|Oklahoma City, OK, United States|Oklahoma|/maps/dir//Steno+Services,+LLC,+620+N+Robinson+Ave+%23+202,+Oklahoma+City,+OK+73102,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87b21728b34e454f:0x4af783b279ee6861?sa=X&ved=1t:57443&ictx=111
+Executive Shorthand Reporters of OK|Oklahoma City, OK, United States|Oklahoma|https://executiveofok.com/
+Raydon Reporting|Oklahoma City, OK, United States|Oklahoma|https://raydonreporting.business.site/?utm_source=gmb&utm_medium=referral
+Word for Word Reporting|Oklahoma City, OK, United States|Oklahoma|http://w4wreporting.com/
+Steve Meador & Associates|Oklahoma City, OK, United States|Oklahoma|http://www.stevemeador.com/
+Legalese Reporting Services|Oklahoma City, OK, United States|Oklahoma|https://legalesereporting.com/
+Lowery & Associates Inc|Oklahoma City, OK, United States|Oklahoma|http://loweryreporters.com/
+InstaScript|Oklahoma City, OK, United States|Oklahoma|http://www.instascript.net/
+Ballard Reporting| · +1 918-407-2278|Oklahoma|None
+Oklahoma College-Court Reprtng|Oklahoma City, OK, United States|Oklahoma|/maps/dir//Oklahoma+College-Court+Reprtng,+9636+N+May+Ave+Suite+211,+Oklahoma+City,+OK+73120,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87b21b90b7ead4b7:0x3c00b05a711979a4?sa=X&ved=1t:57443&ictx=111
+Frank Peterson Reporting Service| · +1 918-745-0303|Oklahoma|None
+D & R Reporting Video|Tulsa, OK, United States|Oklahoma|https://www.drreporting.com/
+I have the html!!
+
+Tulsa Freelance Reporters|Tulsa, OK, United States|Oklahoma|http://www.tulsafreelancereporters.com/
+Marisa Spalding, Court Reporter|Tulsa, OK, United States|Oklahoma|/maps/dir//Marisa+Spalding,+Court+Reporter,+1611+S+Utica+Ave+%23516,+Tulsa,+OK+74104,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87b6ec95d60a9703:0x8390673ec92a49e2?sa=X&ved=1t:57443&ictx=111
+Professional Reporters|Tulsa, OK, United States|Oklahoma|http://proreporters.com/
+Hart-Sullivan Reporting Services|+1 918-745-2215|Oklahoma|/maps/dir//Hart-Sullivan+Reporting+Services/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87b6508ebf4c45c9:0x3cbccddc91ed6b68?sa=X&ved=1t:57443&ictx=111
+None|None|Oklahoma|None
+None|None|Oklahoma|None
+None|None|Oklahoma|None
+None|None|Oklahoma|None
+None|None|Oklahoma|None
+None|None|Oklahoma|None
+None|None|Oklahoma|None
+None|None|Oklahoma|None
+None|None|Oklahoma|None
+None|None|Oklahoma|None
+None|None|Oklahoma|None
+None|None|Oklahoma|None
+None|None|Oklahoma|None
+None|None|Oklahoma|None
+None|None|Oklahoma|None
+None|None|Oklahoma|None
+no clickable element
+done!!
+State of Oklahoma data scraped successfully
+Southern Oregon Court Reporters|Medford, OR, United States|Oregon|http://www.southernoregoncourtreporting.com/contact/
+Beovich Walter & Friend Certified Court Reporters - a Veritext Company|Portland, OR, United States|Oregon|http://bwfreporters.com/
+LNS Court Reporting|Portland, OR, United States|Oregon|http://www.lnscourtreporting.com/
+Cascade Court Reporters|Bend, OR, United States|Oregon|http://www.cascadecourtreporters.com/
+NAEGELI Deposition & Trial Court Reporters|Portland, OR, United States|Oregon|https://www.naegeliusa.com/locations/portland
+Bend Court Reporting|None|Oregon|http://www.bendcourtreporting.com/
+Schmitt Reporting & Video, Inc.|Portland, OR, United States|Oregon|https://www.veritext.com/schmitt-reporting-and-video/
+CC Reporting & Videoconferencing|Eugene, OR, United States|Oregon|https://ccreporting.com/
+Aufdermauer Pearce Court|Portland, OR, United States|Oregon|http://www.apcourtreporting.com/
+Lehmann Court Reporting, Inc|Portland, OR, United States|Oregon|https://www.lehmannreporting.com/
+NAEGELI Deposition & Trial Court Reporters|Medford, OR, United States|Oregon|https://www.naegeliusa.com/locations/medford
+Synergy Legal|Portland, OR, United States|Oregon|http://www.synergy-legal.com/
+NAEGELI Deposition & Trial Court Reporters|Bend, OR, United States|Oregon|https://www.naegeliusa.com/locations/bend
+Esquire Deposition Solutions, LLC|Portland, OR, United States|Oregon|https://www.esquiresolutions.com/?utm_medium=yext&utm_source=gmb&y_source=1_MTAxMzM3NzA0Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D
+Tremaine & Clemens|Eugene, OR, United States|Oregon|/maps/dir//Tremaine+%26+Clemens,+401+E+10th+Ave+%23+245,+Eugene,+OR+97401,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54c11e15a2cee543:0x1878e143e465d784?sa=X&ved=1t:57443&ictx=111
+Antrim Court Reporting, Inc.|Albany, OR, United States|Oregon|https://antrimcourtreporting.com/
+Jean M Kostner & Associates|Roseburg, OR, United States|Oregon|http://www.jmkreporting.com/
+C & L Court Reporters|Salem, OR, United States|Oregon|/maps/dir//C+%26+L+Court+Reporters,+1115+Madison+St+NE,+Salem,+OR+97301,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54bffeffcc86e1e7:0xea8024055067e5de?sa=X&ved=1t:57443&ictx=111
+Denise D. Thompson - Certified Shorthand Reporter| · +1 209-603-6357|Oregon|None
+Willamette Valley Court Reporting|Lebanon, OR, United States|Oregon|http://www.willamettevalleycourtreporting.com/contact.html
+I have the html!!
+
+Duffey Court Reporting|Corvallis, OR, United States|Oregon|http://www.duffeycourtreporting.com/
+Blayne & Dugan Reporting|Medford, OR, United States|Oregon|/maps/dir//Blayne+%26+Dugan+Reporting,+201+W+Main+St+%23+3A,+Medford,+OR+97501,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54cf7a246778e229:0x25b4ac52dffdcb11?sa=X&ved=1t:57443&ictx=111
+Grammatically Speaking.| · +1 541-272-8015|Oregon|http://iheartgrammarproofreading.com/
+Jeannine Manny Court Reporting|Pendleton, OR, United States|Oregon|https://mannyreporting.com/
+Dugan Reporting & Associates|Medford, OR, United States|Oregon|/maps/dir//Dugan+Reporting+%26+Associates,+210+Renault+Ave,+Medford,+OR+97501,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54cf7a250fce5f13:0x95b312f2db73c4a6?sa=X&ved=1t:57443&ictx=111
+Lehmann Court Reporting|Vancouver, WA, United States|Oregon|https://www.lehmannreporting.com/
+Business Support Services|Salem, OR, United States|Oregon|http://www.bsssalem.com/
+Carr Court Reporting|Portland, OR, United States|Oregon|/maps/dir//Carr+Court+Reporting,+4804+NW+Bethany+Blvd+Ste+I-2,+Portland,+OR+97229,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x549508a5d95f72e9:0x778716780a520488?sa=X&ved=1t:57443&ictx=111
+Iba, Symonds & Dunn|Portland, OR, United States|Oregon|http://www.isdreporters.com/
+None|None|Oregon|None
+None|None|Oregon|None
+None|None|Oregon|None
+None|None|Oregon|None
+None|None|Oregon|None
+None|None|Oregon|None
+None|None|Oregon|None
+None|None|Oregon|None
+None|None|Oregon|None
+None|None|Oregon|None
+None|None|Oregon|None
+no clickable element
+done!!
+State of Oregon data scraped successfully
+Pennsylvania Court Reporters Association|Harrisburg, PA, United States|Pennsylvania|https://www.pcra.com/contact-pcra
+Central PA Court Reporting Services|+1 800-863-3657|Pennsylvania|None
+Johnson and Mimless Court Reporters|Pittsburgh, PA, United States|Pennsylvania|http://jmreporting.net/
+Kaplan, Leaman & Wolfe Court Reporters|Harrisburg, PA, United States|Pennsylvania|https://klwreporters.com/locations/pennsylvania-court-reporters/harrisburg/
+Strehlow & Associates|+1 215-504-4622|Pennsylvania|http://www.strehlowcourtreporting.com/
+Key Reporters| · +1 717-764-7801|Pennsylvania|http://www.key-reporters.com/
+Keystone Court Reporting|Moosic, PA, United States|Pennsylvania|https://www.keystonecourtreporting.com/
+Sargent's Court Reporting Service, Inc.|Philadelphia, PA, United States|Pennsylvania|http://www.sargents.com/
+Constance Lee & Company Court Reporting Service|Pittsburgh, PA, United States|Pennsylvania|http://courtreporterpa.com/
+NextGen Reporting|+1 215-494-7650|Pennsylvania|None
+Geiger Loria Filius McLucas Reporting|Open 24 hours · +1 814-212-8100|Pennsylvania|https://www.glfmllc.com/state-college/
+Sargent's Court Reporting Service, Inc.|Reading, PA, United States|Pennsylvania|http://www.sargents.com/
+Sargent's Court Reporting Service, Inc.|Harrisburg, PA, United States|Pennsylvania|http://www.sargents.com/
+Sargent's Court Reporting Service, Inc.|Pittsburgh, PA, United States|Pennsylvania|http://sargents.com/
+Zanaras Court Reporting|Philadelphia, PA, United States|Pennsylvania|http://www.zanaras.com/
+Lancaster County Court Reporters|Lancaster, PA, United States|Pennsylvania|https://www.court.co.lancaster.pa.us/138/Court-Reporter
+Royal Court Reporting|Philadelphia, PA, United States|Pennsylvania|https://rcrs.com/
+Cooper Reporting| · +1 267-377-7435|Pennsylvania|None
+Sargent's Court Reporting Service, Inc.|Johnstown, PA, United States|Pennsylvania|http://sargents.com/
+Judy A. Black - Black Reporting, LLC|+1 570-477-5967|Pennsylvania|None
+I have the html!!
+
+Dependable Court Reporting|Etters, PA, United States|Pennsylvania|https://www.dependablecourtreporting.net/contact-us
+Sargent's Court Reporting Service, Inc.|Wilkes-Barre, PA, United States|Pennsylvania|http://www.sargents.com/
+Sargent's Court Reporting Service, Inc.|Greensburg, PA, United States|Pennsylvania|http://www.sargents.com/
+Sargent's Court Reporting Service, Inc.|State College, PA, United States|Pennsylvania|http://www.sargents.com/
+Donna Kenderdine Reporting|Open 24 hours · +1 570-992-7766|Pennsylvania|None
+Sargent's Court Reporting Service, Inc.|Erie, PA, United States|Pennsylvania|http://www.sargents.com/
+Court Reporter|+1 484-264-7727|Pennsylvania|None
+Chester County Court Reporters|West Chester, PA, United States|Pennsylvania|https://www.chesco.org/211/Court-Reporters
+Center City Reporting|Philadelphia, PA, United States|Pennsylvania|https://www.cclrinc.com/
+ERSA Court Reporting|Philadelphia, PA, United States|Pennsylvania|https://www.ersareporting.com/
+Complete Reporting Services|Open 24 hours · +1 724-837-2303|Pennsylvania|None
+Esquire Deposition Solutions, LLC|Philadelphia, PA, United States|Pennsylvania|https://www.esquiresolutions.com/?utm_medium=yext&utm_source=gmb&y_source=1_MTU0NTU1NDctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+Everest Court Reporting|Newtown, PA, United States|Pennsylvania|http://everestdepo.com/
+Elicker & Associates Reporting|Hanover, PA, United States|Pennsylvania|https://elickerassoc.com/
+Ace Reporters, Inc.|Open 24 hours · +1 215-627-6701|Pennsylvania|http://www.acereporters.com/
+Veritext Legal Solutions|Allentown, PA, United States|Pennsylvania|https://www.veritext.com/
+Bucks County Court Reporters|Doylestown, PA, United States|Pennsylvania|https://www.buckscounty.gov/725/Court-Reporters
+Media Court Reporting|Media, PA, United States|Pennsylvania|http://www.mediacourtreporting.com/
+Veritext Legal Solutions|Philadelphia, PA, United States|Pennsylvania|https://www.veritext.com/philadelphia/
+FrontinoReporting, LLC|Philadelphia, PA, United States|Pennsylvania|http://frontinoreporting.com/
+I have the html!!
+
+Calhoun Reporting Services| · +1 814-201-9171|Pennsylvania|None
+Boring Court Reporting|Centre Hall, PA, United States|Pennsylvania|http://www.facebook.com/boringreporting
+Trifecta Court Reporting|Open 24 hours · +1 215-853-6777|Pennsylvania|https://trifectacr.com/
+Betz Reporting|Emmaus, PA, United States|Pennsylvania|/maps/dir//Betz+Reporting,+3775+Chris+Dr,+Emmaus,+PA+18049,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c43aba3e344697:0xfdea55443b776a30?sa=X&ved=1t:57443&ictx=111
+Ervin Blank Associates, Inc.|Danville, PA, United States|Pennsylvania|http://ervinblankassociates.com/
+Worldwide Court Reporting|Philadelphia, PA, United States|Pennsylvania|http://worldwidecourtreporting.com/
+Capital Reporting Company|Philadelphia, PA, United States|Pennsylvania|https://www.capitalreportingcompany.com/
+U.S. Legal Support Court Reporting Services|Philadelphia, PA, United States|Pennsylvania|https://www.uslegalsupport.com/court-reporting-services-philadelphia/?utm_source=GMBlisting&utm_medium=organic
+Montgomery County Court Reporter|Norristown, PA, United States|Pennsylvania|http://www2.montcopa.org/montco/cwp/view,a,3,Q,5216.asp
+Geiger Loria Filius McLucas Reporting|Lancaster, PA, United States|Pennsylvania|/maps/dir//Geiger+Loria+Filius+McLucas+Reporting,+2148+Embassy+Dr,+Lancaster,+PA+17603,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c62421248810bf:0x5eef5972b252ae8c?sa=X&ved=1t:57443&ictx=111
+Gallagher Reporting & Video LLC|Allentown, PA, United States|Pennsylvania|https://www.esquiresolutions.com/gallagher-reporting/
+Sargent's Court Reporting Service, Inc.|Indiana, PA, United States|Pennsylvania|http://www.sargents.com/
+Marsilio Marianne|Freedom, PA, United States|Pennsylvania|http://www.marsiliocourtreporting.com/
+Magna Legal Services|Philadelphia, PA, United States|Pennsylvania|https://magnals.com/
+Court Reporter|+1 717-265-4205|Pennsylvania|None
+Keystone Court Reporting|Scranton, PA, United States|Pennsylvania|https://www.keystonecourtreporting.com/
+Warren Court Reporting Services|Warren, PA, United States|Pennsylvania|/maps/dir//Warren+Court+Reporting+Services,+15+Hill+St,+Warren,+PA+16365,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89cd4461a9ab6199:0xf505079dedeaf3a6?sa=X&ved=1t:57443&ictx=111
+Ace Court Reporting|Weatherly, PA, United States|Pennsylvania|/maps/dir//Ace+Court+Reporting,+623+E+2nd+St,+Weatherly,+PA+18255,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c5aebd060da59d:0x4d1eb0caee7ecad2?sa=X&ved=1t:57443&ictx=111
+Computerized Reporting Services, Inc.|Reading, PA, United States|Pennsylvania|/maps/dir//Computerized+Reporting+Services,+Inc.,+2209+Quarry+Dr+%23+C-45,+Reading,+PA+19609,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c673f9f8591dad:0x3eb8c679b5f644fd?sa=X&ved=1t:57443&ictx=111
+Network Deposition Services|Pittsburgh, PA, United States|Pennsylvania|http://www.ndsreporting.com/
+I have the html!!
+
+Superior Reporting Services LLC|Winfield, PA, United States|Pennsylvania|https://superiorreporter.com/
+Court Reporters|Meadville, PA, United States|Pennsylvania|/maps/dir//Court+Reporters,+903+Diamond+Park+Sq,+Meadville,+PA+16335,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x883257a02d057c05:0x64eee3731ffe849c?sa=X&ved=1t:57443&ictx=111
+Principle Court Reporting|Johnstown, PA, United States|Pennsylvania|http://www.principlecd.com/
+AKF Technologies Court Reporting and Video|Pittsburgh, PA, United States|Pennsylvania|https://www.akf.com/
+Sargent's Court Reporting Service, Inc.|Somerset, PA, United States|Pennsylvania|http://www.sargents.com/
+Geiger Loria Filius McLucas Reporting|Harrisburg, PA, United States|Pennsylvania|/maps/dir//Geiger+Loria+Filius+McLucas+Reporting,+4807+Jonestown+Rd+%23243,+Harrisburg,+PA+17109,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c8b895dee42f23:0x7cb35c46a46a29ff?sa=X&ved=1t:57443&ictx=111
+Foltz & Natale Reporting Service|Harrisburg, PA, United States|Pennsylvania|/maps/dir//Foltz+%26+Natale+Reporting+Service,+3540+N+Progress+Ave+Suite+207,+Harrisburg,+PA+17110,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c8c7119a3906bf:0xe7944ad29a8efe61?sa=X&ved=1t:57443&ictx=111
+Sargent's Court Reporting Service, Inc.|Oil City, PA, United States|Pennsylvania|http://www.sargents.com/
+Sargent's Court Reporting Service, Inc.|Hollidaysburg, PA, United States|Pennsylvania|http://www.sargents.com/
+Apex Reporting Services|Harrisburg, PA, United States|Pennsylvania|/maps/dir//Apex+Reporting+Services,+Harrisburg,+PA+17112,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c8b919e6e7c865:0x97db6b0390a3b5bd?sa=X&ved=1t:57443&ictx=111
+Sargent's Court Reporting Service, Inc.|Williamsport, PA, United States|Pennsylvania|http://sargents.com/
+Esquire Deposition Solutions|Norristown, PA, United States|Pennsylvania|https://www.esquiresolutions.com/
+Shute Certified Reporters|+1 856-401-2876|Pennsylvania|None
+Di Piero Court Reporting|Philadelphia, PA, United States|Pennsylvania|/maps/dir//Di+Piero+Court+Reporting,+429+S+16th+St,+Philadelphia,+PA+19146,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c6c63b7b513a37:0x9b2fc17281d660e1?sa=X&ved=1t:57443&ictx=111
+Sargent's Court Reporting Service, Inc.|Clearfield, PA, United States|Pennsylvania|http://www.sargents.com/
+Geiger Loria Filius McLucas Reporting|East York, PA, United States|Pennsylvania|https://www.esquiresolutions.com/glfm-reporting/
+Premier Reporting, LLC|Carlisle, PA, United States|Pennsylvania|http://www.premierreportingllc.com/
+Erie County Court Reporters|Erie, PA, United States|Pennsylvania|https://eriecountypa.gov/courts/transcripts/
+Kim Tindall & Associates|None|Pennsylvania|https://kimtindallandassociates.com/
+Veritext Legal Solutions|Doylestown, PA, United States|Pennsylvania|https://www.veritext.com/
+I have the html!!
+
+Bauer Court Reporting Inc|Gibsonia, PA, United States|Pennsylvania|http://www.bauerreporting.com/
+Bisnow & Joseph|Philadelphia, PA, United States|Pennsylvania|/maps/dir//Bisnow+%26+Joseph,+1420+Walnut+St+%23+1302,+Philadelphia,+PA+19102,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c6c6255756e4d9:0x2bdb35f3005f1fbe?sa=X&ved=1t:57443&ictx=111
+ASAP/Buckler Court Reporting|New York, PA, United States|Pennsylvania|http://www.asap-buckler.com/
+James DeCrescenzo Reporting, LLC|Philadelphia, PA, United States|Pennsylvania|http://jdreporting.com/
+Bucks County Court Reporters|Bensalem, PA, United States|Pennsylvania|/maps/dir//Bucks+County+Court+Reporters,+2410+Bristol+Rd,+Bensalem,+PA+19020,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c1528112866f45:0xefb97873ae7dd927?sa=X&ved=1t:57443&ictx=111
+Reporting Associates, LLC|Philadelphia, PA, United States|Pennsylvania|/maps/dir//Reporting+Associates,+LLC,+1500+John+F+Kennedy+Blvd+%23+200,+Philadelphia,+PA+19102,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c6c62e109d3001:0x5d75685574134db3?sa=X&ved=1t:57443&ictx=111
+A&A Court Reporting Videoconferencing|Philadelphia, PA, United States|Pennsylvania|/maps/dir//A%26A+Court+Reporting+Videoconferencing,+303+Chestnut+St+2nd+floor,+Philadelphia,+PA+19106,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c6c884ed79c4a1:0x63232fde0ac65f9a?sa=X&ved=1t:57443&ictx=111
+KDL Court Reporting|Washington, PA, United States|Pennsylvania|/maps/dir//KDL+Court+Reporting,+30+E+Beau+St+%23+405,+Washington,+PA+15301,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8834f160ffffffff:0xbcec3712e177f504?sa=X&ved=1t:57443&ictx=111
+None|None|Pennsylvania|None
+None|None|Pennsylvania|None
+None|None|Pennsylvania|None
+None|None|Pennsylvania|None
+None|None|Pennsylvania|None
+None|None|Pennsylvania|None
+None|None|Pennsylvania|None
+None|None|Pennsylvania|None
+None|None|Pennsylvania|None
+None|None|Pennsylvania|None
+None|None|Pennsylvania|None
+None|None|Pennsylvania|None
+no clickable element
+done!!
+State of Pennsylvania data scraped successfully
+Rhode Island Court Reporting|Providence, RI, United States|Rhode Island|/maps/dir//Rhode+Island+Court+Reporting,+747+N+Main+St,+Providence,+RI+02904,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e444e0583851bb:0xe25156a516487ed3?sa=X&ved=1t:57443&ictx=111
+Allied Court Reporters, Inc and Video Conference Centers|Cranston, RI, United States|Rhode Island|http://www.alliedcourtreporters.com/
+Capitol Court Reporting|Warwick, RI, United States|Rhode Island|/maps/dir//Capitol+Court+Reporting,+931+Jefferson+Blvd,+Warwick,+RI+02886,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e44c2494473c49:0x47f83d78a063e5b1?sa=X&ved=1t:57443&ictx=111
+Frances D Young Inc, Court Reporters|Providence, RI, United States|Rhode Island|https://frances-d-young-inc.business.site/?utm_source=gmb&utm_medium=referral
+Reporting Associates|Providence, RI, United States|Rhode Island|/maps/dir//Reporting+Associates,+10+Dorrance+St+UNIT+617,+Providence,+RI+02903,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e44513f8c68305:0x2966fa7d8d9ef4c3?sa=X&ved=1t:57443&ictx=111
+Catuogno Court Reporting|Providence, RI, United States|Rhode Island|/maps/dir//Catuogno+Court+Reporting,+155+S+Main+St,+Providence,+RI+02903,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e445163d825e17:0xeab4805b39e92c9b?sa=X&ved=1t:57443&ictx=111
+JP Reporting|Lincoln, RI, United States|Rhode Island|http://www.jpreporting.com/
+Esquire Deposition Solutions, LLC|Cranston, RI, United States|Rhode Island|https://www.esquiresolutions.com/?utm_medium=yext&utm_source=gmb&y_source=1_Mjc3MzM0MzEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+WarRoom Deposition Services - dena@warroomdepo.com|East Providence, RI, United States|Rhode Island|https://warroom-deposition-services-denawarroomdepocom.business.site/?utm_source=googlemybusiness&utm_medium=referral
+Merandi Court Reporting|Johnston, RI, United States|Rhode Island|/maps/dir//Merandi+Court+Reporting,+48+Hurlburt+Ave,+Johnston,+RI+02919,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e445fdb62d0147:0x92e5590667eefc09?sa=X&ved=1t:57443&ictx=111
+Ledgewood Court Reporting| · +1 401-625-5455|Rhode Island|None
+None|None|Rhode Island|None
+None|None|Rhode Island|None
+None|None|Rhode Island|None
+None|None|Rhode Island|None
+None|None|Rhode Island|None
+None|None|Rhode Island|None
+None|None|Rhode Island|None
+None|None|Rhode Island|None
+None|None|Rhode Island|None
+no clickable element
+done!!
+State of Rhode Island data scraped successfully
+SCCRA|Greenville, SC, United States|South Carolina|http://sccra.net/
+AWR Court Reporting & Litigation Solutions|Charleston, SC, United States|South Carolina|https://scheduledepo.com/locations/charleston-sc/
+Southern Reporting, Inc.|Columbia, SC, United States|South Carolina|http://www.southernreporting.net/?UTM_source=GBP_Listing&UTM_medium=Organic
+PALMETTO COURT REPORTING|+1 803-358-0513|South Carolina|None
+Mc Carn Court Reporting|Charleston, SC, United States|South Carolina|https://www.mccarncourtreporting.com/
+Thompson Court Reporting Inc|West Columbia, SC, United States|South Carolina|https://www.thompsoncourtreporting.com/
+Spectrum Court Reporting and Legal Video|Mt Pleasant, SC, United States|South Carolina|http://www.spectrumcourtreporting.com/
+Tracy Johnson Court Reporter|Bluffton, SC, United States|South Carolina|http://tracyjohnsoncourtreporter.com/
+Expedite Court Reporting, LLC| · +1 864-509-0914|South Carolina|None
+Live Oak Reporting|Mt Pleasant, SC, United States|South Carolina|http://liveoakreporting.com/
+Garber Reporting Services|Columbia, SC, United States|South Carolina|https://www.garberreporting.com/
+AWR Court Reporting|Greenville, SC, United States|South Carolina|https://scheduledepo.com/locations/greenville-sc/
+Clark Bolen Court Reporting & Video Conferencing|Charleston, SC, United States|South Carolina|http://www.clarkbolen.com/
+CompuScripts - Charleston, SC|Charleston, SC, United States|South Carolina|http://compuscripts.com/coverage-area/charleston/
+Q&A Court Reporting|Florence, SC, United States|South Carolina|https://qacourtreportingonline.com/
+Magna Legal Services (South Carolina)|Charleston, SC, United States|South Carolina|https://magnals.com/
+Bettye Anderson & Associates|Beaufort, SC, United States|South Carolina|http://www.anderson-reporting.com/
+CompuScripts|Columbia, SC, United States|South Carolina|/maps/dir//CompuScripts,+1825+Gadsden+St+UNIT+203,+Columbia,+SC+29201,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88f8a4cdb0c60deb:0x492dc97f96e41abf?sa=X&ved=1t:57443&ictx=111
+ABC Reporting Service|Batesburg-Leesville, SC, United States|South Carolina|http://abcreportingservice.com/
+AWR Court Reporting|Columbia, SC, United States|South Carolina|https://scheduledepo.com/locations/columbia-sc/
+I have the html!!
+
+Clark Bolen Court Reporting & Video Conferencing|Columbia, SC, United States|South Carolina|http://clarkbolen.com/
+EveryWord Inc.| · +1 888-341-1114|South Carolina|https://everywordinc.com/
+Prestige Court Reporting Inc|Conway, SC, United States|South Carolina|/maps/dir//Prestige+Court+Reporting+Inc,+413+Paul+St,+Conway,+SC+29527,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8900124248c66357:0x3245ac853011e730?sa=X&ved=1t:57443&ictx=111
+Capital Court Reporting|Columbia, SC, United States|South Carolina|https://www.facebook.com/capitalcourtreporting/
+Ray Swartz & Associates|Charleston, SC, United States|South Carolina|/maps/dir//Ray+Swartz+%26+Associates,+Charleston,+SC+29407,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88fe7c71bc6cc7dd:0xc42f8886108aa56f?sa=X&ved=1t:57443&ictx=111
+Wise Court Reporting, LLC|Gaston, SC, United States|South Carolina|/maps/dir//Wise+Court+Reporting,+LLC,+102+Sandy+Run+Ct,+Gaston,+SC+29053,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88f8c808bf7b25f7:0x4e6c56d1c34144b1?sa=X&ved=1t:57443&ictx=111
+AWR Court Reporting|Myrtle Beach, SC, United States|South Carolina|https://scheduledepo.com/locations/myrtle-beach-sc/
+Clark Bolen Court Reporting & Video Conferencing|Myrtle Beach, SC, United States|South Carolina|http://clarkbolen.com/
+AWR Court Reporting|Greenville, SC, United States|South Carolina|/maps/dir//AWR+Court+Reporting,+1200+Woodruff+Rd+%233,+Greenville,+SC+29607,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x885828c5dcaa58f9:0xbf2b3e8b5a2c9788?sa=X&ved=1t:57443&ictx=111
+AWR Court Reporting|North Myrtle Beach, SC, United States|South Carolina|https://scheduledepo.com/locations/myrtle-beach-sc/
+Clark & Associates - Charleston| · +1 843-762-6294|South Carolina|https://clarkbolen.com/
+Southern Reporting|Columbia, SC, United States|South Carolina|https://www.southernreporting.net/
+Stacey S Conaway Court Rprtr|Summerville, SC, United States|South Carolina|/maps/dir//Stacey+S+Conaway+Court+Rprtr,+203+Telfair+Ct,+Summerville,+SC+29485,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88fe8b9d647006f5:0x4822a6d7842acc41?sa=X&ved=1t:57443&ictx=111
+Clark Bolen Court Reporting & Video Conferencing|Greenville, SC, United States|South Carolina|https://clarkbolen.com/
+AWR Court Reporting|Bluffton, SC, United States|South Carolina|https://scheduledepo.com/locations/hilton-head-sc/
+Freelance Reporting Services|Spartanburg, SC, United States|South Carolina|/maps/dir//Freelance+Reporting+Services,+111+Air+Flow+Dr,+Spartanburg,+SC+29306,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88579dc4bf1e4c0f:0xb57bf491e080e3f8?sa=X&ved=1t:57443&ictx=111
+Stenotype Reporting Services|Murrells Inlet, SC, United States|South Carolina|/maps/dir//Stenotype+Reporting+Services,+4350+Old+Kings+Hwy,+Murrells+Inlet,+SC+29576,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x890038a4dc8d1f75:0xefb1482ac0adfc5d?sa=X&ved=1t:57443&ictx=111
+CP-26 Reporting|Myrtle Beach, SC, United States|South Carolina|https://cp26reporting.com/
+Verbatim Inc|Columbia, SC, United States|South Carolina|/maps/dir//Verbatim+Inc,+2418+Devine+St,+Columbia,+SC+29205,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88f8baca7a686c49:0x79b005df97545b4d?sa=X&ved=1t:57443&ictx=111
+Bowen Legal Transcriptions|Anderson, SC, United States|South Carolina|/maps/dir//Bowen+Legal+Transcriptions,+109+W+Calhoun+St,+Anderson,+SC+29625,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88586e7e3c733a61:0xb94d54dd0cbc2f1b?sa=X&ved=1t:57443&ictx=111
+I have the html!!
+
+Sandy Satterwhite Reporting|Roebuck, SC, United States|South Carolina|/maps/dir//Sandy+Satterwhite+Reporting,+110+State+Rd+S-42-8037,+Roebuck,+SC+29376,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88579e991848e06f:0x1afa45b72eb316ea?sa=X&ved=1t:57443&ictx=111
+Coastal Court Reporting - CCR Bluffton/Okatie|Okatie, SC, United States|South Carolina|http://www.coastalcourt.com/
+CompuScripts - Greenville, SC|Greenville, SC, United States|South Carolina|/maps/dir//CompuScripts+-+Greenville,+SC,+The+Office+Centers+-+Merovan,+1200+Woodruff+Road,+A3,+Greenville,+SC+29607,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x885828c60d9c4085:0x6c03c1f11f2c8ef1?sa=X&ved=1t:57443&ictx=111
+Ray Swartz & Associates|Summerville, SC, United States|South Carolina|http://www.rayswartzandassociates.com/
+Coastal Court Reporting| · +1 800-791-1100|South Carolina|http://www.coastalcourt.com/
+Steno Pro Services| · +1 843-900-4531|South Carolina|None
+Coastal Court Reporting -CCR HHI|Hilton Head Island, SC, United States|South Carolina|http://coastalcourt.com/
+Huseby Inc. Litigation Services|Florence, SC, United States|South Carolina|http://www.huseby.com/
+Huseby Inc. Litigation Services|Greenville, SC, United States|South Carolina|http://www.huseby.com/
+Accurate Reporting|Rock Hill, SC, United States|South Carolina|/maps/dir//Accurate+Reporting,+Rock+Hill,+SC+29732,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x885688566fd7bd03:0x1cb409bd865c401b?sa=X&ved=1t:57443&ictx=111
+Aequum Court Reporting, LLC| · +1 864-958-8678|South Carolina|None
+None|None|South Carolina|None
+None|None|South Carolina|None
+None|None|South Carolina|None
+None|None|South Carolina|None
+None|None|South Carolina|None
+None|None|South Carolina|None
+None|None|South Carolina|None
+None|None|South Carolina|None
+None|None|South Carolina|None
+no clickable element
+done!!
+State of South Carolina data scraped successfully
+APEX COURT REPORTING & VIDEO|+1 605-877-1806|South Dakota|http://www.apexcourtreporting.com/
+Prairie Reporting|Sioux Falls, SD, United States|South Dakota|http://www.prairiereporting.com/
+HARKINS REPORTING - Carolyn M. Harkins|+1 605-381-5427|South Dakota|https://www.rapidcitycourtreporter.com/
+Pat Beck Court Reporter|Sioux Falls, SD, United States|South Dakota|/maps/dir//Pat+Beck+Court+Reporter,+4909+S+Quail+Run+Ave,+Sioux+Falls,+SD+57108,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x878eb65e64e19d8b:0xe53273aaaef5d5f1?sa=X&ved=1t:57443&ictx=111
+PRUSS REPORTING|Rapid City, SD, United States|South Dakota|http://www.prussreporting.com/
+Precision Reporting Ltd|Onida, SD, United States|South Dakota|/maps/dir//Precision+Reporting+Ltd,+113+S+Main+St,+Onida,+SD+57564,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x52d5258b2e9e5a9d:0x2f5e9b7e3296ac00?sa=X&ved=1t:57443&ictx=111
+Glacial Lakes Court Reporting|Watertown, SD, United States|South Dakota|http://www.glaciallakescourtreporting.com/
+Circuit Court Reporters|Ipswich, SD, United States|South Dakota|/maps/dir//Circuit+Court+Reporters,+210+2nd+Ave,+Ipswich,+SD+57451,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x52d3bc45bccf0901:0xe85cf6e02e587e94?sa=X&ved=1t:57443&ictx=111
+Circuit Court Reporters|Aberdeen, SD, United States|South Dakota|/maps/dir//Circuit+Court+Reporters,+101+1st+Ave+SE,+Aberdeen,+SD+57401,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x52d244e3222fe31d:0x745965eb993d43c4?sa=X&ved=1t:57443&ictx=111
+Circuit Court Reporters|Webster, SD, United States|South Dakota|/maps/dir//Circuit+Court+Reporters,+710+1st+St+W,+Webster,+SD+57274,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x52cd0a3f9b182a41:0x81a34abbb20fbe51?sa=X&ved=1t:57443&ictx=111
+Circuit Court Reporters|Sisseton, SD, United States|South Dakota|/maps/dir//Circuit+Court+Reporters,+411+2nd+Ave+E+%233,+Sisseton,+SD+57262,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x52cc47349160df8b:0x318fc6dba6005f58?sa=X&ved=1t:57443&ictx=111
+Tripp County Court Reporter|Winner, SD, United States|South Dakota|/maps/dir//Tripp+County+Court+Reporter,+200+E+3rd+St,+Winner,+SD+57580,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87817e32997e29ff:0x76541329cfeee779?sa=X&ved=1t:57443&ictx=111
+None|None|South Dakota|None
+None|None|South Dakota|None
+None|None|South Dakota|None
+None|None|South Dakota|None
+None|None|South Dakota|None
+None|None|South Dakota|None
+None|None|South Dakota|None
+None|None|South Dakota|None
+no clickable element
+done!!
+State of South Dakota data scraped successfully
+Cleeton Davis Court Reporters, LLC|Nashville, TN, United States|Tennessee|https://www.cleetondavis.com/
+West Tennessee Court Reporters|Jackson, TN, United States|Tennessee|http://www.tncra.com/
+Gibson Court Reporting|Knoxville, TN, United States|Tennessee|https://www.veritext.com/knoxville/
+Nashville Court Reporters|Franklin, TN, United States|Tennessee|https://ncrdepo.com/
+Accurate Court Reporting| · +1 615-244-3376|Tennessee|http://www.acr-nashville.com/
+Harpeth Court Reporters|Franklin, TN, United States|Tennessee|http://www.harpethcourtreporters.com/
+West Tennessee Court Reporters|Jackson, TN, United States|Tennessee|/maps/dir//West+Tennessee+Court+Reporters,+214+E+Main+St,+Jackson,+TN+38301,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x887ea0faba09b56b:0x6ab57894ead50ab?sa=X&ved=1t:57443&ictx=111
+Elite Reporting Services|Nashville, TN, United States|Tennessee|http://elitereportingservices.com/
+Franklin Court Reporters|Franklin, TN, United States|Tennessee|/maps/dir//Franklin+Court+Reporters,+339+Main+St+%23210,+Franklin,+TN+37064,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88647e519df1a6c5:0x62ef2dbf11a22457?sa=X&ved=1t:57443&ictx=111
+Omega Reporting|Memphis, TN, United States|Tennessee|http://www.omegareporting.com/
+Stone & George Court Reporting|Franklin, TN, United States|Tennessee|https://www.stonegeorge.com/
+Gateway Court Reporting & Video, LLC|Knoxville, TN, United States|Tennessee|https://www.gatewayreporting.com/
+Hall & Associates Court Reporters|Chattanooga, TN, United States|Tennessee|http://www.hallreporting.com/
+Stacey England Court Reporting Services | Court Reporter | Clarksville TN|+1 931-538-8125|Tennessee|http://www.englandreporting.com/
+Brooks Court Reporting, Inc.|Memphis, TN, United States|Tennessee|http://brookscourtreporting.com/memphis-court-reporters/
+Lisa M. Beatty/Ace Court Reporting|Nashville, TN, United States|Tennessee|http://acecourtreportingtn.com/
+Cookeville Court Reporters|Cookeville, TN, United States|Tennessee|https://www.cookevillecourtreporters.com/
+Mansfield Court Reporting|Dresden, TN, United States|Tennessee|https://www.mansfieldreporting.com/
+Knoxville Reporting|Knoxville, TN, United States|Tennessee|http://www.knoxvillereporting.com/
+Alpha Reporting Corporation|Nashville, TN, United States|Tennessee|http://www.alphareporting.com/
+I have the html!!
+
+Fletcher Court Reporting|+1 423-392-0333|Tennessee|http://www.fletcherreporting.com/
+WattsBoyd Reporting Agency| · +1 865-604-3681|Tennessee|http://www.wattsboyd.com/
+Morgan Reporting|Murfreesboro, TN, United States|Tennessee|http://www.morganreporting.com/
+Elisabeth Lorenz - Lorenz Court Reporting| · +1 615-504-5070|Tennessee|https://www.lorenzreporting.com/
+Wilson Reporting Agency| · +1 423-267-6000|Tennessee|http://wilson-reporting.com/
+Hollis Court Reporting|Jackson, TN, United States|Tennessee|http://www.holliscourtreporting.com/
+Superior Reporting Services LLC|Maryville, TN, United States|Tennessee|https://superiorreporter.com/
+Alpha Reporting Corporation|Memphis, TN, United States|Tennessee|http://www.alphareporting.com/
+Debbie West Knoxville Court Reporter|Knoxville, TN, United States|Tennessee|http://www.knoxvillecourtreporter.com/
+Elite Reporting Services|Chattanooga, TN, United States|Tennessee|https://www.elitereportingservices.com/
+Angel & Associates Court Reporting| · +1 423-876-4435|Tennessee|http://www.angelcrptg.com/
+T K Reporting|Bristol, TN, United States|Tennessee|https://tkreporting.com/
+Elite Reporting Services|Smyrna, TN, United States|Tennessee|http://elitereportingservices.com/
+Brown & Associates Court Reporting|Winchester, TN, United States|Tennessee|/maps/dir//Brown+%26+Associates+Court+Reporting,+112+7th+Ave+SW,+Winchester,+TN+37398,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8861783ec2165471:0xb8bb0a335c8ad73?sa=X&ved=1t:57443&ictx=111
+Huseby Court Reporting|Memphis, TN, United States|Tennessee|http://www.huseby.com/
+Sanders Court Reporting Service|Cordova, TN, United States|Tennessee|/maps/dir//Sanders+Court+Reporting+Service,+7065+Ireland+Dr,+Cordova,+TN+38018,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x887f9ce9535fb215:0x1ce70a2d530684ff?sa=X&ved=1t:57443&ictx=111
+Elite Reporting Services|Memphis, TN, United States|Tennessee|http://elitereportingservices.com/
+Elite Reporting Services|Knoxville, TN, United States|Tennessee|/maps/dir//Elite+Reporting+Services,+Knoxville,+TN+37917,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x885c161155555555:0xb9be25ea7d56e141?sa=X&ved=1t:57443&ictx=111
+Alpha Reporting Corporation|Knoxville, TN, United States|Tennessee|http://www.alphareporting.com/
+Chattanooga Reporters Associates|Chattanooga, TN, United States|Tennessee|/maps/dir//Chattanooga+Reporters+Associates,+622+Georgia+Ave+UNIT+103,+Chattanooga,+TN+37402,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88605e64e4793471:0x9e85accab4fe4b68?sa=X&ved=1t:57443&ictx=111
+I have the html!!
+
+Tammy Wendel, LCR, Court Reporter| · +1 731-935-9960|Tennessee|None
+Southern Registered Reporters|Memphis, TN, United States|Tennessee|/maps/dir//Southern+Registered+Reporters,+44+N+2nd+St+%23400,+Memphis,+TN+38103,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87d57e93831cf9a7:0xacdfa5fb159c1821?sa=X&ved=1t:57443&ictx=111
+Horton Court Reporting|Elizabethton, TN, United States|Tennessee|/maps/dir//Horton+Court+Reporting,+1670+Scioto+Rd,+Elizabethton,+TN+37643,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x885a79a2044b9157:0x4ece47ed8d77bf73?sa=X&ved=1t:57443&ictx=111
+Precise Reporting Services|Memphis, TN, United States|Tennessee|/maps/dir//Precise+Reporting+Services,+7521+Kristywood+Cove,+Memphis,+TN+38133,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x887f9d9fc8e85151:0x24df9b787a37a483?sa=X&ved=1t:57443&ictx=111
+Cleveland Reporting Co|Cleveland, TN, United States|Tennessee|/maps/dir//Cleveland+Reporting+Co,+140+N+Ocoee+St,+Cleveland,+TN+37311,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x885e2b985affd7f5:0x14a0a904f7026ba9?sa=X&ved=1t:57443&ictx=111
+Deborah N Todd Court Reporter|Kingsport, TN, United States|Tennessee|/maps/dir//Deborah+N+Todd+Court+Reporter,+317+Shelby+St,+Kingsport,+TN+37660,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x885a8d553c6dd897:0x7addd5b411a1f12?sa=X&ved=1t:57443&ictx=111
+Omega Reporting|Memphis, TN, United States|Tennessee|http://omegareporting.com/
+Elite Reporting Services|Knoxville, TN, United States|Tennessee|http://www.elitereportingservices.com/knoxville
+Alpha Reporting Corporation|Jackson, TN, United States|Tennessee|http://www.alphareporting.com/
+Memphis Reporting Services|Memphis, TN, United States|Tennessee|/maps/dir//Memphis+Reporting+Services,+6838+7th+Rd,+Memphis,+TN+38135,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x887f77e1410f8d31:0xf272f81d9cee9b34?sa=X&ved=1t:57443&ictx=111
+US District Court Reporters|Nashville, TN, United States|Tennessee|http://www.tnmd.uscourts.gov/
+Tyler Reporting Services|Morristown, TN, United States|Tennessee|/maps/dir//Tyler+Reporting+Services,+Morristown,+TN+37814,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x885b9707a22c027f:0x3365e4918dfd231b?sa=X&ved=1t:57443&ictx=111
+Brown & Wingo Court Reporting|Knoxville, TN, United States|Tennessee|/maps/dir//Brown+%26+Wingo+Court+Reporting,+%232347,+Knoxville,+TN+37901,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x885c17c31b2b449f:0xf02c171bf1e9883b?sa=X&ved=1t:57443&ictx=111
+Miller & Miller Court Reporting|Knoxville, TN, United States|Tennessee|/maps/dir//Miller+%26+Miller+Court+Reporting,+12804+Union+Rd,+Knoxville,+TN+37934,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x885c2c715494be31:0xa227a5ff3f89faa?sa=X&ved=1t:57443&ictx=111
+Sound Image|Knoxville, TN, United States|Tennessee|/maps/dir//Sound+Image,+611+Calthorpe+Ln,+Knoxville,+TN+37912,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x885c3c33ffffffff:0x254db690027cd309?sa=X&ved=1t:57443&ictx=111
+None|None|Tennessee|None
+None|None|Tennessee|None
+None|None|Tennessee|None
+None|None|Tennessee|None
+None|None|Tennessee|None
+no clickable element
+done!!
+State of Tennessee data scraped successfully
+Advanced Court Reporting Solutions - Salt Lake City, Utah Location|Salt Lake City, UT, United States|Utah|https://advancedrep.com/
+Alpine Court Reporting|Salt Lake City, UT, United States|Utah|http://www.alpinecourtreporting.com/
+Red Rock Reporting| · +1 385-707-7254|Utah|http://www.redrockreporting.com/
+DepomaxMerit Litigation Services|Salt Lake City, UT, United States|Utah|http://www.depomaxmerit.com/
+CitiCourt, The Reporting Group|Salt Lake City, UT, United States|Utah|/maps/dir//CitiCourt,+The+Reporting+Group,+236+S+300+E,+Salt+Lake+City,+UT+84111,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8752f50f0ab60d35:0x38ee58f84951757e?sa=X&ved=1t:57443&ictx=111
+Ross E Young Court Reporter|Salt Lake City, UT, United States|Utah|/maps/dir//Ross+E+Young+Court+Reporter,+350+S+Main+St+%23247,+Salt+Lake+City,+UT+84101,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8752f510731ff633:0x25d0a7e8fe1ce2d5?sa=X&ved=1t:57443&ictx=111
+Alpine Court Reporting|Provo, UT, United States|Utah|http://www.alpinecourtreporting.com/
+Tempest Reporting, Inc.|Salt Lake City, UT, United States|Utah|http://reporting.com/
+Mountain West Court Reporters|St. George, UT, United States|Utah|/maps/dir//Mountain+West+Court+Reporters,+1210+W+Indian+Hills+Dr,+St.+George,+UT+84770,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80ca451d164956ef:0x3fd25f69a821a832?sa=X&ved=1t:57443&ictx=111
+Q & A Reporting, Inc.|Salt Lake City, UT, United States|Utah|http://qareport.com/
+Beyond The Bar Court Reporting, LLC|+1 385-448-7091|Utah|None
+Dixie Court Reporting INC| · +1 435-632-4194|Utah|http://www.dixiecourtreporting.com/
+JD Legal Support|Lehi, UT, United States|Utah|http://www.jdlegalsupport.com/
+Advanced Court Reporting Solutions - St George, Utah Location|St. George, UT, United States|Utah|https://advancedrep.com/
+Reporters, Inc.|Salt Lake City, UT, United States|Utah|/maps/dir//Reporters,+Inc.,+Salt+Lake+City,+UT,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8752f4ffc8467095:0x69779b9e8cf46eee?sa=X&ved=1t:57443&ictx=111
+US Federal Court Reporter|Salt Lake City, UT, United States|Utah|http://www.utd.uscourts.gov/court-reporters-transcripts
+Beyond the Bar Court Reporting, LLC| · +1 385-448-7091|Utah|https://btbcourtreporters.com/
+HORIZON REPORTING & VIDEO, INC.|Provo, UT, United States|Utah|/maps/dir//HORIZON+REPORTING+%26+VIDEO,+INC.,+3214+N+University+Ave+%23205,+Provo,+UT+84604,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x874d907da223a08d:0x23a08dc529bf0998?sa=X&ved=1t:57443&ictx=111
+Litigation Services|Salt Lake City, UT, United States|Utah|http://www.litigationservices.com/
+Depo Dynamics|Salt Lake City, UT, United States|Utah|/maps/dir//Depo+Dynamics,+2825+E+Cottonwood+Pkwy+%23500,+Salt+Lake+City,+UT+84121,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x875263bb4a5e093f:0x2879b9305844c8b9?sa=X&ved=1t:57443&ictx=111
+no clickable element
+done!!
+State of Utah data scraped successfully
+Cook & Wiley Court Reporters|Richmond, VA, United States|Virginia|/maps/dir//Cook+%26+Wiley+Court+Reporters,+411+E+Franklin+St+Suite+205,+Richmond,+VA+23219,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89b16abe660aaa6d:0xe160a0ad78281b9e?sa=X&ved=1t:57443&ictx=111
+Zahn Court Reporting Ltd|Norfolk, VA, United States|Virginia|https://zahncourtreporting.com/
+Central Virginia Reporters|Salem, VA, United States|Virginia|https://www.huseby.com/central-virginia
+Case Court Reporting|Virginia Beach, VA, United States|Virginia|http://casecourtreporting.com/
+Casamo and Associates|Alexandria, VA, United States|Virginia|https://www.casamo.com/alexandria-court-reporters/
+Integrity Reporting|Virginia Beach, VA, United States|Virginia|/maps/dir//Integrity+Reporting,+1519+Galvani+Dr,+Virginia+Beach,+VA+23454,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89bac221a7863d5f:0xabd7b130ab598275?sa=X&ved=1t:57443&ictx=111
+Adams Harris Reporting Inc|Virginia Beach, VA, United States|Virginia|/maps/dir//Adams+Harris+Reporting+Inc,+1021+Sandoval+Dr,+Virginia+Beach,+VA+23454,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89baeae35d2efab1:0x3612f2c9181204a9?sa=X&ved=1t:57443&ictx=111
+Casamo & Associates|Fairfax, VA, United States|Virginia|https://www.casamo.com/fairfax-court-reporters/
+Amicus Reporting, LLC|Ashburn, VA, United States|Virginia|http://www.amicusreporting.org/
+Casamo & Associates|Leesburg, VA, United States|Virginia|https://www.casamo.com/leesburg-court-reporters/
+Q & A Court Reporting|Wise, VA, United States|Virginia|https://www.qacourt.com/
+Tayloe Court Reporting|Norfolk, VA, United States|Virginia|https://www.tayloecourtreporting.com/
+Casamo & Associates|Winchester, VA, United States|Virginia|https://www.casamo.com/winchester-court-reporters/
+County Court Reporters, Inc.|Stephenson, VA, United States|Virginia|/maps/dir//County+Court+Reporters,+Inc.,+1160+Jordan+Springs+Rd,+Stephenson,+VA+22656,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89b5fac89fd3a5e7:0xf50f163f85945ad8?sa=X&ved=1t:57443&ictx=111
+Signature Court Reporting|Staunton, VA, United States|Virginia|https://www.signaturecourtreporting.com/contact.html
+Cavalier Reporting & Videography|Charlottesville, VA, United States|Virginia|http://www.cavalier-reporting.com/
+Crane-Snead & Associates Inc|Richmond, VA, United States|Virginia|http://www.cranesnead.com/
+Casamo and Associates|Culpeper, VA, United States|Virginia|https://www.casamo.com/culpeper-court-reporters/
+ICR Rudiger & Green|Manassas, VA, United States|Virginia|http://www.icrdepos.com/
+Accurate Reporting of Hampton Roads|Chesapeake, VA, United States|Virginia|https://www.accurate-reporting.com/
+I have the html!!
+
+Halasz Reporting & Video|Richmond, VA, United States|Virginia|http://www.halaszreporting.com/
+Hart Reporting Inc.|Harrisonburg, VA, United States|Virginia|http://www.hartreporting.com/
+Veteran Reporters, Inc.|Stephenson, VA, United States|Virginia|http://veteranreporters.com/
+Anderson Court Reporting|Alexandria, VA, United States|Virginia|https://andersoncourtreporting.net/
+Planet Depos|McLean, VA, United States|Virginia|https://mar-reporting.com/
+Farnsworth & Taylor Reporting|Rockville, VA, United States|Virginia|/maps/dir//Farnsworth+%26+Taylor+Reporting,+11453+Rockville+Rd,+Rockville,+VA+23146,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89b143b91bb17a75:0x825eddc9b74d8d7d?sa=X&ved=1t:57443&ictx=111
+Hart Reporting|Charlottesville, VA, United States|Virginia|http://www.hartreporting.com/
+Planet Depos|Richmond, VA, United States|Virginia|https://www.planetdepos.com/
+ELSS Executive Reporting, LLC|Leesburg, VA, United States|Virginia|http://www.elssreporting.com/
+Zahn Court Reporting|Richmond, VA, United States|Virginia|http://www.zahncourtreporting.com/
+Charlottesville Court Reporting|Charlottesville, VA, United States|Virginia|http://www.charlottesvillecourtreporting.com/contact-us
+Delloro-McDaniel Court Reporting Services|Chesapeake, VA, United States|Virginia|https://delloromcdaniel.com/
+Lanes Court Reporter's, Inc.|Charlottesville, VA, United States|Virginia|/maps/dir//Lanes+Court+Reporter%27s,+Inc.,+401+8th+St+NE,+Charlottesville,+VA+22902,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89b387523a84dc83:0x71c6c8d2c6c875f?sa=X&ved=1t:57443&ictx=111
+BIGGS & FLEET, LLC - Court Reporting| · +1 757-622-2049|Virginia|None
+Cavalier Reporting & Videography|Glen Allen, VA, United States|Virginia|http://www.cavalier-reporting.com/
+Cavalier Reporting & Videography|Richmond, VA, United States|Virginia|http://www.cavalier-reporting.com/
+Shaylah Burrill and Associates, LLC| · +1 571-758-4722|Virginia|http://www.sbandassoc.com/
+Cavalier Reporting & Videography|Roanoke, VA, United States|Virginia|http://www.cavalier-reporting.com/
+Diversified Reporting Services|Alexandria, VA, United States|Virginia|http://www.diversifiedreporting.com/
+Peterman Reporting| · +1 571-234-7910|Virginia|None
+I have the html!!
+
+Yost Associates|Virginia Beach, VA, United States|Virginia|/maps/dir//Yost+Associates,+1609+Duke+of+Windsor+Rd,+Virginia+Beach,+VA+23454,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89baeb949763f2e5:0xe89d748396ab2047?sa=X&ved=1t:57443&ictx=111
+Appalachian Court Reporting|Bristol, VA, United States|Virginia|/maps/dir//Appalachian+Court+Reporting,+17483+Old+Jonesboro+Rd,+Bristol,+VA+24202,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8850728e274a940f:0xf0e8a661597ba071?sa=X&ved=1t:57443&ictx=111
+District Reporting Services| · +1 703-599-0543|Virginia|https://districtreportingservices.business.site/?utm_source=gmb&utm_medium=referral
+Esquire Deposition Solutions|Richmond, VA, United States|Virginia|https://www.esquiresolutions.com/
+Reporting Service|Harrisonburg, VA, United States|Virginia|/maps/dir//Reporting+Service,+57+S+Main+St+%23202,+Harrisonburg,+VA+22801,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89b492cf0247f679:0x99b145b3694f1198?sa=X&ved=1t:57443&ictx=111
+Capitol Reporting LLC|Chester, VA, United States|Virginia|/maps/dir//Capitol+Reporting+LLC,+4823+Cedar+Cliff+Rd,+Chester,+VA+23831,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89b111231cce4941:0x63baa8aa73934513?sa=X&ved=1t:57443&ictx=111
+Mahaney Reporting 2G|Open 24 hours · +1 617-542-4207|Virginia|None
+Capital Reporting Co|Alexandria, VA, United States|Virginia|https://www.capitalreportingcompany.com/
+Casamo & Associates|Warrenton, VA, United States|Virginia|https://www.casamo.com/
+Blue Ridge Court Reporting|Galax, VA, United States|Virginia|/maps/dir//Blue+Ridge+Court+Reporting,+311+Country+Club+Ln,+Galax,+VA+24333,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8851f38cf9a76595:0x8cee5e2005e3e10f?sa=X&ved=1t:57443&ictx=111
+On the Record | Court Reporting | …|Norton, VA, United States|Virginia|/maps/dir//On+the+Record+%7C+Court+Reporting+%7C+%E2%80%A6,+818+Park+Ave+NW,+Norton,+VA+24273,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x885ac8dc47872549:0xb562d1b12bc9fcfb?sa=X&ved=1t:57443&ictx=111
+Fletcher Court Reporting|+1 423-392-0333|Virginia|http://www.fletcherreporting.com/
+Evans & Company|Forest, VA, United States|Virginia|/maps/dir//Evans+%26+Company,+111+Merrywood+Dr,+Forest,+VA+24551,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89b2d22089e30e87:0x613c842c3f1504d5?sa=X&ved=1t:57443&ictx=111
+In Black and White Reporting|Mechanicsville, VA, United States|Virginia|https://www.inblackandwhitereporting.com/
+Halifax Pittsylvania Court Services|Danville, VA, United States|Virginia|/maps/dir//Halifax+Pittsylvania+Court+Services,+530+Main+St,+Danville,+VA+24541,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8852b347f63bee15:0x99ea82d0f41e8dfc?sa=X&ved=1t:57443&ictx=111
+Marie Lawson Reporter|Chesapeake, VA, United States|Virginia|/maps/dir//Marie+Lawson+Reporter,+325+Preservation+Reach,+Chesapeake,+VA+23320,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89babb4bc585ab4b:0xdff816944bfb8bd2?sa=X&ved=1t:57443&ictx=111
+Rutledge Court Reporting Service, Inc|Chesapeake, VA, United States|Virginia|/maps/dir//Rutledge+Court+Reporting+Service,+Inc,+924+N+Haven+Cir,+Chesapeake,+VA+23322,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89babac97ab8ffff:0x58a284b8d798a3ef?sa=X&ved=1t:57443&ictx=111
+Olender Reporting Inc.|Washington, DC, United States|Virginia|http://www.olenderreporting.com/
+Nicholson Reporting|Falls Church, VA, United States|Virginia|https://www.nicholsonreporting.com/
+Ortega International Reporting| · +1 202-681-5140|Virginia|http://www.ortegainternationalreporting.com/
+I have the html!!
+
+Chandler & Halasz|Mechanicsville, VA, United States|Virginia|https://www.chandlerhalasz.com/
+Lang Court Reporting|Triangle, VA, United States|Virginia|None
+Carol Thomas Stenotype Reporting|Fairfax, VA, United States|Virginia|/maps/dir//Carol+Thomas+Stenotype+Reporting,+3162+Musket+Ct,+Fairfax,+VA+22030,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89b64eb21c4ce4d9:0xb0b02c1afdab935c?sa=X&ved=1t:57443&ictx=111
+Lewis & De Berry Reporting Services LLC| · +1 757-874-6394|Virginia|None
+None|None|Virginia|None
+None|None|Virginia|None
+None|None|Virginia|None
+None|None|Virginia|None
+None|None|Virginia|None
+None|None|Virginia|None
+None|None|Virginia|None
+None|None|Virginia|None
+None|None|Virginia|None
+None|None|Virginia|None
+None|None|Virginia|None
+None|None|Virginia|None
+None|None|Virginia|None
+None|None|Virginia|None
+None|None|Virginia|None
+None|None|Virginia|None
+no clickable element
+done!!
+State of Virginia data scraped successfully
+Realtime Reporters, LLC|Charleston, WV, United States|West Virginia|http://www.realtimereporters.net/
+Sargent's Court Reporting Service, Inc.|Morgantown, WV, United States|West Virginia|https://sargents.com/
+Betler's Reporting & Legal Video Services|Huntington, WV, United States|West Virginia|https://www.brlvs.com/
+Sargent's Court Reporting Service, Inc., Martinsburg, WV|Martinsburg, WV, United States|West Virginia|http://www.sargents.com/
+Sargent's Court Reporting Service, Inc.|Charleston, WV, United States|West Virginia|http://www.sargents.com/
+Brown Reporting Agency|Beckley, WV, United States|West Virginia|/maps/dir//Brown+Reporting+Agency,+117+Main+St,+Beckley,+WV+25801,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x884ef2e0534884ed:0x8ff04063e8eba3f7?sa=X&ved=1t:57443&ictx=111
+Elite Court Reporting|Charleston, WV, United States|West Virginia|http://www.elitecourtreporting.net/
+R & M PRODUCTIONS INC|Scott Depot, WV, United States|West Virginia|http://www.wvcourtreporters.com/
+Garrett Reporting Service| · +1 304-346-0460|West Virginia|http://garrettcourtreporting.com/
+Comer Court Reporting|Charleston, WV, United States|West Virginia|/maps/dir//Comer+Court+Reporting,+634+Gordon+Dr,+Charleston,+WV+25314,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x884f2d314997deb3:0x1b7f58f972a09bde?sa=X&ved=1t:57443&ictx=111
+Streski Reporting & Video Services|Wheeling, WV, United States|West Virginia|/maps/dir//Streski+Reporting+%26+Video+Services,+75+12th+St,+Wheeling,+WV+26003,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8835da2824c5c92d:0x6845964e6d6d28e1?sa=X&ved=1t:57443&ictx=111
+Stacie R. Fouty Court Reporting Services|Weirton, WV, United States|West Virginia|http://foutyreporting.com/
+ELSS Executive Reporting, LLC|Martinsburg, WV, United States|West Virginia|http://www.elssreporting.com/
+Sapphire Court Reporting| · +1 304-476-7553|West Virginia|https://sapphirecr.com/
+Huseby Court Reporting|Charleston, WV, United States|West Virginia|https://www.huseby.com/
+Daisey Reporting Services|Princeton, WV, United States|West Virginia|/maps/dir//Daisey+Reporting+Services,+1450+E+Main+St+Ste+2,+Princeton,+WV+24740,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x884e6bbf47925391:0x4444a49ea1d63743?sa=X&ved=1t:57443&ictx=111
+Bramble Reporting|Bridgeport, WV, United States|West Virginia|/maps/dir//Bramble+Reporting,+521+Persimmon+lane,+Bridgeport,+WV+26330,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x884a6826343f6baf:0x20f1dc203376b0ff?sa=X&ved=1t:57443&ictx=111
+Susanne Lewis, RMR, CRR|Wheeling, WV, United States|West Virginia|http://lewisreporting.com/
+C W Reporting|Barboursville, WV, United States|West Virginia|/maps/dir//C+W+Reporting,+105+Martin+Dr,+Barboursville,+WV+25504,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8846074d2e56729b:0x265c7fced7248c0a?sa=X&ved=1t:57443&ictx=111
+C B S Reporting|Hurricane, WV, United States|West Virginia|/maps/dir//C+B+S+Reporting,+113+Litchfield+Ln,+Hurricane,+WV+25526,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8848b41b49e86b87:0x609aa79a7dbbe79f?sa=X&ved=1t:57443&ictx=111
+I have the html!!
+
+Markley Candace|Shinnston, WV, United States|West Virginia|/maps/dir//Markley+Candace,+725+Pub+Rd+17%2F658,+Shinnston,+WV+26431,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x884a6fe7019a2527:0xc19cb708e2bcedd?sa=X&ved=1t:57443&ictx=111
+Harless Reporting & Consulting| · +1 304-552-6600|West Virginia|https://harless-reporting-consulting.business.site/?utm_source=gmb&utm_medium=referral
+Belletto Marilyn|Canvas, WV, United States|West Virginia|/maps/dir//Belletto+Marilyn,+539+Exotic+Rd,+Canvas,+WV+26662,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x884c00e2e6cb9ef9:0x9008fb5dd0fdc60?sa=X&ved=1t:57443&ictx=111
+Scoping Sarah|Kingwood, WV, United States|West Virginia|/maps/dir//Scoping+Sarah,+122+Center+St,+Kingwood,+WV+26537,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x884aa1917c1463e7:0x250fe6dbbbbfc5c4?sa=X&ved=1t:57443&ictx=111
+Court Reporter|West Virginia, United States|West Virginia|None
+Hall Court Reporting| · +1 304-295-4908|West Virginia|None
+Fayette County Court Reporter|Fayetteville, WV, United States|West Virginia|http://www.courtswv.gov/lower-courts/counties/fayette.html
+Stacie R. Fouty Court Reporting Services Inc|Newell, WV, United States|West Virginia|http://foutyreporting.com/
+Wv Depos|+1 304-566-7800|West Virginia|/maps/dir//Wv+Depos/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x884a6997e934c53f:0x995fe2902711e543?sa=X&ved=1t:57443&ictx=111
+County Court Reporters, Inc.|Stephenson, VA, United States|West Virginia|/maps/dir//County+Court+Reporters,+Inc.,+1160+Jordan+Springs+Rd,+Stephenson,+VA+22656,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89b5fac89fd3a5e7:0xf50f163f85945ad8?sa=X&ved=1t:57443&ictx=111
+ELSS Executive Reporting, LLC|Cumberland, MD, United States|West Virginia|http://www.elssreporting.com/
+Jefferson County Court Reporter|Charles Town, WV, United States|West Virginia|/maps/dir//Jefferson+County+Court+Reporter,+100+E+Washington+St,+Charles+Town,+WV+25414,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89b6016cb63d4809:0x9f3acf76c8494438?sa=X&ved=1t:57443&ictx=111
+Circuit Court Reporter|Lewisburg, WV, United States|West Virginia|/maps/dir//Circuit+Court+Reporter,+200+N+Court+St+%2311,+Lewisburg,+WV+24901,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x884c477842764191:0x684fec58fd0c158c?sa=X&ved=1t:57443&ictx=111
+Marion County Court Reporter|Fairmont, WV, United States|West Virginia|/maps/dir//Marion+County+Court+Reporter,+219+Adams+St+%23+312,+Fairmont,+WV+26554,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x884a7e7e03154a43:0x51d8b3bcc215d38d?sa=X&ved=1t:57443&ictx=111
+Barbour County Court Reporter|Philippi, WV, United States|West Virginia|/maps/dir//Barbour+County+Court+Reporter,+N+Main+St,+Philippi,+WV+26416,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x884af42fe237d337:0x6e8f4350d1e7a31?sa=X&ved=1t:57443&ictx=111
+Circuit Judge Court Reporter|Fairmont, WV, United States|West Virginia|/maps/dir//Circuit+Judge+Court+Reporter,+J.Harper+Mereditn+Building,+200+Jackson+St+%23+301,+Fairmont,+WV+26554,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x884a7e80b2410bd5:0x58cee93279e0fa43?sa=X&ved=1t:57443&ictx=111
+Garrett Reporting Service|Charleston, WV, United States|West Virginia|https://garrettcourtreporting.com/contact-us/
+Braxton County Court Reporter|Sutton, WV, United States|West Virginia|http://www.courtswv.gov/lower-courts/counties/braxton.html
+None|None|West Virginia|None
+None|None|West Virginia|None
+no clickable element
+done!!
+State of West Virginia data scraped successfully
+eCourt Reporters, Inc.| · +1 262-217-0300|Wisconsin|https://ecourtreporters.com/?utm_source=GoogleBusinessProfile
+U.S. Legal Support Court Reporting Services|Milwaukee, WI, United States|Wisconsin|https://www.uslegalsupport.com/court-reporting-services-milwaukee/?utm_source=GMBlisting&utm_medium=organic
+For The Record, Inc.|Waunakee, WI, United States|Wisconsin|http://ftrmadison.com/
+Appleton Court Reporters|Appleton, WI, United States|Wisconsin|/maps/dir//Appleton+Court+Reporters,+Appleton,+WI+54912,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8803b73e12466c27:0x4cb537fc9b9fd7d0?sa=X&ved=1t:57443&ictx=111
+Northwestern Court Reporters|Eau Claire, WI, United States|Wisconsin|http://nwcourtreporters.com/
+Accurate Reporting Service - Depositions (La Crosse, Wisconsin)|La Crosse, WI, United States|Wisconsin|https://www.accuratereportingservice.com/
+Brown & Jones Reporting|Milwaukee, WI, United States|Wisconsin|https://www.veritext.com/brown-jones-reporting/
+Kempfer Court Reporting|Fond du Lac, WI, United States|Wisconsin|http://kempfercourtreporting.com/
+Accurate Reporting Service| · +1 563-584-9673|Wisconsin|https://accuratereportingservice.com/
+Halma Reporting Group, Inc|Milwaukee, WI, United States|Wisconsin|https://www.halmareportinggroup.com/
+La Crosse Court Reporters|La Crosse, WI, United States|Wisconsin|https://www.lacrossecourtreporters.com/
+Kempfer Court Reporting|Manitowoc, WI, United States|Wisconsin|http://kempfercourtreporting.com/
+Textnet Digital Court Reporting|Madison, WI, United States|Wisconsin|http://www.textnet.com/
+Kempfer Court Reporting|Milwaukee, WI, United States|Wisconsin|http://www.kempfercourtreporting.com/
+Kempfer Court Reporting|Waukesha, WI, United States|Wisconsin|http://kempfercourtreporting.com/
+Bay Reporting Service, Inc.|Green Bay, WI, United States|Wisconsin|/maps/dir//Bay+Reporting+Service,+Inc.,+2301+Riverside+Dr,+Green+Bay,+WI+54301,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8802facc00c9b14b:0xb359e9c1369d82ff?sa=X&ved=1t:57443&ictx=111
+StenoScripts LLC|Brillion, WI, United States|Wisconsin|http://www.stenoscripts.com/
+Verbatim Reporting, Limited|Madison, WI, United States|Wisconsin|https://www.esquiresolutions.com/verbatim-madison/
+Grossbier & Associates|Wisconsin Rapids, WI, United States|Wisconsin|/maps/dir//Grossbier+%26+Associates,+A+St,+Wisconsin+Rapids,+WI+54494,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x880089ab7d98977f:0x6c8cc3e5c81592b5?sa=X&ved=1t:57443&ictx=111
+Cream City Reporting LLC.|Milwaukee, WI, United States|Wisconsin|http://www.creamcityreporting.com/
+I have the html!!
+
+Northwestern Court Reporters|Hudson, WI, United States|Wisconsin|http://nwcourtreporters.com/
+Polaris Court Reporting| · +1 414-210-9911|Wisconsin|None
+Northwestern Court Reporters|Eau Claire, WI, United States|Wisconsin|https://nwcourtreporters.com/
+365ReportingLLC|Greenleaf, WI, United States|Wisconsin|http://365reporting.net/
+Madison Freelance Reporters, LLC|Monona, WI, United States|Wisconsin|https://www.madisonfreelance.com/
+Clark Bolen Court Reporting & Video Conferencing|Madison, WI, United States|Wisconsin|http://www.clarkbolen.com/
+Henes & Associates Reporting Service, Inc.|Appleton, WI, United States|Wisconsin|http://www.henesreporting.com/
+Zen Reporting| · +1 608-395-1258|Wisconsin|https://zen-reporting.business.site/?utm_source=gmb&utm_medium=referral
+Q&A Court Reporters, Inc.| · +1 715-495-1296|Wisconsin|None
+eCourt Reporters, Inc.|Burlington, WI, United States|Wisconsin|http://www.ecourtreporters.com/
+Willette Court Reporting|Wausau, WI, United States|Wisconsin|http://www.willettecourtreporting.com/
+Kempfer Court Reporting|Union Grove, WI, United States|Wisconsin|http://kempfercourtreporting.com/
+Q & A Court Reporters|Eau Claire, WI, United States|Wisconsin|/maps/dir//Q+%26+A+Court+Reporters,+303+Main+St,+Eau+Claire,+WI+54701,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87f8bd0c53952159:0x68ad56c3d21a06a8?sa=X&ved=1t:57443&ictx=111
+Freelance Reporting|Green Bay, WI, United States|Wisconsin|http://www.freelancereporting.net/
+Kempfer Court Reporting|Kenosha, WI, United States|Wisconsin|http://kempfercourtreporting.com/
+KEMPFER COURT REPORTING|Beloit, WI, United States|Wisconsin|http://kempfercourtreporting.com/
+Independent Reporting|Green Bay, WI, United States|Wisconsin|https://independentcourtreporting.com/
+Braden Undeland|Open 24 hours · +1 218-727-4255|Wisconsin|http://bradenundelandreporting.com/
+Dreawves Reporting, LLC|Open ⋅ Closes 5 pm · +1 218-590-2401|Wisconsin|None
+Kempfer Court Reporting|Janesville, WI, United States|Wisconsin|http://kempfercourtreporting.com/
+I have the html!!
+
+Washington County Court Reporters|West Bend, WI, United States|Wisconsin|/maps/dir//Washington+County+Court+Reporters,+West+Bend,+WI+53095,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88045f73ef83bbc7:0x4fe49703e4bd037c?sa=X&ved=1t:57443&ictx=111
+Esquire Deposition Solutions, LLC| · +1 715-355-4384|Wisconsin|https://www.esquiresolutions.com/?utm_medium=yext&utm_source=gmb&y_source=1_MjA1ODA4MTktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+Accurate Reporting Service|Prairie du Chien, WI, United States|Wisconsin|https://www.accuratereportingservice.com/
+Kraemer & Associates LLC|Wausau, WI, United States|Wisconsin|/maps/dir//Kraemer+%26+Associates+LLC,+Wausau,+WI+54402,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x4d552c5495c96fbf:0x611f1deabbc03402?sa=X&ved=1t:57443&ictx=111
+Court Reporters Branch IV|West Bend, WI, United States|Wisconsin|/maps/dir//Court+Reporters+Branch+IV,+432+E+Washington+St+%23+3040,+West+Bend,+WI+53095,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8804f2ff3a3f6ba1:0x8e2a5a0e5b46e8be?sa=X&ved=1t:57443&ictx=111
+Watczak Reporting Inc|Duluth, MN, United States|Wisconsin|http://www.watczakreporting.com/
+Lexitas|Wauwatosa, WI, United States|Wisconsin|https://www.lexitaslegal.com/
+DEBRA HASS & ASSOCIATES ~ COURT REPORTERS ~ SOUTHEAST WISCONSIN~KENOSHA COUNTY|Twin Lakes, WI, United States|Wisconsin|/maps/dir//DEBRA+HASS+%26+ASSOCIATES+~+COURT+REPORTERS+~+SOUTHEAST+WISCONSIN~KENOSHA+COUNTY,+110+Cobblestone+Ct,+Twin+Lakes,+WI+53181,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x880f7dcf2de45545:0x26fcff679bdc408a?sa=X&ved=1t:57443&ictx=111
+None|None|Wisconsin|None
+None|None|Wisconsin|None
+None|None|Wisconsin|None
+None|None|Wisconsin|None
+None|None|Wisconsin|None
+None|None|Wisconsin|None
+None|None|Wisconsin|None
+None|None|Wisconsin|None
+None|None|Wisconsin|None
+None|None|Wisconsin|None
+None|None|Wisconsin|None
+None|None|Wisconsin|None
+no clickable element
+done!!
+State of Wisconsin data scraped successfully
+Jackson Hole Court Reporting|Jackson, WY, United States|Wyoming|https://ttreporting.com/
+Summit Reporting|Cheyenne, WY, United States|Wyoming|/maps/dir//Summit+Reporting,+1274+Cole+Rd,+Cheyenne,+WY+82009,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8768cdf43f1ebbb9:0x411cd6933e67e0b5?sa=X&ved=1t:57443&ictx=111
+Two Sisters Reporting Service|Buffalo, WY, United States|Wyoming|http://www.twosistersreporting.com/
+Morgenweck Court Reporting|Cody, WY, United States|Wyoming|http://morgenweckcourtreporting.com/
+Professional Reporting Network|Casper, WY, United States|Wyoming|http://www.professionalreporting.com/
+Wyoming Reporting Services Inc|Cheyenne, WY, United States|Wyoming|/maps/dir//Wyoming+Reporting+Services+Inc,+114+E+20th+St,+Cheyenne,+WY+82001,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x876f3ae9f4f5a349:0x52c85b2dadbd5640?sa=X&ved=1t:57443&ictx=111
+Woodhouse Legal Video|Open ⋅ Closes 5 pm · +1 307-631-2613|Wyoming|None
+Woodhouse Legal Video|Cheyenne, WY, United States|Wyoming|/maps/dir//Woodhouse+Legal+Video,+200+W+24th+St,+Cheyenne,+WY+82001,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x876f3bdcec0f562b:0x6bd60fd345087c48?sa=X&ved=1t:57443&ictx=111
+Official Court Record|Open 24 hours · +1 307-213-6008|Wyoming|http://www.ocrecord.com/
+Sheridan Answering & Sectrl|Sheridan, WY, United States|Wyoming|/maps/dir//Sheridan+Answering+%26+Sectrl,+1617+N+Main+St+%232,+Sheridan,+WY+82801,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x5335fad09ace6ad7:0x593f37b8e61e33a2?sa=X&ved=1t:57443&ictx=111
+Natrona District Court Reporter|Casper, WY, United States|Wyoming|/maps/dir//Natrona+District+Court+Reporter,+200+N+Center+St,+Casper,+WY+82601,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8760bca2e7b15225:0x363a4b1251fc507b?sa=X&ved=1t:57443&ictx=111
+Albany County Court Reporter|Laramie, WY, United States|Wyoming|/maps/dir//Albany+County+Court+Reporter,+525+Grand+Ave,+Laramie,+WY+82070,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8768901e91eac4df:0xa355f79530682acf?sa=X&ved=1t:57443&ictx=111
+Legal Video of Wyoming|Casper, WY, United States|Wyoming|/maps/dir//Legal+Video+of+Wyoming,+1622+S+Oak+St,+Casper,+WY+82601,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8760bb5b11e625b9:0x400f292dda971b71?sa=X&ved=1t:57443&ictx=111
+None|None|Wyoming|None
+None|None|Wyoming|None
+None|None|Wyoming|None
+None|None|Wyoming|None
+None|None|Wyoming|None
+None|None|Wyoming|None
+None|None|Wyoming|None
+no clickable element
+done!!
+State of Wyoming data scraped successfully
+Court Reporter Washington DC|1821 Jefferson Pl NW #601|Washington, D.C.|http://courtreporter-washingtondc.com/
+Ace-Federal Reporters|1300 L St NW Suite 1001|Washington, D.C.|http://acefederal.com/
+Capital Reporting Company|1250 I St NW|Washington, D.C.|http://www.capitalreportingcompany.com/
+Planet Depos|1100 Connecticut Ave NW #950|Washington, D.C.|https://www.planetdepos.com/
+Bryan Wayne Court Reporter|333 Constitution Ave. NW|Washington, D.C.|https://www.dcd.uscourts.gov/court-reporter-directory
+Heritage Reporting Corporation|1220 L St NW #206|Washington, D.C.|https://www.hrccourtreporters.com/
+Esquire Deposition Solutions, LLC|1717 K St NW Suite 900 B|Washington, D.C.|https://www.esquiresolutions.com/?utm_medium=yext&utm_source=gmb&y_source=1_MTU0NTU1NDktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+Alderson Court Reporting|1111 14th St NW #7|Washington, D.C.|https://www.aldersonreporting.com/about-us/reporters-page/
+Anita B Glover & Associates Ltd|1718 M St NW|Washington, D.C.|http://www.anitaglover.com/
+Veritext Legal Solutions|1250 I St NW #350|Washington, D.C.|https://www.veritext.com/
+Olender Reporting Inc.|1100 Connecticut Ave NW|Washington, D.C.|http://www.olenderreporting.com/
+Neal R Gross & Co Inc|1716 14th St NW Ste. 200|Washington, D.C.|http://www.nealrgross.com/
+For the Record Inc|1100 H St NW #1050|Washington, D.C.|https://ftrinc.net/contact.htm
+Al Betz & Associates Inc|1425 K St NW #350|Washington, D.C.|http://www.albetzreporting.com/
+Precise Reporting Services|1200 G St NW|Washington, D.C.|https://precisereportingservices.net/
+Mars Reporting Group Llc|1629 K St NW #300|Washington, D.C.|http://www.mar-reporting.com/
+Washington DC Court Reporters|500 Indiana Ave NW # 5500|Washington, D.C.|/maps/dir//Washington+DC+Court+Reporters,+500+Indiana+Ave+NW+%23+5500,+Washington,+DC+20001,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89b7b78f7f9028f3:0x44af03a9b65f74f2?sa=X&ved=1t:57443&ictx=111
+Bryteson Reporting|888 Black Lives Matter Plz NW #600|Washington, D.C.|/maps/dir//Bryteson+Reporting,+888+Black+Lives+Matter+Plz+NW+%23600,+Washington,+DC+20006,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89b7b7bc294b37c1:0x8abd3f77f2a324e3?sa=X&ved=1t:57443&ictx=111
+Digital Evidence Group, LLC|1730 M St NW #812|Washington, D.C.|http://www.digitalevidencegroup.com/
+Diversified Reporting Services|Alexandria, VA, United States|Washington, D.C.|http://www.diversifiedreporting.com/
+I have the html!!
+
+Husbeby, Inc. Litigation Services|1050 Connecticut Ave NW|Washington, D.C.|http://www.huseby.com/
+Professional Court Services|1825 I St NW|Washington, D.C.|/maps/dir//Professional+Court+Services,+1825+I+St+NW,+Washington,+DC+20006,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89b7b7ba2c6291ef:0x86f4ee13492b1539?sa=X&ved=1t:57443&ictx=111
+DTI Court Reporting --Washington DC Metro|1875 I St NW|Washington, D.C.|/maps/dir//DTI+Court+Reporting+--Washington+DC+Metro,+1875+I+St+NW,+Washington,+DC+20005,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89b7b79651494e47:0x162cdf9ffce95a53?sa=X&ved=1t:57443&ictx=111
+Watergate Secretarial Services Inc|2600 Virginia Ave NW # 2|Washington, D.C.|/maps/dir//Watergate+Secretarial+Services+Inc,+2600+Virginia+Ave+NW+%23+2,+Washington,+DC+20037,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89b7b7b2c70f5ec7:0xf3f2b231da37f0cc?sa=X&ved=1t:57443&ictx=111
+None|None|Washington, D.C.|None
+None|None|Washington, D.C.|None
+None|None|Washington, D.C.|None
+None|None|Washington, D.C.|None
+None|None|Washington, D.C.|None
+None|None|Washington, D.C.|None
+None|None|Washington, D.C.|None
+None|None|Washington, D.C.|None
+None|None|Washington, D.C.|None
+None|None|Washington, D.C.|None
+None|None|Washington, D.C.|None
+None|None|Washington, D.C.|None
+None|None|Washington, D.C.|None
+None|None|Washington, D.C.|None
+None|None|Washington, D.C.|None
+None|None|Washington, D.C.|None
+no clickable element
+done!!
+State of Washington, D.C. data scraped successfully
+Scraped ALL states
