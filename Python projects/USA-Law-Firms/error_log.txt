@@ -50,3 +50,16 @@ Iteration 48 for the state of Wisconsin has some errror
 Iteration 49 for the state of Wyoming has some errror
 Iteration 50 for the state of Washington, D.C. has some errror
 Iteration 0 for the state of Alabama has some errror
+Iteration 28 for the state of New Hampshire has some errror
+Iteration 29 for the state of New Jersey has some errror
+Iteration 30 for the state of New Mexico has some errror
+Iteration 31 for the state of New York has some errror
+Iteration 32 for the state of North Carolina has some errror
+Iteration 33 for the state of North Dakota has some errror
+Iteration 34 for the state of Ohio has some errror
+Iteration 35 for the state of Oklahoma has some errror
+Iteration 28 for the state of New Hampshire has some errror
+Iteration 28 for the state of New Hampshire has some errror
+Iteration 30 for the state of New Mexico has some errror
+Iteration 28 for the state of New Hampshire has some errror
+Iteration 28 for the state of New Hampshire has some errror
