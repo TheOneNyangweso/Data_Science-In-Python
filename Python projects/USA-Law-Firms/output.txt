@@ -18,8 +18,6 @@ Huntsville Reporting|Huntsville, AL, Marekani · +1 256-533-9399|Alabama|http://
 Boggs Reporting & Video LLC|Montgomery, AL, Marekani · +1 334-264-6227|Alabama|https://boggsreporters.com/
 Clark Court Reporting|Florence, AL, Marekani · +1 256-766-6546|Alabama|https://clarkcourtreporting.com/
 Mobile Bay Reporting|Mobile, AL, Marekani · +1 251-438-7211|Alabama|http://mobilebayreporting.com/
-I have the html!!
-
 1-Record|+1 251-753-7344|Alabama|None
 Shawn M. Graham, Court Reporter|+1 256-679-7080|Alabama|None
 Veritext Legal Solutions|Birmingham, AL, Marekani · +1 205-397-2397|Alabama|https://www.veritext.com/
@@ -49,8 +47,6 @@ Ottmar & Associates|Phoenix, AZ, Marekani · +1 602-485-1488|Arizona|/maps/dir//
 Herder & Associates|Scottsdale, AZ, Marekani · +1 480-481-0649|Arizona|http://courtreportersaz.com/locations/court-reporter-scottsdale/
 Seymour Reporting Services|Gilbert, AZ, Marekani · +1 602-258-5800|Arizona|https://www.srsreporting.com/
 Donna DeLaVina Reporting|Gilbert, AZ, Marekani · +1 602-230-5454|Arizona|http://www.dlvreporting.com/
-I have the html!!
-
 Seymour Reporting Services|Phoenix, AZ, Marekani · +1 602-258-5800|Arizona|https://www.srsreporting.com/
 House Reporting|Tempe, AZ, Marekani · +1 480-839-6282|Arizona|http://www.housecourtreporting.com/
 Atkinson-Baker Court Reporters|Phoenix, AZ, Marekani · +1 800-288-3376|Arizona|http://www.depo.com/
@@ -64,8 +60,8 @@ Kim Bata Reporting|Phoenix, AZ, Marekani · +1 480-502-9900|Arizona|/maps/dir//K
 Foldy Reporting|Scottsdale, AZ, Marekani · +1 480-699-8002|Arizona|/maps/dir//Foldy+Reporting,+9375+E+Shea+Blvd+Suite+100,+Scottsdale,+AZ+85260,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x872b0bb8875c22bd:0x65e380a627b3ac1d?sa=X&ved=1t:57443&ictx=111
 KMD Court Reporting Services|Gilbert, AZ, Marekani · +1 480-203-9959|Arizona|https://www.kmdcrs.com/contact-us/
 Nichols Court Reporters|Scottsdale, AZ, Marekani · +1 480-990-8869|Arizona|/maps/dir//Nichols+Court+Reporters,+7373+E+Doubletree+Ranch+Rd+Unit+200,+Scottsdale,+AZ+85258,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x872b74cf4a177fcf:0x408c43412867dee1?sa=X&ved=1t:57443&ictx=111
-done!!
-State of Arizona data scraped successfully
+
+
 Arkansas Realtime Reporting, LLC|Fayetteville, AR, Marekani · +1 479-301-2040|Arkansas|http://www.arkansasrealtimereporting.com/
 Royal Court Reporters, LLC|+1 281-546-6994|Arkansas|http://royalcourtreporters.com/
 Gray Court Reporting|+1 501-615-5943|Arkansas|https://www.graycourtreporting.com/
@@ -86,8 +82,6 @@ Denise Mack Court Reporting|Little Rock, AR, Marekani · +1 501-993-4322|Arkansa
 Knight Court Reporting|Fort Smith, AR, Marekani · +1 479-806-5109|Arkansas|https://www.arcourts.gov/boccre/?q=node/1994
 Grigsby Reporting Services|Maumelle, AR, Marekani · +1 501-580-5117|Arkansas|/maps/dir//Grigsby+Reporting+Services,+135+Oneida+Way,+Maumelle,+AR+72113,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87d2ebcb261b6c3d:0xade669c710bf3ef3?sa=X&ved=1t:57443&ictx=111
 Northwest Arkansas Court|Fayetteville, AR, Marekani · +1 479-521-6607|Arkansas|/maps/dir//Northwest+Arkansas+Court,+381+E+Pharris+Dr,+Fayetteville,+AR+72703,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87c96c006307d9c7:0xcc1b4cce451da9cf?sa=X&ved=1t:57443&ictx=111
-I have the html!!
-
 Wilcox Court Reporting|+1 479-253-1875|Arkansas|http://www.wilcoxcourtreporting.net/
 Pritsch Gary|Hot Springs, AR, Marekani · +1 501-262-2639|Arkansas|/maps/dir//Pritsch+Gary,+103+Waimea+Ct,+Hot+Springs,+AR+71913,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8632d2918a1bdd6b:0xf93a3a03923f8cfa?sa=X&ved=1t:57443&ictx=111
 Professional Reporters|Fayetteville, AR, Marekani · +1 800-376-1006|Arkansas|http://www.proreporters.com/
@@ -104,8 +98,8 @@ Arvest Weddington Court|Fayetteville, AR, Marekani · +1 479-695-0026|Arkansas|/
 David Roe Legal Video|Fayetteville, AR, Marekani · +1 479-521-2150|Arkansas|/maps/dir//David+Roe+Legal+Video,+5644+W+Chattel+St,+Fayetteville,+AR+72704,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87c971e6450ce753:0x4fb97313ee492c78?sa=X&ved=1t:57443&ictx=111
 Royal Court Reporting|North Little Rock, AR, Marekani · +1 281-546-6994|Arkansas|/maps/dir//Royal+Court+Reporting,+5965+Allwood+Dr,+North+Little+Rock,+AR+72116,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x65f1907bac8b0795:0x23626eca90cf32ad?sa=X&ved=1t:57443&ictx=111
 donald court reporting online|Springdale, AR, Marekani|Arkansas|https://donaldcourtreporting.com/
-done!!
-State of Arkansas data scraped successfully
+
+
 Jilio-Ryan Court Reporters|Tustin, CA, Marekani · +1 714-424-9902|California|https://www.jilioryan.com/?utm_source=google&utm_medium=gbp
 California Deposition Reporters, Inc.|Covina, CA, Marekani · +1 800-242-1996|California|http://www.caldepo.com/
 Barkley Court Reporters|Los Angeles, CA, Marekani · +1 310-207-8000|California|http://www.barkley.com/
@@ -126,8 +120,6 @@ Scarpelli Court Reporting Services|Roseville, CA, Marekani · +1 916-412-0152|Ca
 iDepo Reporters|El Segundo, CA, Marekani · +1 323-393-3768|California|https://ideporeporters.com/
 Century Court Reporters Inc|Los Angeles, CA, Marekani · +1 310-284-9000|California|https://www.veritext.com/welcome-century-court-reporters/
 Barkley Court Reporters|Sacramento, CA, Marekani · +1 916-922-5777|California|https://barkley.com/
-I have the html!!
-
 Ayotte & Shackelford, Inc. Certified Court Reporters|Indian Wells, CA, Marekani · +1 760-340-2181|California|http://www.ayotteshackelford.com/
 Just Write Court Reporters|Ventura, CA, Marekani · +1 805-658-2777|California|http://www.justwritecr.com/
 Cal-Pacific Reporting, Inc.|San Rafael, CA, Marekani · +1 415-578-2480|California|http://www.calpacificreporting.com/
@@ -148,8 +140,6 @@ L.A. Reporters & Video Depositions|Burbank, CA, Marekani · +1 800-675-9700|Cali
 Merit Court Reporting & Video|San Luis Obispo, CA, Marekani · +1 805-541-0333|California|http://www.meritcourtreportingandvideo.com/
 Bob McCann & Associates Court Reporters|Van Nuys, CA, Marekani · +1 818-780-0604|California|http://www.mccannreporters.com/
 Kusar Court Reporters|Los Angeles, CA, Marekani · +1 562-437-8485|California|https://www.kusar.com/los-angeles-court-reporters/
-I have the html!!
-
 Court Reporters Board|Sacramento, CA, Marekani · +1 916-263-3660|California|https://www.courtreportersboard.ca.gov/
 NAEGELI Deposition & Trial Court Reporters|Sacramento, CA, Marekani · +1 916-836-1000|California|https://www.naegeliusa.com/locations/sacramento-california
 Napa Court Reporting|Napa, CA, Marekani · +1 707-480-1408|California|https://www.napa.courts.ca.gov/general-information/court-reporters
@@ -170,8 +160,6 @@ Barkley Court Reporters|Carlsbad, CA, Marekani · +1 760-322-2240|California|htt
 Personal Court Reporters, Inc.|Ontario, CA, Marekani · +1 909-460-5559|California|http://www.personalcourtreporters.com/
 Kusar Court Reporters|San Jose, CA, Marekani · +1 562-437-8485|California|https://www.kusar.com/san-jose-court-reporters/
 San Diego Courtroom Reporters Coalition|San Diego, CA, Marekani · +1 619-810-7622|California|http://www.sdcrc.com/
-I have the html!!
-
 Peranich Reporting Inc|Anaheim, CA, Marekani · +1 714-637-3774|California|https://peranichreporting.com/
 Watson Court Reporters|Los Angeles, CA, Marekani · +1 310-231-4333|California|https://www.watsoncsr.com/
 Palermo Reporting Services|Modesto, CA, Marekani · +1 209-577-4451|California|http://palermoreportingservices.com/
@@ -192,8 +180,6 @@ creekside court reporting|Soquel, CA, Marekani · +1 831-426-5767|California|htt
 Verbatim Reporting Services|Santa Rosa, CA, Marekani · +1 707-575-1819|California|http://www.verbatimreporting.com/
 Keleher's Certified Shorthand Reporters|Fresno, CA, Marekani · +1 800-635-6044|California|http://www.kelehers.com/
 Fresno Deposition Reporters|Fresno, CA, Marekani · +1 559-573-8219|California|http://fresnodepositionreporters.com/
-I have the html!!
-
 Central Valley Reporters|Fresno, CA, Marekani · +1 559-224-5511|California|/maps/dir//Central+Valley+Reporters,+5528+N+Palm+Ave+Suite+168,+Fresno,+CA+93704,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x809467d9f837360b:0x92a753c49ce8bb2f?sa=X&ved=1t:57443&ictx=111
 ASAP Court Reporting Inc|+1 619-232-6606|California|http://www.asapcr.com/
 Carrillo Reporting Services|South San Francisco, CA, Marekani · +1 650-872-0769|California|http://www.carrilloreportingservices.com/
@@ -214,8 +200,6 @@ Shelburne Sherr Court Reporters & Videography|San Diego, CA, Marekani · +1 619-
 Imber Court Reporters|Valencia, CA, Marekani · +1 661-295-4678|California|http://imbercourtreporters.com/
 Imagine Court Reporting|Fresno, CA, Marekani · +1 855-777-7865|California|http://www.imaginereporting.com/
 SF Reporters|San Francisco, CA, Marekani · +1 415-948-8289|California|http://sf-reporters.com/
-I have the html!!
-
 Bell & Myers Court Reporters and Legal Videographers|San Jose, CA, Marekani · +1 408-287-7500|California|http://www.bellandmyers.com/
 Esquire Deposition Solutions, LLC|Sacramento, CA, Marekani · +1 916-446-2700|California|https://www.esquiresolutions.com/?utm_medium=yext&utm_source=gmb&y_source=1_MTU0NTU1NzktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
 San Francisco Realtime Court Reporters|San Francisco, CA, Marekani · +1 415-834-1114|California|http://www.scanlanstone.com/
@@ -236,8 +220,6 @@ Peterson Reporting Video Services|San Diego, CA, Marekani · +1 619-260-1069|Cal
 Aiken Welch|Oakland, CA, Marekani · +1 510-451-1580|California|http://www.aikenwelch.com/
 Sims & Sims Deposition Reporters|Napa, CA, Marekani · +1 707-226-3022|California|http://www.simsandsims.com/
 U.S. Legal Support Court Reporting Services|Sherman Oaks, CA, Marekani · +1 747-223-6667|California|https://www.uslegalsupport.com/court-reporting-services-sherman-oaks/?utm_source=GMBlisting&utm_medium=organic
-I have the html!!
-
 Atkinson-Baker Court Reporters|San Diego, CA, Marekani · +1 619-243-5366|California|https://www.depo.com/
 L.A. Reporters|Beverly Hills, CA, Marekani · +1 424-331-5313|California|http://lareporters.com/
 Official Court Reporter|Fresno, CA, Marekani · +1 559-266-3789|California|/maps/dir//Official+Court+Reporter,+Robert+E.+Coyle+United+States+Courthouse,+2500+Tulare+St+%23+1501,+Fresno,+CA+93721,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80945e1f5fd9df77:0x35c6c012b8ad514c?sa=X&ved=1t:57443&ictx=111
@@ -258,8 +240,6 @@ Ross Reporting Services|Sacramento, CA, Marekani · +1 916-568-0254|California|h
 Veritext Legal Solutions|Los Angeles, CA, Marekani · +1 310-284-9000|California|https://www.veritext.com/
 L J Hart & Associates Certified Shorthand Reporters & Video Conferencing|Sacramento, CA, Marekani · +1 916-922-9001|California|http://ljhart.com/
 U.S. Legal Support Court Reporting Services|San Francisco, CA, Marekani · +1 415-777-2111|California|https://www.uslegalsupport.com/court-reporting-services-san-francisco/?utm_source=GMBlisting&utm_medium=organic
-I have the html!!
-
 Esquire Deposition Solutions, LLC|San Francisco, CA, Marekani · +1 415-591-3333|California|https://www.esquiresolutions.com/?utm_medium=yext&utm_source=gmb&y_source=1_MTU0NTU1NzgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
 Wood & Randall|Bakersfield, CA, Marekani · +1 661-395-1050|California|http://www.woodrandall.com/
 U.S. Legal Support|Los Angeles, CA, Marekani · +1 310-597-4822|California|http://www.uslegalsupport.com/
@@ -280,8 +260,6 @@ Todd Olivas & Associates|Murrieta, CA, Marekani · +1 888-566-0253|California|ht
 Bay Area Trial Reporters|Novato, CA, Marekani · +1 415-328-6644|California|http://www.bayareatrialreporters.com/
 Uccelli & Associates|South San Francisco, CA, Marekani · +1 650-952-0774|California|http://www.uccellireporting.com/
 Superior Court Reporters and Deposition Services|Ventura, CA, Marekani · +1 877-217-2678|California|/maps/dir//Superior+Court+Reporters+and+Deposition+Services,+First+Floor,,+3295+Telegraph+Rd,+Ventura,+CA+93003,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80e84d4b53037359:0xeb23bf75efb13185?sa=X&ved=1t:57443&ictx=111
-I have the html!!
-
 Patricia Callahan Reporting|Castro Valley, CA, Marekani · +1 510-885-2371|California|http://callahanreporting.com/
 Kim Thayer & Associates|Fresno, CA, Marekani · +1 559-221-9000|California|http://www.thayerreporting.com/
 Planet Depos|Los Angeles, CA, Marekani · +1 888-433-3767|California|https://www.planetdepos.com/
@@ -302,8 +280,6 @@ Biehl et al, CSR, Inc.|Irvine, CA, Marekani · +1 714-634-4800|California|http:/
 Kennedy Court Reporters|Santa Ana, CA, Marekani · +1 800-231-2682|California|https://www.kennedycourtreporters.com/
 APTUS COURT REPORTING|Los Angeles, CA, Marekani · +1 310-295-1218|California|http://aptuscr.com/
 Jeri Cain CS R's Inc|San Luis Obispo, CA, Marekani · +1 805-541-0333|California|http://www.meritreporting.com/
-I have the html!!
-
 Emerick & Finch|San Ramon, CA, Marekani · +1 800-331-9029|California|https://emerickfinch.com/
 Delta Deposition Reporting|+1 209-477-0837|California|None
 Veritext Legal Solutions|Sacramento, CA, Marekani · +1 916-379-5553|California|https://www.veritext.com/
@@ -324,8 +300,6 @@ California Court Reporters|Aliso Viejo, CA, Marekani · +1 949-715-4682|Californ
 SBS Reporting, Inc.|+1 818-917-5955|California|http://www.sbsreportinginc.com/
 Aiken & Welch Court Reporters|Sacramento, CA, Marekani · +1 877-451-1580|California|https://www.aikenwelch.com/
 JLF Reporting, Inc. - Certified Shorthand Reporters|+1 707-953-7478|California|None
-I have the html!!
-
 JLF Reporting, Inc. - Certified Shorthand Reporters|+1 707-953-7478|California|None
 Focus Litigation Solutions|Sacramento, CA, Marekani · +1 916-228-4593|California|http://www.focuslitigationsolutions.com/
 Golden State Reporting & Video|Fairfield, CA, Marekani · +1 707-399-8800|California|http://www.goldenstatereporting.com/
@@ -340,9 +314,8 @@ Personal Exposure Reporting (PER)|Sacramento, CA, Marekani · +1 916-921-9111|Ca
 First Watch Leasing|Torrance, CA, Marekani · +1 310-328-7028|California|/maps/dir//First+Watch+Leasing,+1867+Western+Way,+Torrance,+CA+90501,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c2b54de9090299:0x9d4335c8b1b0c2e5?sa=X&ved=1t:57443&ictx=111
 Steno Doctor|Orange, CA, Marekani · +1 714-937-5457|California|http://www.stenodoctor.com/
 Litigation Services|Sacramento, CA, Marekani · +1 800-330-1112|California|http://www.litigationservices.com/
-no clickable element
-done!!
-State of California data scraped successfully
+
+
 A PLUS COURT REPORTING of CT - Connecticut Court Reporters|Plainville, CT, Marekani · +1 203-269-9976|Connecticut|http://www.aplusreportingservice.com/
 Cassian Reporting LLC|Hartford, CT, Marekani · +1 860-595-7462|Connecticut|http://cassianreporting.com/
 Niziankiewicz Reporting Services, LLC|East Hartford, CT, Marekani · +1 860-290-8000|Connecticut|https://ctcourtreporting.com/
@@ -363,8 +336,6 @@ Beecher & Horvath|North Haven, CT, Marekani · +1 203-230-0010|Connecticut|/maps
 Court Reporters|Hartford, CT, Marekani · +1 860-566-3400|Connecticut|http://www.ctreporters.org/
 Fiore Reporting and Transcription Service, Inc.|Shelton, CT, Marekani · +1 203-929-9992|Connecticut|http://www.fioretranscription.com/
 Office Resources|Danbury, CT, Marekani · +1 203-798-8106|Connecticut|/maps/dir//Office+Resources,+10+Rose+St+%23+11,+Danbury,+CT+06810,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e7ff6442c94353:0xc8e81763f943efa6?sa=X&ved=1t:57443&ictx=111
-I have the html!!
-
 Court Reporter|New Haven, CT, Marekani · +1 203-497-8800|Connecticut|https://www.newhavencourtreporter.com/
 Court Reporter|Vernon, CT, Marekani · +1 860-870-3215|Connecticut|/maps/dir//Court+Reporter,+20+Park+St,+Vernon,+CT+06066,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e6f694be053667:0xed564acd8720af14?sa=X&ved=1t:57443&ictx=111
 Del Vecchio Reporting|Madison, CT, Marekani · +1 203-245-9583|Connecticut|https://www.delvecchioreporting.com/contact.cfm
@@ -378,9 +349,8 @@ Court Reporter|Norwalk, CT, Marekani · +1 203-847-3861|Connecticut|http://www.j
 Court Reporter|Milford, CT, Marekani · +1 203-874-8523|Connecticut|/maps/dir//Court+Reporter,+14+W+River+St,+Milford,+CT+06460,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e80e7a7f5c6757:0x761847d0a481b85e?sa=X&ved=1t:57443&ictx=111
 Court Reporter|Enfield, CT, Marekani · +1 860-745-8614|Connecticut|/maps/dir//Court+Reporter,+111+Phoenix+Ave,+Enfield,+CT+06082,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e6fb9adbbd02b3:0xb2f08722db54da0d?sa=X&ved=1t:57443&ictx=111
 Court Reporter|Bantam, CT, Marekani · +1 860-567-3938|Connecticut|/maps/dir//Court+Reporter,+80+Doyle+Rd,+Bantam,+CT+06750,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e791a39e6c0899:0xe96bf085bc2d6f11?sa=X&ved=1t:57443&ictx=111
-no clickable element
-done!!
-State of Connecticut data scraped successfully
+
+
 Veritext Legal Solutions|Wilmington, DE, Marekani · +1 302-571-0510|Delaware|https://www.veritext.com/
 Basye Santiago Reporting|Wilmington, DE, Marekani · +1 302-573-2300|Delaware|http://www.bsrreporting.com/
 Depositions Delaware LLC|Middletown, DE, Marekani · +1 302-464-0880|Delaware|/maps/dir//Depositions+Delaware+LLC,+321+Ellenwood+Dr,+Middletown,+DE+19709,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c70a656f2443f1:0xc91bf76ce78ae197?sa=X&ved=1t:57443&ictx=111
@@ -394,9 +364,8 @@ Media Court Reporting|Media, PA, Marekani · +1 610-566-0805|Delaware|http://www
 Cecil County Court Reporters|Elkton, MD, Marekani · +1 410-996-5326|Delaware|http://www.courts.state.md.us/clerks/cecil/courtreporters.html
 DLS Discovery Trial Support|Wilmington, DE, Marekani · +1 302-654-3345|Delaware|https://dlsdiscovery.net/
 Lexitas|Wilmington, DE, Marekani · +1 302-655-0477|Delaware|https://www.lexitaslegal.com/
-no clickable element
-done!!
-State of Delaware data scraped successfully
+
+
 Florida Court Reporting|West Palm Beach, FL, Marekani · +1 561-689-0999|Florida|http://www.floridacourtreporting.com/
 Bailey & Associates - Court Reporting Florida|Fort Lauderdale, FL, Marekani · +1 954-358-9090|Florida|http://www.baileycourtreporting.com/
 Brickell Key Court Reporting|Fort Lauderdale, FL, Marekani · +1 954-745-6168|Florida|http://www.brickellcourtreporting.com/court-reporting-fort-lauderdale/
@@ -417,8 +386,6 @@ All Florida Reporting, Inc.|Miami, FL, Marekani · +1 800-898-7373|Florida|http:
 Kaplan Leaman & Wolfe Court Reporters of West Palm Beach|West Palm Beach, FL, Marekani · +1 561-510-8382|Florida|https://klwreporters.com/locations/florida-court-reporters/west-palm-beach-fl/
 Prose Court Reporting Agency, LLC|West Palm Beach, FL, Marekani · +1 561-832-7500|Florida|http://proseflorida.com/
 Kaplan Leaman & Wolfe Court Reporters|Jupiter, FL, Marekani · +1 561-861-1104|Florida|https://klwreporters.com/locations/florida-court-reporters/jupiter/
-I have the html!!
-
 Milestone Reporting Company|Orlando, FL, Marekani · +1 407-423-9900|Florida|http://www.milestonereporting.com/
 Select Court Reporters, Inc.|Orlando, FL, Marekani · +1 407-977-7725|Florida|https://www.selectcourtreporters.com/
 Brickell Key Court Reporting|West Palm Beach, FL, Marekani · +1 561-214-4496|Florida|https://www.brickellcourtreporting.com/court-reporting-west-palm-beach/
@@ -439,8 +406,6 @@ Brickell Key Court Reporting|Naples, FL, Marekani · +1 239-206-2321|Florida|htt
 Imperial Court Reporting|Tampa, FL, Marekani · +1 813-527-9100|Florida|http://www.imperialcourtreporting.com/
 Southwest Florida Reporting Services|Bradenton, FL, Marekani · +1 239-774-2224|Florida|http://www.southwestfloridareporting.com/
 Coastal Court Reporters LLC|St. Augustine, FL, Marekani · +1 904-824-3525|Florida|http://www.coastalcourtreporters.com/
-I have the html!!
-
 St. Petersburg Court Reporting|St. Petersburg, FL, Marekani · +1 727-201-2520|Florida|http://stpetecourtreporting.com/
 Sarasota Court Reporters|Sarasota, FL, Marekani · +1 941-364-3390|Florida|http://www.sarasotacourtreporters.com/
 Amicus Court Reporting|Melbourne, FL, Marekani · +1 321-259-8500|Florida|http://amicuscourtreporting.com/
@@ -461,8 +426,6 @@ All Florida Reporting, Inc.|Altamonte Springs, FL, Marekani · +1 800-898-7373|F
 McSwain Court Reporting Group|Bartow, FL, Marekani · +1 863-533-4642|Florida|https://mcswain-court-reporting-group.business.site/?utm_source=gmb&utm_medium=referral
 Milestone | Reporting Company|Tampa, FL, Marekani · +1 407-423-9900|Florida|http://www.milestonereporting.com/
 All Florida Reporting, Inc.|Boca Raton, FL, Marekani · +1 800-898-7373|Florida|http://www.allfloridareporting.com/
-I have the html!!
-
 Seminole Court Reporting|Maitland, FL, Marekani · +1 407-659-5100|Florida|http://seminolereporting.com/
 Southern Reporting Company|Daytona Beach, FL, Marekani · +1 386-257-3663|Florida|http://www.southernreporting.com/
 Lexitas|Gainesville, FL, Marekani · +1 352-373-7778|Florida|https://www.phippsreporting.com/
@@ -483,8 +446,6 @@ Owen & Associates Court Reporters & Videoconferencing|Ocala, FL, Marekani · +1 
 Fort Myers Court Reporting|Punta Gorda, FL, Marekani · +1 239-334-1411|Florida|http://fmreporting.com/
 Breezy Court Reporting|+1 347-405-3436|Florida|None
 On the Record Reporting|Fort Lauderdale, FL, Marekani · +1 954-522-1915|Florida|/maps/dir//On+the+Record+Reporting,+100+SE+6th+St,+Fort+Lauderdale,+FL+33301,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d90058727d393b:0xe5e3f9ea493ff7da?sa=X&ved=1t:57443&ictx=111
-I have the html!!
-
 Diamond Court Reporting|Sarasota, FL, Marekani · +1 941-227-4701|Florida|https://diamondcourtreporting.com/
 Ryan Reporting|Rockledge, FL, Marekani · +1 321-636-4450|Florida|http://ryanreporting.com/
 Esquire Deposition Solutions, LLC|Tampa, FL, Marekani · +1 813-221-2535|Florida|https://www.esquiresolutions.com/?utm_medium=yext&utm_source=gmb&y_source=1_MTU0NTU1NTktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
@@ -505,8 +466,6 @@ Esquire Deposition Solutions, LLC|Orlando, FL, Marekani · +1 407-426-7676|Flori
 Executive Reporting Service|Clearwater, FL, Marekani · +1 727-823-4155|Florida|http://www.executivereporting.com/
 All Florida Reporting, Inc.|Port Charlotte, FL, Marekani · +1 800-898-7373|Florida|http://www.allfloridareporting.com/
 All Florida Reporting, Inc.|Brooksville, FL, Marekani · +1 800-898-7373|Florida|http://www.allfloridareporting.com/
-I have the html!!
-
 Southwest Florida Reporting Services, Inc.|Naples, FL, Marekani · +1 239-774-2224|Florida|http://www.southwestfloridareporting.com/
 Sclafani Williams Court Reporters, Inc.|Lakeland, FL, Marekani · +1 863-688-5000|Florida|https://www.uslegalsupport.com/press/us-legal-support-completes-acquisition-of-sclafani-williams-court-reporters-inc/
 Reliable Reporting Inc|Lakeland, FL, Marekani · +1 863-682-8737|Florida|https://www.reliablereportinginc.com/
@@ -527,8 +486,6 @@ Joy Hayes Court Reporting|Bushnell, FL, Marekani · +1 352-793-4501|Florida|http
 Southwest Florida Reporting Services|LaBelle, FL, Marekani · +1 239-774-2224|Florida|http://www.southwestfloridareporting.com/
 Anthem Reporting|Tampa, FL, Marekani · +1 888-909-2720|Florida|http://anthemreporting.com/
 Pleasanton & Marsaa Court Reporting|West Palm Beach, FL, Marekani · +1 561-963-9700|Florida|https://pleasantonmarsaacourtreporting.com/
-I have the html!!
-
 All Florida Reporting, Inc.|Orlando, FL, Marekani · +1 800-898-7373|Florida|http://www.allfloridareporting.com/
 For The Record Reporting, Inc.|Jacksonville, FL, Marekani · +1 904-545-5558|Florida|http://www.fortherecordreporters.com/
 Integra Reporting Group|Tampa, FL, Marekani · +1 813-259-4800|Florida|http://integrareporting.com/
@@ -549,8 +506,6 @@ Fernandez & Associates Court Reporters|Miami, FL, Marekani · +1 305-374-8868|Fl
 Lawyers Reporting|West Palm Beach, FL, Marekani · +1 561-242-0023|Florida|https://www.lawyersreporting.com/
 A-1 Court Reporting|Bradenton, FL, Marekani · +1 941-366-6634|Florida|/maps/dir//A-1+Court+Reporting,+887+62nd+St+Cir+E,+Bradenton,+FL+34208,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88c33c86c8a70f0b:0xa304e16caab685ca?sa=X&ved=1t:57443&ictx=111
 U.S. Legal Support Court Reporting Services|Ocala, FL, Marekani · +1 352-401-0080|Florida|https://www.uslegalsupport.com/court-reporting-services-ocala/?utm_source=GMBlisting&utm_medium=organic
-I have the html!!
-
 U.S. Legal Support Court Reporting Services|Ocala, FL, Marekani · +1 352-401-0080|Florida|https://www.uslegalsupport.com/court-reporting-services-ocala/?utm_source=GMBlisting&utm_medium=organic
 Magna Legal Services (Ft. Lauderdale)|Fort Lauderdale, FL, Marekani · +1 866-624-6221|Florida|http://magnals.com/
 Prestige Reporting Inc|Fort Lauderdale, FL, Marekani · +1 954-764-7297|Florida|/maps/dir//Prestige+Reporting+Inc,+633+S+Andrews+Ave+%23+202,+Fort+Lauderdale,+FL+33301,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d90058593c0d9f:0x1765e6736e0f9ba9?sa=X&ved=1t:57443&ictx=111
@@ -571,8 +526,6 @@ Supreme Court Reporters|Jacksonville, FL, Marekani · +1 904-780-0944|Florida|ht
 Robinson Reporting, Inc.|West Palm Beach, FL, Marekani · +1 561-771-2008|Florida|http://www.robinsonreporting.com/contact_us.html
 Esquire Deposition Solutions, LLC|Sarasota, FL, Marekani · +1 813-221-2535|Florida|https://www.esquiresolutions.com/?utm_medium=yext&utm_source=gmb&y_source=1_MTU0NTU1NjEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
 TLS Reporting Inc.|+1 561-753-7622|Florida|http://www.tlsreporting.com/
-I have the html!!
-
 Court Reporters Inc|Fort Pierce, FL, Marekani · +1 772-464-2664|Florida|http://court-reporters.com/
 Florida Court Reporters|Miami Beach, FL, Marekani|Florida|/maps/dir//Florida+Court+Reporters,+2170+Bay+Dr,+Miami+Beach,+FL+33141,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d9b2fadf0b690b:0x44738f01a6cdb807?sa=X&ved=1t:57443&ictx=111
 U.S. Legal Support Court Reporting Services|Daytona Beach, FL, Marekani · +1 386-423-1963|Florida|https://www.uslegalsupport.com/court-reporting-services-daytona-beach/?utm_source=GMBlisting&utm_medium=organic
@@ -593,8 +546,6 @@ Precise Reporting Services|Ponte Vedra Beach, FL, Marekani · +1 904-373-0175|Fl
 Pretner Reporting, LLC|+1 954-270-4279|Florida|None
 GulfCoast Reporting, Inc.|+1 727-781-8977|Florida|http://www.gulfcoastreporting.com/
 Brickell Key Court Reporting|Tampa, FL, Marekani · +1 813-565-8300|Florida|/maps/dir//Brickell+Key+Court+Reporting,+4830+W+Kennedy+Blvd+Suite+600,+Tampa,+FL+33609,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88c2c3b30a4bfd8d:0x161df543ec8573da?sa=X&ved=1t:57443&ictx=111
-I have the html!!
-
 U.S. Legal Support Court Reporting Services|Fort Myers, FL, Marekani · +1 239-332-7443|Florida|https://www.uslegalsupport.com/court-reporting-services-fort-myers/?utm_source=GMBlisting&utm_medium=organic
 All Good Reporters, LLC|+1 407-325-0281|Florida|http://www.allgoodreporters.com/
 Hardeman School of Court Reporting and Captioning|+1 877-372-2278|Florida|http://www.hardemanscrc.com/
@@ -615,8 +566,6 @@ Magna Legal Services|Tampa, FL, Marekani · +1 813-334-7728|Florida|https://magn
 Tampa Court Reporters|Tampa, FL, Marekani · +1 813-226-2882|Florida|/maps/dir//Tampa+Court+Reporters,+442+W.+W+Kennedy+Blvd+%23240,+Tampa,+FL+33606,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88c2c485909e9283:0xf4d7c6e8a8a828eb?sa=X&ved=1t:57443&ictx=111
 COURT REPORTERS OF WEST PALM BEACH|West Palm Beach, FL, Marekani · +1 561-296-6525|Florida|/maps/dir//COURT+REPORTERS+OF+WEST+PALM+BEACH,+477+S+Rosemary+Ave+%23202,+West+Palm+Beach,+FL+33401,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d8d66110bcb3d9:0x552cd8f98ed469cf?sa=X&ved=1t:57443&ictx=111
 Coastal Reporting|Fort Lauderdale, FL, Marekani · +1 954-523-5326|Florida|http://coastalreporting.com/
-I have the html!!
-
 Prestige Court Reporting, Inc.|Ocala, FL, Marekani · +1 352-860-1266|Florida|/maps/dir//Prestige+Court+Reporting,+Inc.,+405+SE+Osceola+Ave,+Ocala,+FL+34471,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88e7d4fc931d9b31:0x2777d7ce4a09d4da?sa=X&ved=1t:57443&ictx=111
 All Good Reporters, LLC|+1 800-208-6291|Florida|http://www.allgoodreporters.com/
 Mudrick Court Reporting Inc|None|Florida|http://www.mudrickreporting.com/
@@ -637,13 +586,11 @@ Esquire Reporting|Fort Pierce, FL, Marekani · +1 772-283-8002|Florida|http://ww
 Universal court reporting|St. Petersburg, FL, Marekani|Florida|https://ucrinc.com/
 A Pro Court Reporting|Tampa, FL, Marekani · +1 800-949-2776|Florida|/maps/dir//A+Pro+Court+Reporting,+505+E+Jackson+St,+Tampa,+FL+33606,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88c2c4859042c6d3:0x80add46e1abca0cc?sa=X&ved=1t:57443&ictx=111
 The Reporters Group, Inc.|Tampa, FL, Marekani · +1 813-228-8561|Florida|/maps/dir//The+Reporters+Group,+Inc.,+5300+W+Cypress+St+%23280,+Tampa,+FL+33607,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88c2c34e9af4d90b:0x2a6fed22546d1b56?sa=X&ved=1t:57443&ictx=111
-I have the html!!
-
 A Pro Court Reporting|Tampa, FL, Marekani · +1 800-949-2776|Florida|/maps/dir//A+Pro+Court+Reporting,+505+E+Jackson+St,+Tampa,+FL+33606,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88c2c4859042c6d3:0x80add46e1abca0cc?sa=X&ved=1t:57443&ictx=111
 The Reporters Group, Inc.|Tampa, FL, Marekani · +1 813-228-8561|Florida|/maps/dir//The+Reporters+Group,+Inc.,+5300+W+Cypress+St+%23280,+Tampa,+FL+33607,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88c2c34e9af4d90b:0x2a6fed22546d1b56?sa=X&ved=1t:57443&ictx=111
 Pleasanton, Greenhill, Meek & Marsaa|West Palm Beach, FL, Marekani · +1 561-833-7811|Florida|/maps/dir//Pleasanton,+Greenhill,+Meek+%26+Marsaa,+330+Clematis+St,+West+Palm+Beach,+FL+33401,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88d8d689dd948351:0xd0f0ebdd6627420a?sa=X&ved=1t:57443&ictx=111
-done!!
-State of Florida data scraped successfully
+
+
 Elizabeth Gallo Court Reporting|Atlanta, GA, Marekani · +1 404-389-1155|Georgia|https://www.georgiareporting.com/?utm_source=GMBlisting&utm_medium=organic
 American Court Reporting Co., Inc.|Atlanta, GA, Marekani · +1 404-892-1331|Georgia|http://www.acrga.com/
 NORTH GEORGIA COURT REPORTING|Gainesville, GA, Marekani · +1 770-983-3039|Georgia|http://www.ngacourtreporting.com/
@@ -664,8 +611,6 @@ Brentano Reporters|Atlanta, GA, Marekani · +1 770-952-8399|Georgia|https://rege
 VoiceWriting Court Reporting|Dunwoody, GA, Marekani · +1 770-842-3562|Georgia|http://courtreportingusa.com/
 McKee Court Reporting, Inc.|Savannah, GA, Marekani · +1 912-238-8808|Georgia|http://www.mckeecourtreporting.com/
 Combs Court Reporting, Inc.|Macon, GA, Marekani · +1 478-474-6987|Georgia|http://combscourtreporting.com/
-I have the html!!
-
 Gainesville Ga Court Reporters|Gainesville, GA, Marekani · +1 770-540-9832|Georgia|http://gainesvillegacourtreporters.com/
 Court Reporting Associates Inc|Macon, GA, Marekani · +1 478-742-1459|Georgia|/maps/dir//Court+Reporting+Associates+Inc,+577+Mulberry+St+%23+910,+Macon,+GA+31201,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88f3fe6524146211:0xdd016f049182c47a?sa=X&ved=1t:57443&ictx=111
 U.S. Legal Support Court Reporting Services|Atlanta, GA, Marekani · +1 404-381-1465|Georgia|https://www.uslegalsupport.com/court-reporting-services-atlanta/?utm_source=GMBlisting&utm_medium=organic
@@ -686,8 +631,6 @@ Southern States Court Reporting|+1 229-395-8860|Georgia|https://southernstatesco
 Bentley-Robinson Reporting, Inc.|Winder, GA, Marekani · +1 770-867-7882|Georgia|http://brcourtreporting.com/
 Associated Court Reporters|Albany, GA, Marekani · +1 229-888-3376|Georgia|/maps/dir//Associated+Court+Reporters,+1511+5th+Ave,+Albany,+GA+31707,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88f27bf8aa5cba4b:0x3021ee6dc37cd02a?sa=X&ved=1t:57443&ictx=111
 Hamlin Court Reporting LLC|Atlanta, GA, Marekani · +1 678-974-5980|Georgia|/maps/dir//Hamlin+Court+Reporting+LLC,+3645+Habersham+Rd+NE,+Atlanta,+GA+30305,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88f50f6476e31bff:0xe718c73ca7020d9e?sa=X&ved=1t:57443&ictx=111
-I have the html!!
-
 Pope Reporting & Video, LLC|+1 404-856-0966|Georgia|http://www.popereporting.com/
 Huseby Inc.|Atlanta, GA, Marekani · +1 800-333-2082|Georgia|http://www.huseby.com/
 Atlanta Peach Reporters, LLC|Atlanta, GA, Marekani · +1 770-452-0303|Georgia|http://atlantapeachreporters.com/
@@ -708,8 +651,6 @@ JPA Reporting LLC|Atlanta, GA, Marekani · +1 404-853-1811|Georgia|/maps/dir//JP
 Chattanooga Reporters Associates|Chattanooga, TN, Marekani · +1 423-266-0111|Georgia|/maps/dir//Chattanooga+Reporters+Associates,+622+Georgia+Ave+UNIT+103,+Chattanooga,+TN+37402,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88605e64e4793471:0x9e85accab4fe4b68?sa=X&ved=1t:57443&ictx=111
 Trustpoint.One|Atlanta, GA, Marekani · +1 855-669-1205|Georgia|https://trustpoint.one/
 Rome Court Reporting, LLC|Rome, GA, Marekani · +1 770-547-3174|Georgia|/maps/dir//Rome+Court+Reporting,+LLC,+3+Central+Plaza,+Box+134,+Rome,+GA+30161,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x888aa365d0a3c42f:0x6c2d28d4ba404fc7?sa=X&ved=1t:57443&ictx=111
-I have the html!!
-
 Accredited Court Reporters, Inc.|Columbus, GA, Marekani · +1 706-323-3640|Georgia|/maps/dir//Accredited+Court+Reporters,+Inc.,+2357+Warm+Springs+Rd+Suite+101,+Columbus,+GA+31904,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x888ccdd7a634c827:0x8573cacd1cbb3fdb?sa=X&ved=1t:57443&ictx=111
 SEI|+1 770-773-5405|Georgia|None
 Bull Darity Hopson Worley LLC|Atlanta, GA, Marekani · +1 404-256-2886|Georgia|http://www.bullcourtreporting.com/
@@ -730,8 +671,6 @@ US Court Reporter|Atlanta, GA, Marekani · +1 678-450-2777|Georgia|http://www.ga
 Find Legal Vendors|+1 407-790-2154|Georgia|None
 Worldwide Verbatim, LLC|Atlanta, GA, Marekani · +1 404-358-1526|Georgia|http://worldwideverbatim.com/
 Graham Reporting|Broxton, GA, Marekani · +1 912-551-2549|Georgia|/maps/dir//Graham+Reporting,+367+Elzie+Graham+Rd,+Broxton,+GA+31519,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88f1cd2fbcbd9b35:0xeaeb335ea464e097?sa=X&ved=1t:57443&ictx=111
-I have the html!!
-
 Marchetti Reporting, LLC|Columbus, GA, Marekani · +1 706-315-0147|Georgia|/maps/dir//Marchetti+Reporting,+LLC,+1639+Bradley+Park+Dr+Ste+500,+Columbus,+GA+31904,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x888ccb60daf2ce23:0xf7fd421c74a98f6f?sa=X&ved=1t:57443&ictx=111
 Prestige Reporting|Augusta, GA, Marekani · +1 706-447-3844|Georgia|/maps/dir//Prestige+Reporting,+2603+Commons+Blvd,+Augusta,+GA+30909,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88f9d29d823487a5:0x1ba249f900f91514?sa=X&ved=1t:57443&ictx=111
 Willow Reporting & Transcription|Woodstock, GA, Marekani · +1 770-380-1615|Georgia|https://willowtranscription.com/
@@ -752,9 +691,8 @@ TransGlobal Reporters Inc.|Alpharetta, GA, Marekani · +1 866-349-4744|Georgia|h
 Atlanta Realtime Reporters, Ltd.|Atlanta, GA, Marekani · +1 770-908-9821|Georgia|/maps/dir//Atlanta+Realtime+Reporters,+Ltd.,+Metropolis+Condos,+925+Peachtree+St+NE,+Atlanta,+GA+30309,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88f5046823e4be05:0x177c66ba7716ac17?sa=X&ved=1t:57443&ictx=111
 Dorsey & Associates Court Reporting, Inc.|Buckhead, GA, Marekani · +1 706-342-4010|Georgia|/maps/dir//Dorsey+%26+Associates+Court+Reporting,+Inc.,+1360+Fieldcrest+Ct,+Buckhead,+GA+30625,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88f6888d0945fbf9:0xf5507c227e8ea54b?sa=X&ved=1t:57443&ictx=111
 None|None|Georgia|None
-no clickable element
-done!!
-State of Georgia data scraped successfully
+
+
 Ralph Rosenberg Court Reporters|Honolulu, HI, Marekani · +1 888-524-5888|Hawaii|https://www.hawaiicourtreporters.com/
 iDepo Hawaii, LLC|Honolulu, HI, Marekani · +1 808-664-6677|Hawaii|https://www.idepohawaii.com/
 Island Court Reporting & Transcription Services Oahu|Honolulu, HI, Marekani · +1 808-933-9800|Hawaii|https://www.islandcourtreporting.com/
@@ -765,9 +703,8 @@ Ann B. Matsumoto|Honolulu, HI, Marekani · +1 808-541-2061|Hawaii|http://www.hid
 Alphabetum LLC|+1 808-536-0022|Hawaii|None
 Island Court Reporting & Transcription Services|Hilo, HI, Marekani · +1 808-933-9800|Hawaii|http://www.islandcourtreporting.com/
 Ralph Rosenberg Court Reporters|Kailua-Kona, HI, Marekani · +1 808-329-5443|Hawaii|http://www.hawaiicourtreporters.com/
-no clickable element
-done!!
-State of Hawaii data scraped successfully
+
+
 M & M Court Reporting Service|Boise, ID, Marekani · +1 208-345-9611|Idaho|http://www.idahocourtreporting.com/
 Idaho Court Reporters Association|Meridian, ID, Marekani · +1 908-266-8774|Idaho|/maps/dir//Idaho+Court+Reporters+Association,+2902+N+Eagle+Rd,+Meridian,+ID+83646,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54ae54440bf00001:0x38b963519b3c582c?sa=X&ved=1t:57443&ictx=111
 T&T Reporting|+1 208-529-5491|Idaho|https://ttreporting.com/
@@ -781,8 +718,8 @@ K & K Reporting|Lewiston, ID, Marekani · +1 208-743-1380|Idaho|http://kkreport.
 CDA Reporting Court Reporting|Coeur d'Alene, ID, Marekani · +1 208-765-3666|Idaho|/maps/dir//CDA+Reporting+Court+Reporting,+250+Northwest+Blvd+%23101A,+Coeur+d%27Alene,+ID+83814,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x5361c68b010353f3:0xb1502ca23d3d6466?sa=X&ved=1t:57443&ictx=111
 M & M Court Reporting Services Inc|Coeur d'Alene, ID, Marekani · +1 800-879-1700|Idaho|http://www.mmcourt.com/
 Ron Fernicola & Associates|Coeur d'Alene, ID, Marekani · +1 661-775-8299|Idaho|http://www.rfa-reporters.com/
-done!!
-State of Idaho data scraped successfully
+
+
 illinois official court reporters|Springfield, IL, Marekani · +1 217-557-0876|Illinois|https://www.ilcrs.com/
 Moran Court Reporting|+1 708-670-7812|Illinois|http://morancourtreportingchicago.com/
 L.A. Court Reporters, LLC|Chicago, IL, Marekani · +1 312-419-9292|Illinois|https://lareporting.com/
@@ -803,8 +740,6 @@ Scheff & Associates, Inc.|Marekani · +1 312-214-1994|Illinois|http://www.scheff
 Casale Reporting Service|Chicago, IL, Marekani · +1 312-332-7900|Illinois|http://www.casalereporting.com/
 Thompson Court Reporters, Inc.|Hoffman Estates, IL, Marekani · +1 312-421-3377|Illinois|http://www.thompsonreporters.com/
 CK Reporting Ltd|Chicago, IL, Marekani · +1 312-223-9201|Illinois|http://www.ckreporting.com/
-I have the html!!
-
 Thompson Court Reporters, Inc.|Naperville, IL, Marekani · +1 312-421-3377|Illinois|http://www.thompsonreporters.com/
 Sonntag Reporting Service d/b/a Chicago-area Realtime & Court Reporting, Ltd.|Chicago, IL, Marekani · +1 800-232-0265|Illinois|http://chicago-realtime.com/
 Maninfior Court Reporting Services|Mattoon, IL, Marekani · +1 217-235-1127|Illinois|/maps/dir//Maninfior+Court+Reporting+Services,+1612+Lafayette+Ave,+Mattoon,+IL+61938,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x887311d993d8b7cb:0x88ccf84cdad4f6f8?sa=X&ved=1t:57443&ictx=111
@@ -825,8 +760,6 @@ L & L Reporting Service, Inc.|Waukegan, IL, Marekani · +1 847-623-7580|Illinois
 George E Rydman & Associates Ltd|Joliet, IL, Marekani · +1 815-727-4363|Illinois|http://www.georgerydman.com/
 Paszkiewicz Litigation Services, Home of Lake Cook Reporting|Buffalo Grove, IL, Marekani · +1 847-236-0773|Illinois|https://www.spreporting.com/
 Mosier Reporting Services LLC|Chicago, IL, Marekani · +1 312-632-1116|Illinois|http://www.mosierreporting.com/
-I have the html!!
-
 Esquire Deposition Solutions, LLC|Chicago, IL, Marekani · +1 312-782-8087|Illinois|https://www.esquiresolutions.com/?utm_medium=yext&utm_source=gmb&y_source=1_MTU0NTU1NjMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
 Advantage Reporting Service|Peoria, IL, Marekani · +1 309-673-1881|Illinois|http://www.advantagereportingservice.com/
 Charles R. Zandi, CSR|+1 312-435-5387|Illinois|None
@@ -847,8 +780,6 @@ Joanne Cimino Court Reporting|Chicago, IL, Marekani · +1 312-263-4677|Illinois|
 Jensen Litigation Solutions|Chicago, IL, Marekani · +1 312-236-6936|Illinois|/maps/dir//Jensen+Litigation+Solutions,+180+N+La+Salle+Dr+%232800,+Chicago,+IL+60601,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x880e2cb9ec507e35:0xfe5bacebf3f9540a?sa=X&ved=1t:57443&ictx=111
 Cook County Court Reporter|Rolling Meadows, IL, Marekani · +1 847-818-2600|Illinois|https://www.cookcountycourt.org/ABOUT-THE-COURT/Office-of-the-Chief-Judge/Court-Related-Services/Official-Court-Reporters
 Eunice Sachs & Associates|Flossmoor, IL, Marekani · +1 708-709-0500|Illinois|http://www.sachsreporting.com/
-I have the html!!
-
 Area Wide Reporting Service|Champaign, IL, Marekani · +1 217-356-5119|Illinois|https://areawide.net/
 Urlaub Bowen & Associates|Chicago, IL, Marekani · +1 312-781-9586|Illinois|http://urlaubbowen.com/
 Arndt Reporting & Legal Video|Millstadt, IL, Marekani · +1 618-277-7677|Illinois|http://www.arndtreporting.com/
@@ -869,9 +800,8 @@ Excel Reporters Inc|Chicago, IL, Marekani · +1 312-814-8400|Illinois|/maps/dir/
 None|None|Illinois|None
 None|None|Illinois|None
 None|None|Illinois|None
-no clickable element
-done!!
-State of Illinois data scraped successfully
+
+
 Circle City Reporting|Indianapolis, IN, Marekani · +1 317-635-7857|Indiana|http://circlecityreporting.com/
 Stewart Richardson Deposition Services|Indianapolis, IN, Marekani · +1 317-237-3773|Indiana|http://www.stewartrichardson.com/
 Connor Reporting|Indianapolis, IN, Marekani · +1 800-554-3376|Indiana|https://www.connorreporting.com/
@@ -892,8 +822,6 @@ SmS Reporting, LLC|Corydon, IN, Marekani · +1 812-267-2402|Indiana|http://www.s
 Office Court Reporting, LLC|Marion, IN, Marekani · +1 765-662-0015|Indiana|http://www.officecourtreporting.com/
 Williams Court Reporting, LLC|Anderson, IN, Marekani · +1 765-644-3040|Indiana|https://cardinalcourtreporting.com/
 BOSS Reporters|Gary, IN, Marekani · +1 219-769-9090|Indiana|http://www.bossreporters.com/
-I have the html!!
-
 Crist Reporting Services|Portage, IN, Marekani · +1 219-762-1158|Indiana|/maps/dir//Crist+Reporting+Services,+2164+Whippoorwill+St,+Portage,+IN+46368,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8811be4b03903d51:0x2319e7efe1904fdb?sa=X&ved=1t:57443&ictx=111
 Holm Court Reporting & Video|Fort Wayne, IN, Marekani · +1 260-420-5025|Indiana|http://www.holmreporting.com/
 Connor Reporting|Bloomington, IN, Marekani · +1 800-554-3376|Indiana|https://connorreporting.com/all-locations/bloomington-in/
@@ -914,8 +842,6 @@ Boss Reporters - Merrillville|Merrillville, IN, Marekani · +1 219-769-9090|Indi
 Stewart Richardson Deposition Services|Fort Wayne, IN, Marekani · +1 260-444-4864|Indiana|http://www.stewartrichardson.com/
 Smith Reporting - Muncie|Muncie, IN, Marekani · +1 765-284-7836|Indiana|http://www.smithreporting.net/
 Midwest Reporting, Inc|South Bend, IN, Marekani · +1 574-288-4242|Indiana|/maps/dir//Midwest+Reporting,+Inc,+1448+Lincolnway+E,+South+Bend,+IN+46613,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8816ccfd545b67a5:0x7bc6c46bba9055f7?sa=X&ved=1t:57443&ictx=111
-I have the html!!
-
 Fillenwarth Reporting Services|Whiteland, IN, Marekani · +1 317-345-6179|Indiana|/maps/dir//Fillenwarth+Reporting+Services,+775+Hummingbird+Ln,+Whiteland,+IN+46184,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x886b688c2a78b881:0x408b6ad3afee977d?sa=X&ved=1t:57443&ictx=111
 Connor Reporting|Carmel, IN, Marekani · +1 888-283-1161|Indiana|http://connorreporting.com/
 Smith Reporting - Richmond|Richmond, IN, Marekani · +1 765-966-6474|Indiana|http://www.smithreporting.net/
@@ -936,14 +862,12 @@ Migliore & Associates LLC|Louisville, KY, Marekani · +1 502-561-3417|Indiana|ht
 Coulter Reporting LLC|Louisville, KY, Marekani · +1 502-582-1627|Indiana|https://www.coulterreporting.com/
 Jury Parking|Indianapolis, IN, Marekani|Indiana|/maps/dir//Jury+Parking,+Indianapolis,+IN+46204,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x886b51d81e2a8825:0xe14e490f8b1225c2?sa=X&ved=1t:57443&ictx=111
 Video Court Reporting Services, Inc.|Northfield, KY, Marekani · +1 502-561-9988|Indiana|http://www.videocourtreportingky.com/
-I have the html!!
-
 County Court Reporter|Elkhart, IN, Marekani · +1 574-523-2321|Indiana|/maps/dir//County+Court+Reporter,+315+S+2nd+St,+Elkhart,+IN+46516,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8816c3290d24a541:0x55ae33fe16136e4?sa=X&ved=1t:57443&ictx=111
 Wimmel Reporting Services|+1 513-365-5825|Indiana|http://www.wimmelreporting.com/
 College of Court Reporting Inc|Valparaiso, IN, Marekani · +1 866-294-3974|Indiana|http://www.ccr.edu/
 Callahan Reporting Inc|Fishers, IN, Marekani|Indiana|/maps/dir//Callahan+Reporting+Inc,+151+Sunblest+Blvd+S,+Fishers,+IN+46038,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8814b3a23f7a81a5:0x222ad68af76e513?sa=X&ved=1t:57443&ictx=111
 L & L Reporting Inc|Gary, IN, Marekani · +1 219-670-2238|Indiana|/maps/dir//L+%26+L+Reporting+Inc,+7801+Lake+Shore+Dr,+Gary,+IN+46403,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8811c0ecfc0af811:0xf54e3b272aecd3b1?sa=X&ved=1t:57443&ictx=111
-State of Indiana data scraped successfully
+
 Court Reporters of Iowa - Iowa City Iowa|Iowa City, IA, Marekani · +1 800-270-3376|Iowa|http://www.courtreportersofiowa.com/
 Court Reporters of Iowa - Des Moines|Des Moines, IA, Marekani · +1 800-270-3376|Iowa|http://www.courtreportersofiowa.com/
 Court Reporters of Iowa - Cedar Rapids|Cedar Rapids, IA, Marekani · +1 800-270-3376|Iowa|http://www.courtreportersofiowa.com/
@@ -964,8 +888,6 @@ Malloy Reporting Service|Boone, IA, Marekani · +1 515-230-2772|Iowa|https://www
 Accurate Reporting Service - Depositions (Decorah, Iowa)|Decorah, IA, Marekani · +1 563-584-9673|Iowa|https://www.accuratereportingservice.com/
 Huney-Vaughn Court Reporters|Davenport, IA, Marekani · +1 563-326-6480|Iowa|http://www.huneyvaughn.com/
 Midwest Court Reporting Llc|Ankeny, IA, Marekani · +1 515-965-0411|Iowa|http://www.midwestcourtreporting.com/
-I have the html!!
-
 Petersen Court Reporters, Inc.|+1 515-243-6596|Iowa|http://petersencourtreporters.com/
 T R Court Reporters|Ames, IA, Marekani · +1 515-292-2339|Iowa|http://trcourtreporters.com/
 Iowa Court Reporters Association|Dallas Center, IA, Marekani|Iowa|http://www.iacra.org/
@@ -983,8 +905,8 @@ Accurate Reporting, Inc.|Sergeant Bluff, IA, Marekani · +1 712-271-7111|Iowa|/m
 Legal conference|+1 319-382-8907|Iowa|None
 Accurate Reporting Service|Dubuque, IA, Marekani · +1 563-584-9673|Iowa|http://www.accuratereportingservice.com/
 Polk County Court Reporters|Des Moines, IA, Marekani · +1 515-286-3108|Iowa|/maps/dir//Polk+County+Court+Reporters,+500+Mulberry+St,+Des+Moines,+IA+50309,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87ee990024f82e55:0xfad5613e29ffaeb3?sa=X&ved=1t:57443&ictx=111
-done!!
-State of Iowa data scraped successfully
+
+
 Metropolitan Court Reporters|Overland Park, KS, Marekani · +1 913-317-8800|Kansas|http://www.metropolitanreporters.com/
 AAA Court Reporting|Overland Park, KS, Marekani · +1 913-385-2699|Kansas|https://www.aaacourtreporters.com/
 Cornerstone Court Reporting Company, LLC|Lenexa, KS, Marekani · +1 913-825-2510|Kansas|https://cornerstonekc.net/
@@ -1005,8 +927,6 @@ Stock Court Reporting LLC|Lenexa, KS, Marekani · +1 913-890-3181|Kansas|http://
 Appino & Biggs Reporting Service, Inc.|Topeka, KS, Marekani · +1 785-273-3063|Kansas|https://www.appinobiggs.com/
 Appino & Biggs Reporting Serivce, Inc.|Overland Park, KS, Marekani · +1 913-383-1131|Kansas|https://www.appinobiggs.com/
 Rachelle Smith, CSR|Wichita, KS, Marekani · +1 316-640-7322|Kansas|/maps/dir//Rachelle+Smith,+CSR,+500+S+Topeka+St+STE+800,+Wichita,+KS+67202,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87bb1c56fbb913ab:0x35133d9d5494f82d?sa=X&ved=1t:57443&ictx=111
-I have the html!!
-
 Midwest Reporters|Topeka, KS, Marekani · +1 800-528-3194|Kansas|https://midwestreporters.net/locations/
 Midwest Reporters Inc.|McPherson, KS, Marekani · +1 800-528-3194|Kansas|https://midwestreporters.net/
 Cherokee Court Reporter|Columbus, KS, Marekani · +1 620-429-3898|Kansas|/maps/dir//Cherokee+Court+Reporter,+110+W+Maple+St+%23+234,+Columbus,+KS+66725,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87c809b0b9640365:0xeb36a3beb0b09b0b?sa=X&ved=1t:57443&ictx=111
@@ -1027,8 +947,6 @@ Lexitas Legal|Kansas City, MO, Marekani · +1 816-221-1160|Kansas|https://www.le
 Gove Cheryl L|Kansas City, KS, Marekani · +1 913-321-8733|Kansas|/maps/dir//Gove+Cheryl+L,+1900+Nebraska+Ave,+Kansas+City,+KS+66102,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87c0f3dbdd0f210f:0x4570ae2b188fec67?sa=X&ved=1t:57443&ictx=111
 Harrison Elliott|Wichita, KS, Marekani · +1 316-267-8278|Kansas|http://www.harrisonelliott.com/
 Appino & Biggs Reporting Service, Inc.|Wichita, KS, Marekani · +1 316-201-1612|Kansas|https://www.appinobiggs.com/
-I have the html!!
-
 Deposition Services|Wichita, KS, Marekani · +1 316-264-7876|Kansas|/maps/dir//Deposition+Services,+155+N+Market+St+%23+810,+Wichita,+KS+67202,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87bae3c26c6984b1:0x769854e8d0c7dab5?sa=X&ved=1t:57443&ictx=111
 Miss Court Reporter|+1 256-347-3493|Kansas|http://www.misscourtreporter.com/
 Stenovate|None|Kansas|https://www.stenovate.com/
@@ -1043,9 +961,8 @@ Joplin Court Reporting|Joplin, MO, Marekani · +1 479-273-9199|Kansas|/maps/dir/
 Kansas Legal Video|+1 800-528-3194|Kansas|https://midwestreporters.net/
 Kansas Association Of Court Services Officers|Kansas City, KS, Marekani · +1 913-573-8018|Kansas|http://kacso.net/
 None|None|Kansas|None
-no clickable element
-done!!
-State of Kansas data scraped successfully
+
+
 Kentucky Court Reporters|Lexington, KY, Marekani · +1 859-410-2415|Kentucky|https://kentucky-court-reporters.com/
 Taylor Court Reporters Kentucky|Lexington, KY, Marekani · +1 859-270-2940|Kentucky|http://www.taylorcourtreporters.com/
 Taylor Court Reporters|Louisville, KY, Marekani · +1 502-671-8110|Kentucky|https://taylorcourtreporters.com/
@@ -1066,8 +983,6 @@ Kentuckiana Court Reporters|London, KY, Marekani · +1 877-808-5856|Kentucky|htt
 Cjv Reporting Company|Edgewood, KY, Marekani · +1 859-581-9794|Kentucky|http://www.cjvreporting.com/
 Ohio Valley Reporting|Owensboro, KY, Marekani · +1 270-683-7383|Kentucky|http://ohiovalleyreporting.com/
 For The Record Reporting|Somerset, KY, Marekani · +1 606-872-1662|Kentucky|http://fortherecordreporting.business.site/
-I have the html!!
-
 Sargent's Court Reporting Service, Inc.|Pikeville, KY, Marekani · +1 606-432-0087|Kentucky|http://sargents.com/court-reporting/
 Exacta Court Reporting|Paintsville, KY, Marekani · +1 606-789-3034|Kentucky|/maps/dir//Exacta+Court+Reporting,+2496+KY-1107,+Paintsville,+KY+41240,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8845a9ad484738e1:0x31679c17b7c36b26?sa=X&ved=1t:57443&ictx=111
 Todd & Associates Reporting, Inc.|+1 859-967-3783|Kentucky|https://www.toddreporting.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=14496414526287784517
@@ -1078,9 +993,8 @@ An /Dor Reporting & Video Technologies Inc|Lexington, KY, Marekani · +1 859-254
 Chuppe Soergel & Abell LLC|Louisville, KY, Marekani · +1 502-459-4000|Kentucky|http://www.kydepo.net/
 Domanico Reporting Inc|+1 859-271-8593|Kentucky|None
 Laura L. Wagner, Court Reporter|+1 502-664-6677|Kentucky|https://laura-l-wagner-court-reporter.business.site/?utm_source=gmb&utm_medium=referral
-no clickable element
-done!!
-State of Kentucky data scraped successfully
+
+
 Court Reporters of Louisiana|Baton Rouge, LA, Marekani · +1 225-201-9650|Louisiana|http://www.courtreportersla.com/
 Louisiana Court Reporters|New Orleans, LA, Marekani · +1 504-229-6666|Louisiana|http://www.louisianacourtreporters.com/
 Serpas Court Reporting|Madisonville, LA, Marekani · +1 985-206-9303|Louisiana|http://serpascourtreporting.com/
@@ -1101,8 +1015,6 @@ Copeland Court Reporters|Monroe, LA, Marekani · +1 318-387-2889|Louisiana|/maps
 goDEPO Court Reporting & Legal Video|Lafayette, LA, Marekani · +1 337-237-4434|Louisiana|https://www.godepo.com/
 Lori Heaphy & Associates, LLC, Certified Court Reporters|Lafayette, LA, Marekani · +1 337-233-1655|Louisiana|http://www.loriheaphy.com/
 Moore Reporting|+1 318-868-7478|Louisiana|None
-I have the html!!
-
 Brooks Court Reporting, Inc.|New Orleans, LA, Marekani · +1 504-525-4545|Louisiana|http://brookscourtreporting.com/
 Affiliated Reporting|New Orleans, LA, Marekani · +1 504-568-9111|Louisiana|http://www.affiliatedreporting.com/
 Affiliated Reporting, LLC|+1 504-568-9111|Louisiana|http://affiliatedreporting.com/
@@ -1123,8 +1035,6 @@ Jamie A. Roy, Certified Stenotype Reporters|Lafayette, LA, Marekani · +1 337-98
 InVision Deposition|+1 504-329-9253|Louisiana|None
 Pilant Court Reporting|Morgan City, LA, Marekani · +1 985-384-1626|Louisiana|http://pilant.com/
 Stockman Court Reporters|Lake Charles, LA, Marekani · +1 337-477-6278|Louisiana|/maps/dir//Stockman+Court+Reporters,+3521+Adrienne+Ln,+Lake+Charles,+LA+70605,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x863b87b5a3110087:0xa638aee299f96e0b?sa=X&ved=1t:57443&ictx=111
-I have the html!!
-
 On the Record|Metairie, LA, Marekani · +1 504-378-3850|Louisiana|/maps/dir//On+the+Record,+3350+Ridgelake+Dr,+Metairie,+LA+70002,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8620b028c6cce6cb:0x5d1268d536b08806?sa=X&ved=1t:57443&ictx=111
 Curren & Landrieu LLC|Metairie, LA, Marekani · +1 504-833-3330|Louisiana|http://www.currenland.com/
 Pilant Court Reporting Services|Shreveport, LA, Marekani · +1 800-841-6863|Louisiana|https://pilant.com/
@@ -1145,7 +1055,6 @@ Accu-Depo|+1 888-228-1370|Louisiana|http://accudepo.com/
 Debbie Chaney G-Court Rep|Lafayette, LA, Marekani · +1 337-988-6039|Louisiana|http://www.loriheaphy.com/
 goDEPO Court Reporting & Legal Video|Alexandria, LA, Marekani · +1 318-357-9377|Louisiana|https://www.godepo.com/
 Kelly & Associates LLC|Jefferson, LA, Marekani · +1 504-891-6333|Louisiana|/maps/dir//Kelly+%26+Associates+LLC,+621+Dodge+Ave,+Jefferson,+LA+70121,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8620a436ffffffff:0x14e525b14c66eaf?sa=X&ved=1t:57443&ictx=111
-I have the html!!
 Vincent P Borrello Jr & Associates|Metairie, LA, Marekani · +1 504-391-9878|Louisiana|http://www.vincentborrello.com/
 Accu-Depo, LLC|+1 888-228-1370|Louisiana|http://accudepo.com/
 Rush Reporting, LLC|New Orleans, LA, Marekani · +1 504-833-7110|Louisiana|/maps/dir//Rush+Reporting,+LLC,+New+Orleans,+LA+70112,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8620a5e300000001:0x388d49c947532e86?sa=X&ved=1t:57443&ictx=111
@@ -1154,8 +1063,8 @@ Janet Parker Johns Pendleton|Baton Rouge, LA, Marekani · +1 225-344-4559|Louisi
 Provision Media Services, LLC|+1 504-715-3925|Louisiana|http://provisionmediaservices.com/
 Nicole Poirrier Court Reporting|Youngsville, LA, Marekani|Louisiana|/maps/dir//Nicole+Poirrier+Court+Reporting,+115+Weeks+Dr,+Youngsville,+LA+70592,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8623625426c983db:0x9da3cd8b223d516c?sa=X&ved=1t:57443&ictx=111
 Thorla Legal|Broussard, LA, Marekani · +1 337-371-9055|Louisiana|/maps/dir//Thorla+Legal,+406+Easy+Rock+Landing+Dr,+Broussard,+LA+70518,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x86237d3da7d3137b:0xa51bb7a2fc1cae29?sa=X&ved=1t:57443&ictx=111
-done!!
-State of Louisiana data scraped successfully
+
+
 CRC Salomon Court Reporting|Pikesville, MD, Marekani · +1 410-821-4888|Maryland|http://www.crcsalomon.com/
 Court Reporters ETCetera, Inc.|Baltimore, MD, Marekani · +1 800-947-3376|Maryland|https://credepo.com/
 Capital Reporting Co|Baltimore, MD, Marekani · +1 410-685-3376|Maryland|https://www.capitalreportingcompany.com/
@@ -1176,8 +1085,6 @@ ELSS Executive Reporting, LLC|Stevensville, MD, Marekani · +1 410-643-4442|Mary
 Veritext Legal Solutions|Baltimore, MD, Marekani · +1 410-837-3027|Maryland|https://www.veritext.com/
 Elss Executive Reporting|Stevensville, MD, Marekani · +1 301-714-1882|Maryland|http://elssreporting.com/
 Veritext Legal Solutions|Annapolis, MD, Marekani · +1 410-268-6006|Maryland|https://www.veritext.com/
-I have the html!!
-
 Free State Reporting, Inc.|Annapolis, MD, Marekani · +1 800-231-8973|Maryland|http://freestatereporting.com/
 ELSS Executive Reporting, LLC|Hagerstown, MD, Marekani · +1 301-714-1882|Maryland|http://elssreporting.com/
 Record Keepers Step by Step Instruction|+1 301-247-1730|Maryland|https://record-keepers-step-by-step-instruction.business.site/?utm_source=gmb&utm_medium=referral
@@ -1192,7 +1099,7 @@ Bryan Wayne Court Reporter|Washington, DC, Marekani · +1 202-289-8464|Maryland|
 Court Reporter Washington DC|Washington, DC, Marekani · +1 202-436-9475|Maryland|http://courtreporter-washingtondc.com/
 Epiq|Rockville, MD, Marekani · +1 301-762-8282|Maryland|http://www.epiqglobal.com/
 Banks Sharon L Reporting|Brandywine, MD, Marekani · +1 301-372-6922|Maryland|/maps/dir//Banks+Sharon+L+Reporting,+3712+Danville+Rd,+Brandywine,+MD+20613,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89b7a4426c811b19:0x9acc1eaf466ab1a0?sa=X&ved=1t:57443&ictx=111
-State of Massachusetts data scraped successfully
+
 Newman Court Reporting|+1 248-417-5651|Michigan|http://www.newmancourtreporting.com/
 Lansing Court Reporting|+1 248-535-8227|Michigan|http://www.avrealtime.com/
 Meadowbrook Court Reporting|Troy, MI, Marekani · +1 248-334-6300|Michigan|http://meadowbrookcourtreporting.com/
@@ -1213,8 +1120,6 @@ Amy Shankleton Modern Court|Saline, MI, Marekani · +1 734-429-9143|Michigan|/ma
 Great Lakes Shorthand|Grand Rapids, MI, Marekani · +1 616-676-0566|Michigan|http://greatlakesshorthand.com/
 Anne Vosburgh, AV REALTIME, INC.|+1 248-535-8227|Michigan|http://www.avrealtime.com/
 U.S. Legal Support Court Reporting Services|Southfield, MI, Marekani · +1 248-846-0718|Michigan|https://www.uslegalsupport.com/court-reporting-services-southfield/?utm_source=GMBlisting&utm_medium=organic
-I have the html!!
-
 Carroll Court Reporting|Troy, MI, Marekani · +1 800-474-1118|Michigan|http://www.carrollcourtreporting.com/
 Ripka Boroski & Associates|Flint, MI, Marekani · +1 810-234-7785|Michigan|https://www.ripkaboroski.net/
 Korrekt Court Reporting|Westland, MI, Marekani · +1 248-932-1000|Michigan|/maps/dir//Korrekt+Court+Reporting,+34344+Claudia+Ct,+Westland,+MI+48185,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x883b4d278ef4b55b:0xf0b6f10a6a13625d?sa=X&ved=1t:57443&ictx=111
@@ -1235,8 +1140,6 @@ Core Litigation Support, LLC|Southfield, MI, Marekani · +1 855-267-3548|Michiga
 JMS Court Reporting Services, LLC|Waterford Twp, MI, Marekani · +1 734-542-6979|Michigan|http://www.jmsservices.org/contact-us/
 Esquire Deposition Services|Troy, MI, Marekani · +1 248-205-7038|Michigan|https://www.esquiresolutions.com/
 QRS Court Reporting|Davison, MI, Marekani · +1 810-653-3129|Michigan|http://www.qrscourtreporting.com/
-I have the html!!
-
 About Town Court Reporting|Holly, MI, Marekani · +1 248-634-3369|Michigan|/maps/dir//About+Town+Court+Reporting,+104+Oakland+St,+Holly,+MI+48442,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8823624e1755dea1:0xfbdeb9708c343cb4?sa=X&ved=1t:57443&ictx=111
 Eller Reporting, Inc.|Grand Rapids, MI, Marekani · +1 616-454-7481|Michigan|http://ellerreporting.com/
 O'Brien & Bails|Kalamazoo, MI, Marekani · +1 269-345-8436|Michigan|http://www.obrienandbails.com/
@@ -1247,19 +1150,6 @@ Patricia Murray & Associates Court Reporting|Bloomfield Twp, MI, Marekani · +1 
 Patricia Murray & Associates Court Reporting|Troy, MI, Marekani · +1 517-402-9372|Michigan|/maps/dir//Patricia+Murray+%26+Associates+Court+Reporting,+200+E+Big+Beaver+Rd,+Troy,+MI+48083,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8824c46abeb8eba9:0xfe57716b829d9b28?sa=X&ved=1t:57443&ictx=111
 FEDERAL OFFICIAL COURT REPORTERS|Detroit, MI, Marekani|Michigan|https://www.uscourts.gov/services-forms/federal-court-reporting-program
 LAWYERS DEPOSITION SERVICES|Farmington Hills, MI, Marekani · +1 248-851-6300|Michigan|/maps/dir//LAWYERS+DEPOSITION+SERVICES,+28470+W+13+Mile+Rd+%23350,+Farmington+Hills,+MI+48334,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8824b9fe7403f657:0x59d8b4badfcf0ae5?sa=X&ved=1t:57443&ictx=111
-None|None|Michigan|None
-None|None|Michigan|None
-None|None|Michigan|None
-None|None|Michigan|None
-None|None|Michigan|None
-None|None|Michigan|None
-None|None|Michigan|None
-None|None|Michigan|None
-None|None|Michigan|None
-None|None|Michigan|None
-no clickable element
-done!!
-State of Michigan data scraped successfully
 Thomas & Thomas Court Reporters and Certified Legal Video, LLC - Minneapolis, Minnesota|Minneapolis, MN, Marekani · +1 800-556-6301|Minnesota|http://www.ttcrs.com/
 Affiliated Court Reporters|+1 612-338-4348|Minnesota|None
 Thomas & Thomas Court Reporters and Certified Legal Video, LLC - Saint Paul, Minnesota|St Paul, MN, Marekani · +1 800-556-6301|Minnesota|http://www.ttcrs.com/
@@ -1280,8 +1170,6 @@ Odyssey Court Reporting, Inc.|+1 612-327-9832|Minnesota|http://www.odysseycourtr
 Carney & Associates|Rochester, MN, Marekani · +1 507-288-3558|Minnesota|https://www.carneyreporters.com/
 Weldon & Associates|Shakopee, MN, Marekani · +1 952-445-0009|Minnesota|https://www.weldonandassociates.com/
 Watczak Reporting Inc|Duluth, MN, Marekani · +1 218-310-5587|Minnesota|http://www.watczakreporting.com/
-I have the html!!
-
 Everson Court Reporting|+1 218-410-7570|Minnesota|None
 Affiliated Court Reporters|Minneapolis, MN, Marekani|Minnesota|http://affiliatedreportersmn.com/
 Diane M Wright & Associates|Minnetonka, MN, Marekani · +1 952-938-3055|Minnesota|https://www.dwareporting.com/
@@ -1302,8 +1190,6 @@ Advantage Court Reporting, mLLC|Alexandria, MN, Marekani · +1 800-255-1685|Minn
 Advantage Court Reporting, LLC|St Cloud, MN, Marekani · +1 800-255-1685|Minnesota|http://www.advantagecourtreporting.com/
 Esquire Deposition Solutions|Minneapolis, MN, Marekani · +1 612-332-4230|Minnesota|https://www.esquiresolutions.com/
 Danielson Court Reporting LLC|Duluth, MN, Marekani · +1 218-724-0164|Minnesota|None
-I have the html!!
-
 AAA Reporting Inc|Elko, MN, Marekani · +1 952-461-6766|Minnesota|/maps/dir//AAA+Reporting+Inc,+8225+255th+St+E,+Elko,+MN+55020,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87f641744bf07a41:0x4babe82e189afda6?sa=X&ved=1t:57443&ictx=111
 Suilmann Reporting|Mankato, MN, Marekani · +1 507-625-7021|Minnesota|None
 Court Videographer Services|Minneapolis, MN, Marekani · +1 612-226-0101|Minnesota|http://www.courtvideographer.com/
@@ -1311,22 +1197,6 @@ Evavold Reporting|Bloomington, MN, Marekani · +1 612-269-8748|Minnesota|/maps/d
 Anderlinn Reporting Inc|Maple Grove, MN, Marekani · +1 612-965-7375|Minnesota|/maps/dir//Anderlinn+Reporting+Inc,+12080+94th+Ave+N,+Maple+Grove,+MN+55369,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x52b33870aed546db:0xb69eaae8ad43724e?sa=X&ved=1t:57443&ictx=111
 Caturia Reporting|Hastings, MN, Marekani · +1 651-438-9789|Minnesota|/maps/dir//Caturia+Reporting,+17240+Knox+Path,+Hastings,+MN+55033,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87f7c725953c9d75:0xfd29e3361e5d5e79?sa=X&ved=1t:57443&ictx=111
 ask trondson smith|Edina, MN, Marekani · +1 612-332-2603|Minnesota|http://atscourtreporters.com/contactus.cfm
-None|None|Minnesota|None
-None|None|Minnesota|None
-None|None|Minnesota|None
-None|None|Minnesota|None
-None|None|Minnesota|None
-None|None|Minnesota|None
-None|None|Minnesota|None
-None|None|Minnesota|None
-None|None|Minnesota|None
-None|None|Minnesota|None
-None|None|Minnesota|None
-None|None|Minnesota|None
-None|None|Minnesota|None
-no clickable element
-done!!
-State of Minnesota data scraped successfully
 Mississippi Court Reporters Association|Oxford, MS, Marekani · +1 201-824-3632|Mississippi|https://mscra.com/about-us/officers/
 Aspire Court Reporting|+1 601-297-2195|Mississippi|None
 Brooks Court Reporting, Inc.|Jackson, MS, Marekani · +1 601-362-1995|Mississippi|https://www.brookscourtreporting.com/
@@ -1347,8 +1217,6 @@ Patsy Ainsworth Reporting Services|Hattiesburg, MS, Marekani · +1 601-582-2582|
 Kati Vogt, RDR, CRR - Realtime Court Reporter|Biloxi, MS, Marekani · +1 228-860-5111|Mississippi|http://www.linkedin.com/in/kativogt-rdr
 Reno Reporting|+1 601-408-9594|Mississippi|None
 Link Reporting Services|Hattiesburg, MS, Marekani · +1 601-264-5513|Mississippi|/maps/dir//Link+Reporting+Services,+112+Sangria+Dr,+Hattiesburg,+MS+39402,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x889cde66955fa6f1:0xfd1f5ce078d38154?sa=X&ved=1t:57443&ictx=111
-I have the html!!
-
 Eagles Reach Inc|Jackson, MS, Marekani · +1 601-981-1371|Mississippi|/maps/dir//Eagles+Reach+Inc,+6225+Winthrop+Cir,+Jackson,+MS+39206,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8629cd09599db6af:0x92d055827a107664?sa=X&ved=1t:57443&ictx=111
 Harrison County Court Reporters|Biloxi, MS, Marekani · +1 228-435-8234|Mississippi|/maps/dir//Harrison+County+Court+Reporters,+730+Washington+Loop,+Biloxi,+MS+39530,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x889c0ee8eeefb37d:0x3a76879d7e39a049?sa=X&ved=1t:57443&ictx=111
 Lakeside Reporting|+1 662-402-1174|Mississippi|https://www.facebook.com/pages/Lakeside-Reporting/113132832362087?ref=h
@@ -1359,19 +1227,6 @@ Chancery Court Reporter|Meridian, MS, Marekani · +1 601-482-9718|Mississippi|/m
 Accu-Depo, LLC|+1 601-790-1786|Mississippi|http://accudepo.com/
 Accu-Depo, LLC|+1 888-228-1370|Mississippi|http://accudepo.com/
 Jones Circuit Court Reporter|Laurel, MS, Marekani · +1 601-422-4228|Mississippi|/maps/dir//Jones+Circuit+Court+Reporter,+415+N+5th+Ave,+Laurel,+MS+39440,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x888335ca9e37093f:0x1ce7742207f0a66a?sa=X&ved=1t:57443&ictx=111
-None|None|Mississippi|None
-None|None|Mississippi|None
-None|None|Mississippi|None
-None|None|Mississippi|None
-None|None|Mississippi|None
-None|None|Mississippi|None
-None|None|Mississippi|None
-None|None|Mississippi|None
-None|None|Mississippi|None
-None|None|Mississippi|None
-no clickable element
-done!!
-State of Mississippi data scraped successfully
 Primo Reporting Service|+1 314-481-8616|Missouri|None
 Westbrook Reporting- Court Reporter|+1 573-225-1083|Missouri|None
 Cardinal Court Reporting Services, LLC|St. Louis, MO, Marekani · +1 314-485-1072|Missouri|http://cardinal-reporting.com/
@@ -1392,8 +1247,6 @@ Bi-State Reporting Inc|Chesterfield, MO, Marekani · +1 314-402-8201|Missouri|/m
 Cross Reporting Service|Lee's Summit, MO, Marekani · +1 816-252-8883|Missouri|http://www.kansascity-courtreporter.com/
 43rd Circuit Court Services|Cameron, MO, Marekani · +1 816-632-3003|Missouri|/maps/dir//43rd+Circuit+Court+Services,+215+E+2nd+St,+Cameron,+MO+64429,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87c1d000193df2a9:0x2a64cf00d381f031?sa=X&ved=1t:57443&ictx=111
 360 Litigation Services|St. Louis, MO, Marekani · +1 314-394-2206|Missouri|http://www.360litigationservices.com/
-I have the html!!
-
 Prodocs|Kansas City, MO, Marekani · +1 816-358-5105|Missouri|/maps/dir//Prodocs,+5306+Stanton+Dr,+Kansas+City,+MO+64133,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87c0e2596a672619:0xfaef4a7f4c17b9b9?sa=X&ved=1t:57443&ictx=111
 Baxley Reporting|Imperial, MO, Marekani · +1 636-942-9900|Missouri|/maps/dir//Baxley+Reporting,+Imperial,+MO+63052,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87d8c3d9ea5e9163:0xd7d7b0096a46d740?sa=X&ved=1t:57443&ictx=111
 Metropolitan Court Reporters Conference & Meeting Space|Kansas City, MO, Marekani · +1 816-448-3700|Missouri|http://www.metropolitanreporters.com/
@@ -1414,8 +1267,6 @@ Ray County Court Reporter|Richmond, MO, Marekani · +1 816-776-4514|Missouri|htt
 Gore Perry Reporting & Video Co|St. Louis, MO, Marekani · +1 314-241-6750|Missouri|http://www.goreperry.com/
 Cornerstone Court Reporting Company, LLC|Lenexa, KS, Marekani · +1 913-825-2510|Missouri|https://cornerstonekc.net/
 The Cooper Group Court Reporting & Videography|Kansas City, MO, Marekani · +1 816-474-3376|Missouri|http://www.cooperlitigationservices.com/
-I have the html!!
-
 Springer Reporting Service|+1 618-345-0742|Missouri|None
 Merit Court Reporting Inc|Mission, KS, Marekani · +1 913-236-2929|Missouri|https://meritcourtreporting.com/
 Burris Reporting Services|Swansea, IL, Marekani · +1 618-789-1011|Missouri|http://www.burrisreporting.com/
@@ -1435,10 +1286,6 @@ Catlett Reporting Inc|St. Louis, MO, Marekani · +1 314-726-0800|Missouri|/maps/
 Sturm Reporting Services|St. Louis, MO, Marekani · +1 314-780-2816|Missouri|/maps/dir//Sturm+Reporting+Services,+7419+Stratford+Ave,+St.+Louis,+MO+63130,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87d8caf29194989b:0x2cfdb3ff4cbdeb54?sa=X&ved=1t:57443&ictx=111
 Sutter Reporting Co|St Charles, MO, Marekani · +1 636-946-2828|Missouri|/maps/dir//Sutter+Reporting+Co,+302+Jefferson+St,+St+Charles,+MO+63301,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87df2fabefdde995:0xe4b54fc17dc8346d?sa=X&ved=1t:57443&ictx=111
 Russo Reporting|Webster Groves, MO, Marekani · +1 314-346-0141|Missouri|http://www.russoreportingllc.com/#!contact/c17jp
-None|None|Missouri|None
-no clickable element
-done!!
-State of Missouri data scraped successfully
 Jeffries Court Reporting, Inc.|Missoula, MT, Marekani · +1 406-721-1143|Montana|http://www.jeffriescourtreporting.com/
 Bridger Court Reporters, Inc.|Bozeman, MT, Marekani · +1 406-582-0668|Montana|https://bridgercourtreporters.com/
 Lesofski Court Reporting and Video Conferencing|Helena, MT, Marekani · +1 406-443-2010|Montana|https://www.helenacr.com/
@@ -1459,31 +1306,12 @@ Big Sky Reporting|Billings, MT, Marekani · +1 406-248-4064|Montana|/maps/dir//B
 Fisher Video Conferencing & Court Reporting|Kalispell, MT, Marekani · +1 888-344-4472|Montana|http://www.fishervideoconferencing.com/
 Martin-Lake & Associates, Inc.|+1 406-543-6447|Montana|None
 Fisher Video Conferencing & Court Reporting|Butte, MT, Marekani · +1 888-344-4472|Montana|http://www.fishervideoconferencing.com/
-I have the html!!
-
 District Court Reporters|Kalispell, MT, Marekani · +1 406-758-5664|Montana|/maps/dir//District+Court+Reporters,+120+S+Main+St,+Kalispell,+MT+59901,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x536650c2f93a675b:0x19e506a9865b0afa?sa=X&ved=1t:57443&ictx=111
 County Court Reporters / 20th Judicial District Court Drug Court|Polson, MT, Marekani · +1 406-883-5237|Montana|/maps/dir//County+Court+Reporters+%2F+20th+Judicial+District+Court+Drug+Court,+500+1st+St+E,+Polson,+MT+59860,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x5367738e512e49d9:0x5fc530e5d72b1c7e?sa=X&ved=1t:57443&ictx=111
 Red Rhino Court Reporting|Bozeman, MT, Marekani · +1 406-577-2862|Montana|/maps/dir//Red+Rhino+Court+Reporting,+510+W+Hemlock+St,+Bozeman,+MT+59715,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x53454447c1fbffff:0x5856d1f361cd8ef1?sa=X&ved=1t:57443&ictx=111
 US Court Reporter|Helena, MT, Marekani · +1 406-442-3399|Montana|https://www.uscourts.gov/services-forms/federal-court-reporting-program
 Missoula County Court Reporter|Missoula, MT, Marekani · +1 406-258-4733|Montana|/maps/dir//Missoula+County+Court+Reporter,+200+W+Broadway+St,+Missoula,+MT+59802,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x535dcc2a860947d5:0xbfaa8c3cfb2d8407?sa=X&ved=1t:57443&ictx=111
 District Court Reporter|Miles City, MT, Marekani · +1 406-874-3330|Montana|/maps/dir//District+Court+Reporter,+1010+Main+St+%2319,+Miles+City,+MT+59301,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x533a741b87801503:0x30cddc87c5123e7d?sa=X&ved=1t:57443&ictx=111
-None|None|Montana|None
-None|None|Montana|None
-None|None|Montana|None
-None|None|Montana|None
-None|None|Montana|None
-None|None|Montana|None
-None|None|Montana|None
-None|None|Montana|None
-None|None|Montana|None
-None|None|Montana|None
-None|None|Montana|None
-None|None|Montana|None
-None|None|Montana|None
-None|None|Montana|None
-no clickable element
-done!!
-State of Montana data scraped successfully
 Thomas & Thomas Court Reporters and Certified Legal Video, LLC - Lincoln, Nebraska|+1 402-556-5000|Nebraska|http://www.ttcrs.com/locations/lincoln
 Thomas & Thomas Court Reporters and Certified Legal Video, LLC|Omaha, NE, Marekani · +1 402-556-5000|Nebraska|http://www.ttcrs.com/locations/omaha
 Quinn's Quality Reporting, Ltd.|+1 402-895-5066|Nebraska|http://www.quinnsreporting.com/
@@ -1500,13 +1328,6 @@ General Reporting Service|Lincoln, NE, Marekani · +1 402-477-8425|Nebraska|http
 ACE Reporting-US, LLC|Lincoln, NE, Marekani · +1 402-261-3289|Nebraska|http://www.acereporting-us.com/
 Elite Court Reporting Services|Hastings, NE, Marekani · +1 402-463-3646|Nebraska|/maps/dir//Elite+Court+Reporting+Services,+422+N+Hastings+Ave+%23+111,+Hastings,+NE+68901,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8799a3e414264eb9:0x226ccbdef3c0e9ce?sa=X&ved=1t:57443&ictx=111
 Sarpy District Court Reporter|Papillion, NE, Marekani · +1 402-593-2264|Nebraska|http://www.sarpy.com/
-None|None|Nebraska|None
-None|None|Nebraska|None
-None|None|Nebraska|None
-None|None|Nebraska|None
-no clickable element
-done!!
-State of Nebraska data scraped successfully
 All-American Court Reporters|Las Vegas, NV, Marekani · +1 702-240-4393|Nevada|https://www.aacrlv.com/
 Barkley Court Reporters|Henderson, NV, Marekani · +1 702-366-0500|Nevada|http://barkley.com/
 Discovery Court Reporting|Henderson, NV, Marekani · +1 702-353-3110|Nevada|http://discoverylegal.net/
@@ -1527,8 +1348,6 @@ Sunshine Litigation Services and Technologies|Reno, NV, Marekani · +1 775-323-3
 Rocket Reporters|Las Vegas, NV, Marekani · +1 702-876-2538|Nevada|https://rocketreporters.com/contact-us/
 Bonanza Reporting & Videoconference Center|Reno, NV, Marekani · +1 775-786-7655|Nevada|http://www.bonanzareporting.com/
 Sousa Court Reporters|Las Vegas, NV, Marekani · +1 702-765-7100|Nevada|http://www.sousa.com/
-I have the html!!
-
 Elevate Reporting|+1 702-561-0360|Nevada|https://elevatereportingllc.com/
 Sunshine Reporting Services|Carson City, NV, Marekani · +1 775-883-7950|Nevada|http://www.litigationservices.com/
 Hoogs Reporting Group|Reno, NV, Marekani · +1 775-327-4460|Nevada|http://www.hoogsreporting.com/
@@ -1536,22 +1355,6 @@ Beowawe Justice Court|Crescent Valley, NV, Marekani · +1 775-468-0244|Nevada|ht
 Magna Legal Services (Las Vegas)|Las Vegas, NV, Marekani · +1 866-624-6221|Nevada|https://magnals.com/
 Integrity Court Reporting|Las Vegas, NV, Marekani|Nevada|https://icreporting.com/
 Black Canyon Resources|Las Vegas, NV, Marekani · +1 702-294-1960|Nevada|/maps/dir//Black+Canyon+Resources,+508+NV-582,+Las+Vegas,+NV+89104,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80c8c4b15184a86b:0x1cdf851b8a1e9804?sa=X&ved=1t:57443&ictx=111
-None|None|Nevada|None
-None|None|Nevada|None
-None|None|Nevada|None
-None|None|Nevada|None
-None|None|Nevada|None
-None|None|Nevada|None
-None|None|Nevada|None
-None|None|Nevada|None
-None|None|Nevada|None
-None|None|Nevada|None
-None|None|Nevada|None
-None|None|Nevada|None
-None|None|Nevada|None
-no clickable element
-done!!
-State of Nevada data scraped successfully
 Duffy & Mckenna Reporting|Bedford, NH, United States|New Hampshire|http://dmreporting.com/Manchester_NH_Court_Reporters.htm
 Avicore Reporting|Bedford, NH, United States|New Hampshire|http://www.avicorereporting.com/
 Connelly Reporting & Video|Manchester, NH, United States|New Hampshire|/maps/dir//Connelly+Reporting+%26+Video,+814+Elm+St+%23309,+Manchester,+NH+03101,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e24f27aff055f3:0x2f5fe731b1753ce5?sa=X&ved=1t:57443&ictx=111
@@ -1561,20 +1364,6 @@ Mekula Reporting Services|Northfield, NH, United States|New Hampshire|/maps/dir/
 Depositions Unlimited|Bedford, NH, United States|New Hampshire|/maps/dir//Depositions+Unlimited,+4+Hunters+Rd,+Bedford,+NH+03110,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e24aed6ef6cdfb:0xa4a4a02bcde03dbe?sa=X&ved=1t:57443&ictx=111
 Deposition Transcription Vrbtm|Weare, NH, United States|New Hampshire|/maps/dir//Deposition+Transcription+Vrbtm,+86+Peaslee+Hill+Rd,+Weare,+NH+03281,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e23a547e0398d3:0xec67bd3fae313c33?sa=X&ved=1t:57443&ictx=111
 Asap Transcription|Manchester, NH, United States|New Hampshire|/maps/dir//Asap+Transcription,+254+Brunelle+Ave,+Manchester,+NH+03103,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e24eec0e521359:0xb018847d03ea39b1?sa=X&ved=1t:57443&ictx=111
-None|None|New Hampshire|None
-None|None|New Hampshire|None
-None|None|New Hampshire|None
-None|None|New Hampshire|None
-None|None|New Hampshire|None
-None|None|New Hampshire|None
-None|None|New Hampshire|None
-None|None|New Hampshire|None
-None|None|New Hampshire|None
-None|None|New Hampshire|None
-None|None|New Hampshire|None
-no clickable element
-done!!
-State of New Hampshire data scraped successfully
 Kaplan Leaman & Wolfe Court Reporters|Marlton, NJ, United States|New Jersey|https://klwreporters.com/locations/new-jersey-court-reporters/
 Rizman Rappaport, LLC|Livingston, NJ, United States|New Jersey|http://www.rizmanrappaport.com/
 Hudson Court Reporting & Video Inc|Woodbridge, NJ, United States|New Jersey|https://www.hudsonreporting.com/?utm_source=google_my_business&utm_medium=new_jersey
@@ -1595,8 +1384,6 @@ Campise Reporting Inc|Cinnaminson, NJ, United States|New Jersey|http://www.campi
 American Court Reporters Inc|Somerset, NJ, United States|New Jersey|http://americancourtreporters.com/
 Trifecta Court Reporting|Open 24 hours · +1 215-853-6777|New Jersey|https://trifectacr.com/
 Vitale Reporting Service|Red Bank, NJ, United States|New Jersey|http://vitalereporting.com/
-I have the html!!
-
 Fitzsimmons Reporting & Videoconference Center|Livingston, NJ, United States|New Jersey|http://www.fitzsimmonsreporting.com/
 NYC court reporter|Fort Lee, NJ, United States|New Jersey|https://ww2.nycourts.gov/careers/courtreportertitles.shtml
 Veritext Legal Solutions|Cherry Hill, NJ, United States|New Jersey|https://www.veritext.com/
@@ -1617,8 +1404,6 @@ Shore Reporting Services, P.C.|Toms River, NJ, United States|New Jersey|/maps/di
 Wyble Reporting, Inc.|Millville, NJ, United States|New Jersey|/maps/dir//Wyble+Reporting,+Inc.,+500+Fernwood+Rd,+Millville,+NJ+08332,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c7340eccdeaaab:0xe47d658c88a5ba13?sa=X&ved=1t:57443&ictx=111
 Superior Court Reporter|Camden, NJ, United States|New Jersey|https://www.njcourts.gov/attorneys/rules-of-court/court-reporters
 Sussman & Associates|Cedar Grove, NJ, United States|New Jersey|/maps/dir//Sussman+%26+Associates,+50+Beverly+Rd,+Cedar+Grove,+NJ+07009,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c3000e674101f5:0xa195099e7001dcb7?sa=X&ved=1t:57443&ictx=111
-I have the html!!
-
 Nexdep On-Demand Court Reporters|Open 24 hours · +1 800-757-2148|New Jersey|http://www.nexdep.com/
 CSR Associates Inc|Northfield, NJ, United States|New Jersey|http://csrcourtreporters.com/
 NJ Reporters & Interpreters, LLC|Hackensack, NJ, United States|New Jersey|https://www.njreporters.com/
@@ -1629,20 +1414,6 @@ Magna Legal Services|Edison, NJ, United States|New Jersey|https://magnals.com/
 Court Reporter|+1 484-264-7727|New Jersey|None
 Jung Court Reporting Services|Cinnaminson, NJ, United States|New Jersey|/maps/dir//Jung+Court+Reporting+Services,+702+Windsor+Dr,+Cinnaminson,+NJ+08077,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c6b56f6fa51007:0xdc786f5297372a00?sa=X&ved=1t:57443&ictx=111
 Court Reporter Depot|Harrison, NJ, United States|New Jersey|/maps/dir//Court+Reporter+Depot,+1+Cape+May+St,+Harrison,+NJ+07029,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c254755eab2cd3:0x866f69903f9d9cfc?sa=X&ved=1t:57443&ictx=111
-None|None|New Jersey|None
-None|None|New Jersey|None
-None|None|New Jersey|None
-None|None|New Jersey|None
-None|None|New Jersey|None
-None|None|New Jersey|None
-None|None|New Jersey|None
-None|None|New Jersey|None
-None|None|New Jersey|None
-None|None|New Jersey|None
-no clickable element
-done!!
-State of New Jersey data scraped successfully
-None|None|New York|None
 Kaplan Leaman & Wolfe Court Reporters|1412 Broadway #2100|New York|https://klwreporters.com/locations/new-york-court-reporters/
 MGR Reporting, Inc.|222 Broadway, 18th floor|New York|https://mgrreporting.com/
 Barkley Court Reporters|60 E 42nd St #4700|New York|https://barkley.com/
@@ -1662,8 +1433,6 @@ Nexdep On-Demand Court Reporters|Open 24 hours · +1 800-757-2148|New York|http:
 Capital Reporting Company|708 Third St.|New York|/maps/dir//Capital+Reporting+Company,+708+Third+St.,+New+York,+NY+10017,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c259029328d09d:0x3e3f93a8d3f4673e?sa=X&ved=1t:57443&ictx=111
 U.S. Legal Support Court Reporting Services|89-0 Sutphin Blvd #307|New York|https://www.uslegalsupport.com/court-reporting-services-jamaica/?utm_source=GMBlisting&utm_medium=organic
 Reporters Central|363 7th Ave|New York|http://reporterscentralllc.com/
-I have the html!!
-
 None|None|New York|None
 TSG Reporting|228 E 45th St Suite 810|New York|https://www.tsgreporting.com/
 Veritext Legal Solutions|7 Times Sq # 1604|New York|https://www.veritext.com/newyork/
@@ -1684,8 +1453,6 @@ TGS Reporting|747 3rd Ave|New York|/maps/dir//TGS+Reporting,+747+3rd+Ave,+New+Yo
 Lex Reporting Service|Bronx, NY, United States|New York|http://lexreporting.com/
 Diamond Reporting Inc|Jamaica, NY, United States|New York|https://www.veritext.com/diamondreporting/
 Hudson Court Reporting & Video Inc| · +1 212-273-9911|New York|https://www.hudsonreporting.com/?utm_source=google_my_business&utm_medium=new_york
-I have the html!!
-
 None|None|New York|None
 Atkinson-Baker|641 Lexington Ave #14th|New York|https://www.depo.com/
 Arista Court Reporting|192 Lexington Ave #1004|New York|/maps/dir//Arista+Court+Reporting,+192+Lexington+Ave+%231004,+New+York,+NY+10016,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c25907d860d69d:0x8c60bab82759b712?sa=X&ved=1t:57443&ictx=111
@@ -1706,31 +1473,10 @@ DALCO Reporting, Inc.|Bronx, NY, United States|New York|http://dalcoreporting.co
 Reporting USA|55 Broadway #304|New York|http://www.reportingusa.com/
 Alliance Reporting Services Inc|Brooklyn, NY, United States|New York|http://www.alliancereporting.com/
 Excel Reporting, Inc.|+1 516-596-1109|New York|http://www.excelcourtreporters.com/
-I have the html!!
-
 None|None|New York|None
 Magna Legal Services (New York)|320 W 37th St f12|New York|https://magnals.com/office-locations/new-york/
 Winter Reporting, Inc.|1 Whitehall St|New York|http://winterreporting.com/
 AMG Reporting|314 W 105th St|New York|/maps/dir//AMG+Reporting,+314+W+105th+St,+New+York,+NY+10025,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c2f6256b95aaab:0x928f628d5e33c2e2?sa=X&ved=1t:57443&ictx=111
-None|None|New York|None
-None|None|New York|None
-None|None|New York|None
-None|None|New York|None
-None|None|New York|None
-None|None|New York|None
-None|None|New York|None
-None|None|New York|None
-None|None|New York|None
-None|None|New York|None
-None|None|New York|None
-None|None|New York|None
-None|None|New York|None
-None|None|New York|None
-None|None|New York|None
-None|None|New York|None
-no clickable element
-done!!
-State of New York data scraped successfully
 NC Court Reporting|Greenville, NC, United States|North Carolina|http://nccourtreporting.com/
 Charlotte Court Reporters|Charlotte, NC, United States|North Carolina|/maps/dir//Charlotte+Court+Reporters,+800+E+4th+St,+Charlotte,+NC+28202,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8856a020c097181d:0x974c848203268b7?sa=X&ved=1t:57443&ictx=111
 Pace Reporting Services|Raleigh, NC, United States|North Carolina|https://www.pacereporting.com/
@@ -1751,8 +1497,6 @@ NC Court Reporter|Wilmington, NC, United States|North Carolina|http://www.courtr
 Overby Court Reporting Services|Wilmington, NC, United States|North Carolina|http://www.overbycourtreporting.com/
 Chapel Hill Court Reporting|Chapel Hill, NC, United States|North Carolina|https://chapelhillcourtreporter.com/
 CaseWorks Court Reporting|Raleigh, NC, United States|North Carolina|/maps/dir//CaseWorks+Court+Reporting,+3739+National+Dr+%23200,+Raleigh,+NC+27612,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89acf653ffffffff:0x3707dad8e22ace66?sa=X&ved=1t:57443&ictx=111
-I have the html!!
-
 Cain & Crane Court Reporters|Mint Hill, NC, United States|North Carolina|http://cainandcrane.com/
 Chapel Hill Reporting, LLC - Court Reporters|Raleigh, NC, United States|North Carolina|/maps/dir//Chapel+Hill+Reporting,+LLC+-+Court+Reporters,+4801+Glenwood+Ave,+Raleigh,+NC+27612,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89acf42a60d44f85:0xc8893466f68196a9?sa=X&ved=1t:57443&ictx=111
 Overby Court Reporting|Burlington, NC, United States|North Carolina|http://www.overbycourtreporting.com/
@@ -1773,8 +1517,6 @@ B Jordan Court Reporting|Chapel Hill, NC, United States|North Carolina|/maps/dir
 Ruffin Consulting, Inc. - Raleigh|Raleigh, NC, United States|North Carolina|http://www.ruffinconsulting.com/
 Gray Court Reporting|Rolesville, NC, United States|North Carolina|/maps/dir//Gray+Court+Reporting,+217+Teresa+Dr,+Rolesville,+NC+27571,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89ac4e3a45fc6a2b:0x27c3f4f6ab45e93f?sa=X&ved=1t:57443&ictx=111
 CaseWorks Court Reporting|Chapel Hill, NC, United States|North Carolina|/maps/dir//CaseWorks+Court+Reporting,+1340+Environ+Way,+Chapel+Hill,+NC+27517,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89acc29e5f8546ab:0x3d3ddf66999c32f9?sa=X&ved=1t:57443&ictx=111
-I have the html!!
-
 Associated Reporters International Inc.|Franklinton, NC, United States|North Carolina|https://courtsteno.com/
 AWR Court Reporting|Charlotte, NC, United States|North Carolina|https://scheduledepo.com/locations/charlotte-nc/
 Bryant Court Reporting Services Inc|Chapel Hill, NC, United States|North Carolina|/maps/dir//Bryant+Court+Reporting+Services+Inc,+5217+Big+Woods+Rd,+Chapel+Hill,+NC+27517,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89acc118b8fa0a8d:0x2e07f5d162123061?sa=X&ved=1t:57443&ictx=111
@@ -1795,8 +1537,6 @@ CaseWorks|Asheville, NC, United States|North Carolina|/maps/dir//CaseWorks,+28+S
 Depositions, Inc. - Kinston|Kinston, NC, United States|North Carolina|https://www.ncdepo.com/
 Depositions, Inc. - Durham|Durham, NC, United States|North Carolina|https://www.ncdepo.com/
 Creel Court Reporting|Charlotte, NC, United States|North Carolina|/maps/dir//Creel+Court+Reporting,+6837+Ronda+Ave,+Charlotte,+NC+28211,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8854211df0182bed:0xa74a24a7cd9876d8?sa=X&ved=1t:57443&ictx=111
-I have the html!!
-
 Depositions, Inc. - Winston Salem South|Winston-Salem, NC, United States|North Carolina|https://www.ncdepo.com/
 Legal Media Experts - Durham|Durham, NC, United States|North Carolina|http://www.legalmediaexperts.com/index.html
 Depositions, Inc. - Charlotte|Charlotte, NC, United States|North Carolina|https://www.ncdepo.com/
@@ -1809,17 +1549,6 @@ Court Reporters|Hillsborough, NC, United States|North Carolina|/maps/dir//Court+
 Depositions, Inc. - Wilmington|Wilmington, NC, United States|North Carolina|https://www.ncdepo.com/
 Huseby Inc. Litigation Services|Raleigh, NC, United States|North Carolina|http://www.huseby.com/
 AWR Court Reporting|Charlotte, NC, United States|North Carolina|https://scheduledepo.com/locations/charlotte-nc/
-None|None|North Carolina|None
-None|None|North Carolina|None
-None|None|North Carolina|None
-None|None|North Carolina|None
-None|None|North Carolina|None
-None|None|North Carolina|None
-None|None|North Carolina|None
-None|None|North Carolina|None
-no clickable element
-done!!
-State of North Carolina data scraped successfully
 Johnson Court Reporter Services|Grand Forks, ND, United States|North Dakota|/maps/dir//Johnson+Court+Reporter+Services,+2100+S+Columbia+Rd+%23204,+Grand+Forks,+ND+58201,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x52c680cc6403da21:0x490fc3d0cd8bd454?sa=X&ved=1t:57443&ictx=111
 E Mark Norman Court Reporter|Fargo, ND, United States|North Dakota|http://normanemark.com/
 Emineth & Associates|Minot, ND, United States|North Dakota|https://www.emineth.com/
@@ -1827,22 +1556,6 @@ Emineth & Associates|Bismarck, ND, United States|North Dakota|https://www.eminet
 CATS Court Reporting Service, Inc.|Fargo, ND, United States|North Dakota|http://www.catsreporting.com/
 Lori Hauge Court Reporter|Williston, ND, United States|North Dakota|/maps/dir//Lori+Hauge+Court+Reporter,+2218+7th+Ave+E,+Williston,+ND+58801,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x53215cb12f64cb69:0x976d18cd3d1cb99b?sa=X&ved=1t:57443&ictx=111
 Worldwide Litigation Services|Fargo, ND, United States|North Dakota|http://www.worldwidelit.com/
-None|None|North Dakota|None
-None|None|North Dakota|None
-None|None|North Dakota|None
-None|None|North Dakota|None
-None|None|North Dakota|None
-None|None|North Dakota|None
-None|None|North Dakota|None
-None|None|North Dakota|None
-None|None|North Dakota|None
-None|None|North Dakota|None
-None|None|North Dakota|None
-None|None|North Dakota|None
-None|None|North Dakota|None
-no clickable element
-done!!
-State of North Dakota data scraped successfully
 Cleveland Reporting Partners, LLC|Cleveland, OH, United States|Ohio|https://clereporting.com/
 Blair Reporting Services|+1 937-865-4992|Ohio|https://www.blairreporting.com/
 PRI Court Reporting, LLC|Columbus, OH, United States|Ohio|http://www.priohio.com/
@@ -1863,8 +1576,6 @@ Genovese & Reno Reporting Services, LLC|Toledo, OH, United States|Ohio|https://g
 Jarrett Kuebler Court Reporting|Beachwood, OH, United States|Ohio|http://jarkub.com/
 Associated Court Reporting Inc.|Akron, OH, United States|Ohio|http://www.associatedcourtreporting.com/
 Veritext Legal Solutions|Cleveland, OH, United States|Ohio|https://www.veritext.com/cleveland/
-I have the html!!
-
 Collins Reporting Service, Inc.|Toledo, OH, United States|Ohio|http://www.collinsreporting.com/
 Mike Mobley Reporting|Columbus, OH, United States|Ohio|/maps/dir//Mike+Mobley+Reporting,+4200+Regent+St+%23200,+Columbus,+OH+43219,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x883889f787e0ca33:0x3b5d1969f5e9b75f?sa=X&ved=1t:57443&ictx=111
 Mike Mobley Reporting|Columbus, OH, United States|Ohio|/maps/dir//Mike+Mobley+Reporting,+41+S+High+St+%23210,+Columbus,+OH+43215,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88388f735b7dc235:0x4522b176f283dd03?sa=X&ved=1t:57443&ictx=111
@@ -1885,8 +1596,6 @@ Frank Versagi Court Reporters|North Olmsted, OH, United States|Ohio|http://www.v
 Classic Reporting Services|Toledo, OH, United States|Ohio|/maps/dir//Classic+Reporting+Services,+420+Madison+Ave+%23+1200,+Toledo,+OH+43604,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x883b86cee8c9fec3:0x76f4e8bbe660f0f9?sa=X&ved=1t:57443&ictx=111
 Runfola Reporters|Columbus, OH, United States|Ohio|https://www.runfola.com/
 Fincun-Mancini Court Reporters|Cleveland, OH, United States|Ohio|http://fincunmancini.com/
-I have the html!!
-
 Mike Mobley Reporting|Columbus, OH, United States|Ohio|/maps/dir//Mike+Mobley+Reporting,+200+E+Campus+View+Blvd+STE+200,+Columbus,+OH+43235,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8838f36a14742a55:0xc9ae17d68ecb0732?sa=X&ved=1t:57443&ictx=111
 Molnar Reporting Services, LLC|Avon Lake, OH, United States|Ohio|/maps/dir//Molnar+Reporting+Services,+LLC,+605+Arborside+Ln,+Avon+Lake,+OH+44012,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88308e239827ff9b:0xbd3721eb87c3c573?sa=X&ved=1t:57443&ictx=111
 Verbatim Reporting and Transcription Services| · +1 812-363-2614|Ohio|None
@@ -1907,31 +1616,10 @@ Giglio Reporting Services|Cincinnati, OH, United States|Ohio|/maps/dir//Giglio+R
 Ohio Court Reporters Association|+1 614-300-0906|Ohio|http://ocraonline.com/
 Stark County Court Reporters|Canton, OH, United States|Ohio|https://www.starkcountyohio.gov/government/legal___judicial/court_of_common_pleas/services/court_reporters.php
 King & Melton Court Reporters|Painesville, OH, United States|Ohio|/maps/dir//King+%26+Melton+Court+Reporters,+11668+Girdled+Rd,+Painesville,+OH+44077,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8831a16561c1e281:0xfb1b1bcd58db7278?sa=X&ved=1t:57443&ictx=111
-I have the html!!
-
 Advanced Court Reporting|Akron, OH, United States|Ohio|/maps/dir//Advanced+Court+Reporting,+12+E+Exchange+St+%232nd,+Akron,+OH+44311,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8830d623aaaaaaab:0xe0d0fb3575d0e5e6?sa=X&ved=1t:57443&ictx=111
 Mike Mobley Reporting|Cincinnati, OH, United States|Ohio|http://www.mobleyreporting.com/
 Mahoning County Court Reporters|Youngstown, OH, United States|Ohio|http://www.mahoningcountyoh.gov/
 Queen City Court Reporting|Amelia, OH, United States|Ohio|/maps/dir//Queen+City+Court+Reporting,+1216+Harthill,+Amelia,+OH+45102,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8841074e95fd9691:0xd204334316dc9152?sa=X&ved=1t:57443&ictx=111
-None|None|Ohio|None
-None|None|Ohio|None
-None|None|Ohio|None
-None|None|Ohio|None
-None|None|Ohio|None
-None|None|Ohio|None
-None|None|Ohio|None
-None|None|Ohio|None
-None|None|Ohio|None
-None|None|Ohio|None
-None|None|Ohio|None
-None|None|Ohio|None
-None|None|Ohio|None
-None|None|Ohio|None
-None|None|Ohio|None
-None|None|Ohio|None
-no clickable element
-done!!
-State of Ohio data scraped successfully
 Dodson Court Reporting Inc|Oklahoma City, OK, United States|Oklahoma|http://www.dodsonreporting.net/
 D & R Reporting & Video, Inc. | Court Reporting Services|Oklahoma City, OK, United States|Oklahoma|http://www.drreporting.com/
 Professional Reporters|Oklahoma City, OK, United States|Oklahoma|http://proreporters.com/
@@ -1952,31 +1640,10 @@ Ballard Reporting| · +1 918-407-2278|Oklahoma|None
 Oklahoma College-Court Reprtng|Oklahoma City, OK, United States|Oklahoma|/maps/dir//Oklahoma+College-Court+Reprtng,+9636+N+May+Ave+Suite+211,+Oklahoma+City,+OK+73120,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87b21b90b7ead4b7:0x3c00b05a711979a4?sa=X&ved=1t:57443&ictx=111
 Frank Peterson Reporting Service| · +1 918-745-0303|Oklahoma|None
 D & R Reporting Video|Tulsa, OK, United States|Oklahoma|https://www.drreporting.com/
-I have the html!!
-
 Tulsa Freelance Reporters|Tulsa, OK, United States|Oklahoma|http://www.tulsafreelancereporters.com/
 Marisa Spalding, Court Reporter|Tulsa, OK, United States|Oklahoma|/maps/dir//Marisa+Spalding,+Court+Reporter,+1611+S+Utica+Ave+%23516,+Tulsa,+OK+74104,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87b6ec95d60a9703:0x8390673ec92a49e2?sa=X&ved=1t:57443&ictx=111
 Professional Reporters|Tulsa, OK, United States|Oklahoma|http://proreporters.com/
 Hart-Sullivan Reporting Services|+1 918-745-2215|Oklahoma|/maps/dir//Hart-Sullivan+Reporting+Services/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87b6508ebf4c45c9:0x3cbccddc91ed6b68?sa=X&ved=1t:57443&ictx=111
-None|None|Oklahoma|None
-None|None|Oklahoma|None
-None|None|Oklahoma|None
-None|None|Oklahoma|None
-None|None|Oklahoma|None
-None|None|Oklahoma|None
-None|None|Oklahoma|None
-None|None|Oklahoma|None
-None|None|Oklahoma|None
-None|None|Oklahoma|None
-None|None|Oklahoma|None
-None|None|Oklahoma|None
-None|None|Oklahoma|None
-None|None|Oklahoma|None
-None|None|Oklahoma|None
-None|None|Oklahoma|None
-no clickable element
-done!!
-State of Oklahoma data scraped successfully
 Southern Oregon Court Reporters|Medford, OR, United States|Oregon|http://www.southernoregoncourtreporting.com/contact/
 Beovich Walter & Friend Certified Court Reporters - a Veritext Company|Portland, OR, United States|Oregon|http://bwfreporters.com/
 LNS Court Reporting|Portland, OR, United States|Oregon|http://www.lnscourtreporting.com/
@@ -1997,8 +1664,6 @@ Jean M Kostner & Associates|Roseburg, OR, United States|Oregon|http://www.jmkrep
 C & L Court Reporters|Salem, OR, United States|Oregon|/maps/dir//C+%26+L+Court+Reporters,+1115+Madison+St+NE,+Salem,+OR+97301,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54bffeffcc86e1e7:0xea8024055067e5de?sa=X&ved=1t:57443&ictx=111
 Denise D. Thompson - Certified Shorthand Reporter| · +1 209-603-6357|Oregon|None
 Willamette Valley Court Reporting|Lebanon, OR, United States|Oregon|http://www.willamettevalleycourtreporting.com/contact.html
-I have the html!!
-
 Duffey Court Reporting|Corvallis, OR, United States|Oregon|http://www.duffeycourtreporting.com/
 Blayne & Dugan Reporting|Medford, OR, United States|Oregon|/maps/dir//Blayne+%26+Dugan+Reporting,+201+W+Main+St+%23+3A,+Medford,+OR+97501,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54cf7a246778e229:0x25b4ac52dffdcb11?sa=X&ved=1t:57443&ictx=111
 Grammatically Speaking.| · +1 541-272-8015|Oregon|http://iheartgrammarproofreading.com/
@@ -2008,20 +1673,7 @@ Lehmann Court Reporting|Vancouver, WA, United States|Oregon|https://www.lehmannr
 Business Support Services|Salem, OR, United States|Oregon|http://www.bsssalem.com/
 Carr Court Reporting|Portland, OR, United States|Oregon|/maps/dir//Carr+Court+Reporting,+4804+NW+Bethany+Blvd+Ste+I-2,+Portland,+OR+97229,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x549508a5d95f72e9:0x778716780a520488?sa=X&ved=1t:57443&ictx=111
 Iba, Symonds & Dunn|Portland, OR, United States|Oregon|http://www.isdreporters.com/
-None|None|Oregon|None
-None|None|Oregon|None
-None|None|Oregon|None
-None|None|Oregon|None
-None|None|Oregon|None
-None|None|Oregon|None
-None|None|Oregon|None
-None|None|Oregon|None
-None|None|Oregon|None
-None|None|Oregon|None
-None|None|Oregon|None
-no clickable element
-done!!
-State of Oregon data scraped successfully
+
 Pennsylvania Court Reporters Association|Harrisburg, PA, United States|Pennsylvania|https://www.pcra.com/contact-pcra
 Central PA Court Reporting Services|+1 800-863-3657|Pennsylvania|None
 Johnson and Mimless Court Reporters|Pittsburgh, PA, United States|Pennsylvania|http://jmreporting.net/
@@ -2042,8 +1694,6 @@ Royal Court Reporting|Philadelphia, PA, United States|Pennsylvania|https://rcrs.
 Cooper Reporting| · +1 267-377-7435|Pennsylvania|None
 Sargent's Court Reporting Service, Inc.|Johnstown, PA, United States|Pennsylvania|http://sargents.com/
 Judy A. Black - Black Reporting, LLC|+1 570-477-5967|Pennsylvania|None
-I have the html!!
-
 Dependable Court Reporting|Etters, PA, United States|Pennsylvania|https://www.dependablecourtreporting.net/contact-us
 Sargent's Court Reporting Service, Inc.|Wilkes-Barre, PA, United States|Pennsylvania|http://www.sargents.com/
 Sargent's Court Reporting Service, Inc.|Greensburg, PA, United States|Pennsylvania|http://www.sargents.com/
@@ -2064,8 +1714,6 @@ Bucks County Court Reporters|Doylestown, PA, United States|Pennsylvania|https://
 Media Court Reporting|Media, PA, United States|Pennsylvania|http://www.mediacourtreporting.com/
 Veritext Legal Solutions|Philadelphia, PA, United States|Pennsylvania|https://www.veritext.com/philadelphia/
 FrontinoReporting, LLC|Philadelphia, PA, United States|Pennsylvania|http://frontinoreporting.com/
-I have the html!!
-
 Calhoun Reporting Services| · +1 814-201-9171|Pennsylvania|None
 Boring Court Reporting|Centre Hall, PA, United States|Pennsylvania|http://www.facebook.com/boringreporting
 Trifecta Court Reporting|Open 24 hours · +1 215-853-6777|Pennsylvania|https://trifectacr.com/
@@ -2086,8 +1734,6 @@ Warren Court Reporting Services|Warren, PA, United States|Pennsylvania|/maps/dir
 Ace Court Reporting|Weatherly, PA, United States|Pennsylvania|/maps/dir//Ace+Court+Reporting,+623+E+2nd+St,+Weatherly,+PA+18255,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c5aebd060da59d:0x4d1eb0caee7ecad2?sa=X&ved=1t:57443&ictx=111
 Computerized Reporting Services, Inc.|Reading, PA, United States|Pennsylvania|/maps/dir//Computerized+Reporting+Services,+Inc.,+2209+Quarry+Dr+%23+C-45,+Reading,+PA+19609,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c673f9f8591dad:0x3eb8c679b5f644fd?sa=X&ved=1t:57443&ictx=111
 Network Deposition Services|Pittsburgh, PA, United States|Pennsylvania|http://www.ndsreporting.com/
-I have the html!!
-
 Superior Reporting Services LLC|Winfield, PA, United States|Pennsylvania|https://superiorreporter.com/
 Court Reporters|Meadville, PA, United States|Pennsylvania|/maps/dir//Court+Reporters,+903+Diamond+Park+Sq,+Meadville,+PA+16335,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x883257a02d057c05:0x64eee3731ffe849c?sa=X&ved=1t:57443&ictx=111
 Principle Court Reporting|Johnstown, PA, United States|Pennsylvania|http://www.principlecd.com/
@@ -2108,8 +1754,6 @@ Premier Reporting, LLC|Carlisle, PA, United States|Pennsylvania|http://www.premi
 Erie County Court Reporters|Erie, PA, United States|Pennsylvania|https://eriecountypa.gov/courts/transcripts/
 Kim Tindall & Associates|None|Pennsylvania|https://kimtindallandassociates.com/
 Veritext Legal Solutions|Doylestown, PA, United States|Pennsylvania|https://www.veritext.com/
-I have the html!!
-
 Bauer Court Reporting Inc|Gibsonia, PA, United States|Pennsylvania|http://www.bauerreporting.com/
 Bisnow & Joseph|Philadelphia, PA, United States|Pennsylvania|/maps/dir//Bisnow+%26+Joseph,+1420+Walnut+St+%23+1302,+Philadelphia,+PA+19102,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c6c6255756e4d9:0x2bdb35f3005f1fbe?sa=X&ved=1t:57443&ictx=111
 ASAP/Buckler Court Reporting|New York, PA, United States|Pennsylvania|http://www.asap-buckler.com/
@@ -2118,21 +1762,7 @@ Bucks County Court Reporters|Bensalem, PA, United States|Pennsylvania|/maps/dir/
 Reporting Associates, LLC|Philadelphia, PA, United States|Pennsylvania|/maps/dir//Reporting+Associates,+LLC,+1500+John+F+Kennedy+Blvd+%23+200,+Philadelphia,+PA+19102,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c6c62e109d3001:0x5d75685574134db3?sa=X&ved=1t:57443&ictx=111
 A&A Court Reporting Videoconferencing|Philadelphia, PA, United States|Pennsylvania|/maps/dir//A%26A+Court+Reporting+Videoconferencing,+303+Chestnut+St+2nd+floor,+Philadelphia,+PA+19106,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c6c884ed79c4a1:0x63232fde0ac65f9a?sa=X&ved=1t:57443&ictx=111
 KDL Court Reporting|Washington, PA, United States|Pennsylvania|/maps/dir//KDL+Court+Reporting,+30+E+Beau+St+%23+405,+Washington,+PA+15301,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8834f160ffffffff:0xbcec3712e177f504?sa=X&ved=1t:57443&ictx=111
-None|None|Pennsylvania|None
-None|None|Pennsylvania|None
-None|None|Pennsylvania|None
-None|None|Pennsylvania|None
-None|None|Pennsylvania|None
-None|None|Pennsylvania|None
-None|None|Pennsylvania|None
-None|None|Pennsylvania|None
-None|None|Pennsylvania|None
-None|None|Pennsylvania|None
-None|None|Pennsylvania|None
-None|None|Pennsylvania|None
-no clickable element
-done!!
-State of Pennsylvania data scraped successfully
+
 Rhode Island Court Reporting|Providence, RI, United States|Rhode Island|/maps/dir//Rhode+Island+Court+Reporting,+747+N+Main+St,+Providence,+RI+02904,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e444e0583851bb:0xe25156a516487ed3?sa=X&ved=1t:57443&ictx=111
 Allied Court Reporters, Inc and Video Conference Centers|Cranston, RI, United States|Rhode Island|http://www.alliedcourtreporters.com/
 Capitol Court Reporting|Warwick, RI, United States|Rhode Island|/maps/dir//Capitol+Court+Reporting,+931+Jefferson+Blvd,+Warwick,+RI+02886,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e44c2494473c49:0x47f83d78a063e5b1?sa=X&ved=1t:57443&ictx=111
@@ -2144,18 +1774,8 @@ Esquire Deposition Solutions, LLC|Cranston, RI, United States|Rhode Island|https
 WarRoom Deposition Services - dena@warroomdepo.com|East Providence, RI, United States|Rhode Island|https://warroom-deposition-services-denawarroomdepocom.business.site/?utm_source=googlemybusiness&utm_medium=referral
 Merandi Court Reporting|Johnston, RI, United States|Rhode Island|/maps/dir//Merandi+Court+Reporting,+48+Hurlburt+Ave,+Johnston,+RI+02919,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e445fdb62d0147:0x92e5590667eefc09?sa=X&ved=1t:57443&ictx=111
 Ledgewood Court Reporting| · +1 401-625-5455|Rhode Island|None
-None|None|Rhode Island|None
-None|None|Rhode Island|None
-None|None|Rhode Island|None
-None|None|Rhode Island|None
-None|None|Rhode Island|None
-None|None|Rhode Island|None
-None|None|Rhode Island|None
-None|None|Rhode Island|None
-None|None|Rhode Island|None
-no clickable element
-done!!
-State of Rhode Island data scraped successfully
+
+
 SCCRA|Greenville, SC, United States|South Carolina|http://sccra.net/
 AWR Court Reporting & Litigation Solutions|Charleston, SC, United States|South Carolina|https://scheduledepo.com/locations/charleston-sc/
 Southern Reporting, Inc.|Columbia, SC, United States|South Carolina|http://www.southernreporting.net/?UTM_source=GBP_Listing&UTM_medium=Organic
@@ -2176,8 +1796,6 @@ Bettye Anderson & Associates|Beaufort, SC, United States|South Carolina|http://w
 CompuScripts|Columbia, SC, United States|South Carolina|/maps/dir//CompuScripts,+1825+Gadsden+St+UNIT+203,+Columbia,+SC+29201,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88f8a4cdb0c60deb:0x492dc97f96e41abf?sa=X&ved=1t:57443&ictx=111
 ABC Reporting Service|Batesburg-Leesville, SC, United States|South Carolina|http://abcreportingservice.com/
 AWR Court Reporting|Columbia, SC, United States|South Carolina|https://scheduledepo.com/locations/columbia-sc/
-I have the html!!
-
 Clark Bolen Court Reporting & Video Conferencing|Columbia, SC, United States|South Carolina|http://clarkbolen.com/
 EveryWord Inc.| · +1 888-341-1114|South Carolina|https://everywordinc.com/
 Prestige Court Reporting Inc|Conway, SC, United States|South Carolina|/maps/dir//Prestige+Court+Reporting+Inc,+413+Paul+St,+Conway,+SC+29527,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8900124248c66357:0x3245ac853011e730?sa=X&ved=1t:57443&ictx=111
@@ -2198,8 +1816,6 @@ Stenotype Reporting Services|Murrells Inlet, SC, United States|South Carolina|/m
 CP-26 Reporting|Myrtle Beach, SC, United States|South Carolina|https://cp26reporting.com/
 Verbatim Inc|Columbia, SC, United States|South Carolina|/maps/dir//Verbatim+Inc,+2418+Devine+St,+Columbia,+SC+29205,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88f8baca7a686c49:0x79b005df97545b4d?sa=X&ved=1t:57443&ictx=111
 Bowen Legal Transcriptions|Anderson, SC, United States|South Carolina|/maps/dir//Bowen+Legal+Transcriptions,+109+W+Calhoun+St,+Anderson,+SC+29625,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88586e7e3c733a61:0xb94d54dd0cbc2f1b?sa=X&ved=1t:57443&ictx=111
-I have the html!!
-
 Sandy Satterwhite Reporting|Roebuck, SC, United States|South Carolina|/maps/dir//Sandy+Satterwhite+Reporting,+110+State+Rd+S-42-8037,+Roebuck,+SC+29376,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88579e991848e06f:0x1afa45b72eb316ea?sa=X&ved=1t:57443&ictx=111
 Coastal Court Reporting - CCR Bluffton/Okatie|Okatie, SC, United States|South Carolina|http://www.coastalcourt.com/
 CompuScripts - Greenville, SC|Greenville, SC, United States|South Carolina|/maps/dir//CompuScripts+-+Greenville,+SC,+The+Office+Centers+-+Merovan,+1200+Woodruff+Road,+A3,+Greenville,+SC+29607,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x885828c60d9c4085:0x6c03c1f11f2c8ef1?sa=X&ved=1t:57443&ictx=111
@@ -2211,18 +1827,8 @@ Huseby Inc. Litigation Services|Florence, SC, United States|South Carolina|http:
 Huseby Inc. Litigation Services|Greenville, SC, United States|South Carolina|http://www.huseby.com/
 Accurate Reporting|Rock Hill, SC, United States|South Carolina|/maps/dir//Accurate+Reporting,+Rock+Hill,+SC+29732,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x885688566fd7bd03:0x1cb409bd865c401b?sa=X&ved=1t:57443&ictx=111
 Aequum Court Reporting, LLC| · +1 864-958-8678|South Carolina|None
-None|None|South Carolina|None
-None|None|South Carolina|None
-None|None|South Carolina|None
-None|None|South Carolina|None
-None|None|South Carolina|None
-None|None|South Carolina|None
-None|None|South Carolina|None
-None|None|South Carolina|None
-None|None|South Carolina|None
-no clickable element
-done!!
-State of South Carolina data scraped successfully
+
+
 APEX COURT REPORTING & VIDEO|+1 605-877-1806|South Dakota|http://www.apexcourtreporting.com/
 Prairie Reporting|Sioux Falls, SD, United States|South Dakota|http://www.prairiereporting.com/
 HARKINS REPORTING - Carolyn M. Harkins|+1 605-381-5427|South Dakota|https://www.rapidcitycourtreporter.com/
@@ -2235,17 +1841,8 @@ Circuit Court Reporters|Aberdeen, SD, United States|South Dakota|/maps/dir//Circ
 Circuit Court Reporters|Webster, SD, United States|South Dakota|/maps/dir//Circuit+Court+Reporters,+710+1st+St+W,+Webster,+SD+57274,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x52cd0a3f9b182a41:0x81a34abbb20fbe51?sa=X&ved=1t:57443&ictx=111
 Circuit Court Reporters|Sisseton, SD, United States|South Dakota|/maps/dir//Circuit+Court+Reporters,+411+2nd+Ave+E+%233,+Sisseton,+SD+57262,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x52cc47349160df8b:0x318fc6dba6005f58?sa=X&ved=1t:57443&ictx=111
 Tripp County Court Reporter|Winner, SD, United States|South Dakota|/maps/dir//Tripp+County+Court+Reporter,+200+E+3rd+St,+Winner,+SD+57580,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87817e32997e29ff:0x76541329cfeee779?sa=X&ved=1t:57443&ictx=111
-None|None|South Dakota|None
-None|None|South Dakota|None
-None|None|South Dakota|None
-None|None|South Dakota|None
-None|None|South Dakota|None
-None|None|South Dakota|None
-None|None|South Dakota|None
-None|None|South Dakota|None
-no clickable element
-done!!
-State of South Dakota data scraped successfully
+
+
 Cleeton Davis Court Reporters, LLC|Nashville, TN, United States|Tennessee|https://www.cleetondavis.com/
 West Tennessee Court Reporters|Jackson, TN, United States|Tennessee|http://www.tncra.com/
 Gibson Court Reporting|Knoxville, TN, United States|Tennessee|https://www.veritext.com/knoxville/
@@ -2266,8 +1863,6 @@ Cookeville Court Reporters|Cookeville, TN, United States|Tennessee|https://www.c
 Mansfield Court Reporting|Dresden, TN, United States|Tennessee|https://www.mansfieldreporting.com/
 Knoxville Reporting|Knoxville, TN, United States|Tennessee|http://www.knoxvillereporting.com/
 Alpha Reporting Corporation|Nashville, TN, United States|Tennessee|http://www.alphareporting.com/
-I have the html!!
-
 Fletcher Court Reporting|+1 423-392-0333|Tennessee|http://www.fletcherreporting.com/
 WattsBoyd Reporting Agency| · +1 865-604-3681|Tennessee|http://www.wattsboyd.com/
 Morgan Reporting|Murfreesboro, TN, United States|Tennessee|http://www.morganreporting.com/
@@ -2288,8 +1883,6 @@ Elite Reporting Services|Memphis, TN, United States|Tennessee|http://elitereport
 Elite Reporting Services|Knoxville, TN, United States|Tennessee|/maps/dir//Elite+Reporting+Services,+Knoxville,+TN+37917,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x885c161155555555:0xb9be25ea7d56e141?sa=X&ved=1t:57443&ictx=111
 Alpha Reporting Corporation|Knoxville, TN, United States|Tennessee|http://www.alphareporting.com/
 Chattanooga Reporters Associates|Chattanooga, TN, United States|Tennessee|/maps/dir//Chattanooga+Reporters+Associates,+622+Georgia+Ave+UNIT+103,+Chattanooga,+TN+37402,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88605e64e4793471:0x9e85accab4fe4b68?sa=X&ved=1t:57443&ictx=111
-I have the html!!
-
 Tammy Wendel, LCR, Court Reporter| · +1 731-935-9960|Tennessee|None
 Southern Registered Reporters|Memphis, TN, United States|Tennessee|/maps/dir//Southern+Registered+Reporters,+44+N+2nd+St+%23400,+Memphis,+TN+38103,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87d57e93831cf9a7:0xacdfa5fb159c1821?sa=X&ved=1t:57443&ictx=111
 Horton Court Reporting|Elizabethton, TN, United States|Tennessee|/maps/dir//Horton+Court+Reporting,+1670+Scioto+Rd,+Elizabethton,+TN+37643,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x885a79a2044b9157:0x4ece47ed8d77bf73?sa=X&ved=1t:57443&ictx=111
@@ -2305,14 +1898,7 @@ Tyler Reporting Services|Morristown, TN, United States|Tennessee|/maps/dir//Tyle
 Brown & Wingo Court Reporting|Knoxville, TN, United States|Tennessee|/maps/dir//Brown+%26+Wingo+Court+Reporting,+%232347,+Knoxville,+TN+37901,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x885c17c31b2b449f:0xf02c171bf1e9883b?sa=X&ved=1t:57443&ictx=111
 Miller & Miller Court Reporting|Knoxville, TN, United States|Tennessee|/maps/dir//Miller+%26+Miller+Court+Reporting,+12804+Union+Rd,+Knoxville,+TN+37934,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x885c2c715494be31:0xa227a5ff3f89faa?sa=X&ved=1t:57443&ictx=111
 Sound Image|Knoxville, TN, United States|Tennessee|/maps/dir//Sound+Image,+611+Calthorpe+Ln,+Knoxville,+TN+37912,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x885c3c33ffffffff:0x254db690027cd309?sa=X&ved=1t:57443&ictx=111
-None|None|Tennessee|None
-None|None|Tennessee|None
-None|None|Tennessee|None
-None|None|Tennessee|None
-None|None|Tennessee|None
-no clickable element
-done!!
-State of Tennessee data scraped successfully
+
 Advanced Court Reporting Solutions - Salt Lake City, Utah Location|Salt Lake City, UT, United States|Utah|https://advancedrep.com/
 Alpine Court Reporting|Salt Lake City, UT, United States|Utah|http://www.alpinecourtreporting.com/
 Red Rock Reporting| · +1 385-707-7254|Utah|http://www.redrockreporting.com/
@@ -2333,9 +1919,8 @@ Beyond the Bar Court Reporting, LLC| · +1 385-448-7091|Utah|https://btbcourtrep
 HORIZON REPORTING & VIDEO, INC.|Provo, UT, United States|Utah|/maps/dir//HORIZON+REPORTING+%26+VIDEO,+INC.,+3214+N+University+Ave+%23205,+Provo,+UT+84604,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x874d907da223a08d:0x23a08dc529bf0998?sa=X&ved=1t:57443&ictx=111
 Litigation Services|Salt Lake City, UT, United States|Utah|http://www.litigationservices.com/
 Depo Dynamics|Salt Lake City, UT, United States|Utah|/maps/dir//Depo+Dynamics,+2825+E+Cottonwood+Pkwy+%23500,+Salt+Lake+City,+UT+84121,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x875263bb4a5e093f:0x2879b9305844c8b9?sa=X&ved=1t:57443&ictx=111
-no clickable element
-done!!
-State of Utah data scraped successfully
+
+
 Cook & Wiley Court Reporters|Richmond, VA, United States|Virginia|/maps/dir//Cook+%26+Wiley+Court+Reporters,+411+E+Franklin+St+Suite+205,+Richmond,+VA+23219,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89b16abe660aaa6d:0xe160a0ad78281b9e?sa=X&ved=1t:57443&ictx=111
 Zahn Court Reporting Ltd|Norfolk, VA, United States|Virginia|https://zahncourtreporting.com/
 Central Virginia Reporters|Salem, VA, United States|Virginia|https://www.huseby.com/central-virginia
@@ -2356,8 +1941,6 @@ Crane-Snead & Associates Inc|Richmond, VA, United States|Virginia|http://www.cra
 Casamo and Associates|Culpeper, VA, United States|Virginia|https://www.casamo.com/culpeper-court-reporters/
 ICR Rudiger & Green|Manassas, VA, United States|Virginia|http://www.icrdepos.com/
 Accurate Reporting of Hampton Roads|Chesapeake, VA, United States|Virginia|https://www.accurate-reporting.com/
-I have the html!!
-
 Halasz Reporting & Video|Richmond, VA, United States|Virginia|http://www.halaszreporting.com/
 Hart Reporting Inc.|Harrisonburg, VA, United States|Virginia|http://www.hartreporting.com/
 Veteran Reporters, Inc.|Stephenson, VA, United States|Virginia|http://veteranreporters.com/
@@ -2378,8 +1961,6 @@ Shaylah Burrill and Associates, LLC| · +1 571-758-4722|Virginia|http://www.sban
 Cavalier Reporting & Videography|Roanoke, VA, United States|Virginia|http://www.cavalier-reporting.com/
 Diversified Reporting Services|Alexandria, VA, United States|Virginia|http://www.diversifiedreporting.com/
 Peterman Reporting| · +1 571-234-7910|Virginia|None
-I have the html!!
-
 Yost Associates|Virginia Beach, VA, United States|Virginia|/maps/dir//Yost+Associates,+1609+Duke+of+Windsor+Rd,+Virginia+Beach,+VA+23454,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89baeb949763f2e5:0xe89d748396ab2047?sa=X&ved=1t:57443&ictx=111
 Appalachian Court Reporting|Bristol, VA, United States|Virginia|/maps/dir//Appalachian+Court+Reporting,+17483+Old+Jonesboro+Rd,+Bristol,+VA+24202,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8850728e274a940f:0xf0e8a661597ba071?sa=X&ved=1t:57443&ictx=111
 District Reporting Services| · +1 703-599-0543|Virginia|https://districtreportingservices.business.site/?utm_source=gmb&utm_medium=referral
@@ -2400,31 +1981,12 @@ Rutledge Court Reporting Service, Inc|Chesapeake, VA, United States|Virginia|/ma
 Olender Reporting Inc.|Washington, DC, United States|Virginia|http://www.olenderreporting.com/
 Nicholson Reporting|Falls Church, VA, United States|Virginia|https://www.nicholsonreporting.com/
 Ortega International Reporting| · +1 202-681-5140|Virginia|http://www.ortegainternationalreporting.com/
-I have the html!!
-
 Chandler & Halasz|Mechanicsville, VA, United States|Virginia|https://www.chandlerhalasz.com/
 Lang Court Reporting|Triangle, VA, United States|Virginia|None
 Carol Thomas Stenotype Reporting|Fairfax, VA, United States|Virginia|/maps/dir//Carol+Thomas+Stenotype+Reporting,+3162+Musket+Ct,+Fairfax,+VA+22030,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89b64eb21c4ce4d9:0xb0b02c1afdab935c?sa=X&ved=1t:57443&ictx=111
 Lewis & De Berry Reporting Services LLC| · +1 757-874-6394|Virginia|None
-None|None|Virginia|None
-None|None|Virginia|None
-None|None|Virginia|None
-None|None|Virginia|None
-None|None|Virginia|None
-None|None|Virginia|None
-None|None|Virginia|None
-None|None|Virginia|None
-None|None|Virginia|None
-None|None|Virginia|None
-None|None|Virginia|None
-None|None|Virginia|None
-None|None|Virginia|None
-None|None|Virginia|None
-None|None|Virginia|None
-None|None|Virginia|None
-no clickable element
-done!!
-State of Virginia data scraped successfully
+
+
 Realtime Reporters, LLC|Charleston, WV, United States|West Virginia|http://www.realtimereporters.net/
 Sargent's Court Reporting Service, Inc.|Morgantown, WV, United States|West Virginia|https://sargents.com/
 Betler's Reporting & Legal Video Services|Huntington, WV, United States|West Virginia|https://www.brlvs.com/
@@ -2445,8 +2007,6 @@ Bramble Reporting|Bridgeport, WV, United States|West Virginia|/maps/dir//Bramble
 Susanne Lewis, RMR, CRR|Wheeling, WV, United States|West Virginia|http://lewisreporting.com/
 C W Reporting|Barboursville, WV, United States|West Virginia|/maps/dir//C+W+Reporting,+105+Martin+Dr,+Barboursville,+WV+25504,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8846074d2e56729b:0x265c7fced7248c0a?sa=X&ved=1t:57443&ictx=111
 C B S Reporting|Hurricane, WV, United States|West Virginia|/maps/dir//C+B+S+Reporting,+113+Litchfield+Ln,+Hurricane,+WV+25526,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8848b41b49e86b87:0x609aa79a7dbbe79f?sa=X&ved=1t:57443&ictx=111
-I have the html!!
-
 Markley Candace|Shinnston, WV, United States|West Virginia|/maps/dir//Markley+Candace,+725+Pub+Rd+17%2F658,+Shinnston,+WV+26431,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x884a6fe7019a2527:0xc19cb708e2bcedd?sa=X&ved=1t:57443&ictx=111
 Harless Reporting & Consulting| · +1 304-552-6600|West Virginia|https://harless-reporting-consulting.business.site/?utm_source=gmb&utm_medium=referral
 Belletto Marilyn|Canvas, WV, United States|West Virginia|/maps/dir//Belletto+Marilyn,+539+Exotic+Rd,+Canvas,+WV+26662,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x884c00e2e6cb9ef9:0x9008fb5dd0fdc60?sa=X&ved=1t:57443&ictx=111
@@ -2465,11 +2025,6 @@ Barbour County Court Reporter|Philippi, WV, United States|West Virginia|/maps/di
 Circuit Judge Court Reporter|Fairmont, WV, United States|West Virginia|/maps/dir//Circuit+Judge+Court+Reporter,+J.Harper+Mereditn+Building,+200+Jackson+St+%23+301,+Fairmont,+WV+26554,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x884a7e80b2410bd5:0x58cee93279e0fa43?sa=X&ved=1t:57443&ictx=111
 Garrett Reporting Service|Charleston, WV, United States|West Virginia|https://garrettcourtreporting.com/contact-us/
 Braxton County Court Reporter|Sutton, WV, United States|West Virginia|http://www.courtswv.gov/lower-courts/counties/braxton.html
-None|None|West Virginia|None
-None|None|West Virginia|None
-no clickable element
-done!!
-State of West Virginia data scraped successfully
 eCourt Reporters, Inc.| · +1 262-217-0300|Wisconsin|https://ecourtreporters.com/?utm_source=GoogleBusinessProfile
 U.S. Legal Support Court Reporting Services|Milwaukee, WI, United States|Wisconsin|https://www.uslegalsupport.com/court-reporting-services-milwaukee/?utm_source=GMBlisting&utm_medium=organic
 For The Record, Inc.|Waunakee, WI, United States|Wisconsin|http://ftrmadison.com/
@@ -2490,8 +2045,6 @@ StenoScripts LLC|Brillion, WI, United States|Wisconsin|http://www.stenoscripts.c
 Verbatim Reporting, Limited|Madison, WI, United States|Wisconsin|https://www.esquiresolutions.com/verbatim-madison/
 Grossbier & Associates|Wisconsin Rapids, WI, United States|Wisconsin|/maps/dir//Grossbier+%26+Associates,+A+St,+Wisconsin+Rapids,+WI+54494,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x880089ab7d98977f:0x6c8cc3e5c81592b5?sa=X&ved=1t:57443&ictx=111
 Cream City Reporting LLC.|Milwaukee, WI, United States|Wisconsin|http://www.creamcityreporting.com/
-I have the html!!
-
 Northwestern Court Reporters|Hudson, WI, United States|Wisconsin|http://nwcourtreporters.com/
 Polaris Court Reporting| · +1 414-210-9911|Wisconsin|None
 Northwestern Court Reporters|Eau Claire, WI, United States|Wisconsin|https://nwcourtreporters.com/
@@ -2512,8 +2065,6 @@ Independent Reporting|Green Bay, WI, United States|Wisconsin|https://independent
 Braden Undeland|Open 24 hours · +1 218-727-4255|Wisconsin|http://bradenundelandreporting.com/
 Dreawves Reporting, LLC|Open ⋅ Closes 5 pm · +1 218-590-2401|Wisconsin|None
 Kempfer Court Reporting|Janesville, WI, United States|Wisconsin|http://kempfercourtreporting.com/
-I have the html!!
-
 Washington County Court Reporters|West Bend, WI, United States|Wisconsin|/maps/dir//Washington+County+Court+Reporters,+West+Bend,+WI+53095,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88045f73ef83bbc7:0x4fe49703e4bd037c?sa=X&ved=1t:57443&ictx=111
 Esquire Deposition Solutions, LLC| · +1 715-355-4384|Wisconsin|https://www.esquiresolutions.com/?utm_medium=yext&utm_source=gmb&y_source=1_MjA1ODA4MTktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
 Accurate Reporting Service|Prairie du Chien, WI, United States|Wisconsin|https://www.accuratereportingservice.com/
@@ -2522,21 +2073,6 @@ Court Reporters Branch IV|West Bend, WI, United States|Wisconsin|/maps/dir//Cour
 Watczak Reporting Inc|Duluth, MN, United States|Wisconsin|http://www.watczakreporting.com/
 Lexitas|Wauwatosa, WI, United States|Wisconsin|https://www.lexitaslegal.com/
 DEBRA HASS & ASSOCIATES ~ COURT REPORTERS ~ SOUTHEAST WISCONSIN~KENOSHA COUNTY|Twin Lakes, WI, United States|Wisconsin|/maps/dir//DEBRA+HASS+%26+ASSOCIATES+~+COURT+REPORTERS+~+SOUTHEAST+WISCONSIN~KENOSHA+COUNTY,+110+Cobblestone+Ct,+Twin+Lakes,+WI+53181,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x880f7dcf2de45545:0x26fcff679bdc408a?sa=X&ved=1t:57443&ictx=111
-None|None|Wisconsin|None
-None|None|Wisconsin|None
-None|None|Wisconsin|None
-None|None|Wisconsin|None
-None|None|Wisconsin|None
-None|None|Wisconsin|None
-None|None|Wisconsin|None
-None|None|Wisconsin|None
-None|None|Wisconsin|None
-None|None|Wisconsin|None
-None|None|Wisconsin|None
-None|None|Wisconsin|None
-no clickable element
-done!!
-State of Wisconsin data scraped successfully
 Jackson Hole Court Reporting|Jackson, WY, United States|Wyoming|https://ttreporting.com/
 Summit Reporting|Cheyenne, WY, United States|Wyoming|/maps/dir//Summit+Reporting,+1274+Cole+Rd,+Cheyenne,+WY+82009,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8768cdf43f1ebbb9:0x411cd6933e67e0b5?sa=X&ved=1t:57443&ictx=111
 Two Sisters Reporting Service|Buffalo, WY, United States|Wyoming|http://www.twosistersreporting.com/
@@ -2550,16 +2086,7 @@ Sheridan Answering & Sectrl|Sheridan, WY, United States|Wyoming|/maps/dir//Sheri
 Natrona District Court Reporter|Casper, WY, United States|Wyoming|/maps/dir//Natrona+District+Court+Reporter,+200+N+Center+St,+Casper,+WY+82601,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8760bca2e7b15225:0x363a4b1251fc507b?sa=X&ved=1t:57443&ictx=111
 Albany County Court Reporter|Laramie, WY, United States|Wyoming|/maps/dir//Albany+County+Court+Reporter,+525+Grand+Ave,+Laramie,+WY+82070,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8768901e91eac4df:0xa355f79530682acf?sa=X&ved=1t:57443&ictx=111
 Legal Video of Wyoming|Casper, WY, United States|Wyoming|/maps/dir//Legal+Video+of+Wyoming,+1622+S+Oak+St,+Casper,+WY+82601,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8760bb5b11e625b9:0x400f292dda971b71?sa=X&ved=1t:57443&ictx=111
-None|None|Wyoming|None
-None|None|Wyoming|None
-None|None|Wyoming|None
-None|None|Wyoming|None
-None|None|Wyoming|None
-None|None|Wyoming|None
-None|None|Wyoming|None
-no clickable element
-done!!
-State of Wyoming data scraped successfully
+
 Court Reporter Washington DC|1821 Jefferson Pl NW #601|Washington, D.C.|http://courtreporter-washingtondc.com/
 Ace-Federal Reporters|1300 L St NW Suite 1001|Washington, D.C.|http://acefederal.com/
 Capital Reporting Company|1250 I St NW|Washington, D.C.|http://www.capitalreportingcompany.com/
@@ -2580,29 +2107,387 @@ Washington DC Court Reporters|500 Indiana Ave NW # 5500|Washington, D.C.|/maps/d
 Bryteson Reporting|888 Black Lives Matter Plz NW #600|Washington, D.C.|/maps/dir//Bryteson+Reporting,+888+Black+Lives+Matter+Plz+NW+%23600,+Washington,+DC+20006,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89b7b7bc294b37c1:0x8abd3f77f2a324e3?sa=X&ved=1t:57443&ictx=111
 Digital Evidence Group, LLC|1730 M St NW #812|Washington, D.C.|http://www.digitalevidencegroup.com/
 Diversified Reporting Services|Alexandria, VA, United States|Washington, D.C.|http://www.diversifiedreporting.com/
-I have the html!!
-
 Husbeby, Inc. Litigation Services|1050 Connecticut Ave NW|Washington, D.C.|http://www.huseby.com/
 Professional Court Services|1825 I St NW|Washington, D.C.|/maps/dir//Professional+Court+Services,+1825+I+St+NW,+Washington,+DC+20006,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89b7b7ba2c6291ef:0x86f4ee13492b1539?sa=X&ved=1t:57443&ictx=111
 DTI Court Reporting --Washington DC Metro|1875 I St NW|Washington, D.C.|/maps/dir//DTI+Court+Reporting+--Washington+DC+Metro,+1875+I+St+NW,+Washington,+DC+20005,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89b7b79651494e47:0x162cdf9ffce95a53?sa=X&ved=1t:57443&ictx=111
 Watergate Secretarial Services Inc|2600 Virginia Ave NW # 2|Washington, D.C.|/maps/dir//Watergate+Secretarial+Services+Inc,+2600+Virginia+Ave+NW+%23+2,+Washington,+DC+20037,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89b7b7b2c70f5ec7:0xf3f2b231da37f0cc?sa=X&ved=1t:57443&ictx=111
-None|None|Washington, D.C.|None
-None|None|Washington, D.C.|None
-None|None|Washington, D.C.|None
-None|None|Washington, D.C.|None
-None|None|Washington, D.C.|None
-None|None|Washington, D.C.|None
-None|None|Washington, D.C.|None
-None|None|Washington, D.C.|None
-None|None|Washington, D.C.|None
-None|None|Washington, D.C.|None
-None|None|Washington, D.C.|None
-None|None|Washington, D.C.|None
-None|None|Washington, D.C.|None
-None|None|Washington, D.C.|None
-None|None|Washington, D.C.|None
-None|None|Washington, D.C.|None
-no clickable element
-done!!
-State of Washington, D.C. data scraped successfully
-Scraped ALL states
+Rocky Mountain Court Reporting|Denver, CO, Marekani · +1 720-669-8807|Colorado|http://rmreporting.com/
+Elliott Reporting, Inc.|Colorado Springs, CO, Marekani · +1 719-434-8262|Colorado|http://elliottreporting.com/
+Agren Blando Court Reporting|Colorado Springs, CO, Marekani · +1 719-635-8328|Colorado|http://agrenblando.com/
+Verbatim Court Reporting, LLC|+1 303-475-0897|Colorado|http://www.verbatimcr.com/
+Tim West Reporting|Colorado Springs, CO, Marekani · +1 719-685-3783|Colorado|http://timwestreporting.com/
+Pike Reporting|Denver, CO, Marekani · +1 720-738-1300|Colorado|https://pikereporting.com/
+Western Colorado Court Reporting|Grand Junction, CO, Marekani · +1 970-778-5711|Colorado|http://www.westerncoloradoreporting.com/
+AB Litigation Services|Denver, CO, Marekani · +1 303-296-0017|Colorado|http://www.agrenblando.com/
+Pelton Reporting Services|Colorado Springs, CO, Marekani · +1 719-578-2062|Colorado|https://www.peltonreporting.com/
+Hansen & Company, Inc.|Colorado Springs, CO, Marekani · +1 719-471-2966|Colorado|/maps/dir//Hansen+%26+Company,+Inc.,+101+N+Cascade+Ave+Ste.+400,+Colorado+Springs,+CO+80903,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x871344de55cc0219:0xc33e3dcb92552e0a?sa=X&ved=1t:57443&ictx=111
+Southern Colorado Deposition Services|+1 719-495-8412|Colorado|None
+Roaring Fork Reporting|+1 970-263-8830|Colorado|https://www.roaringforkreporting.com/
+NAEGELI Deposition & Trial Court Reporters|Denver, CO, Marekani · +1 720-880-7529|Colorado|https://www.naegeliusa.com/locations/denver-colorado
+O'Brien Reporting|+1 719-635-0033|Colorado|None
+Colorado Court Reporters Association|Aurora, CO, Marekani · +1 303-835-9088|Colorado|http://www.ccra.info/
+Hulac Court Reporting, LLC|Denver, CO, Marekani · +1 303-331-0131|Colorado|/maps/dir//Hulac+Court+Reporting,+LLC,+125+Bellaire+St,+Denver,+CO+80220,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x876c7c2741b827ad:0x7ea50a8b54901c64?sa=X&ved=1t:57443&ictx=111
+Hansen & Company|Denver, CO, Marekani · +1 303-691-0202|Colorado|http://acourtreporter.net/
+Capri Court Reporting, Inc.|Basalt, CO, Marekani · +1 970-510-5131|Colorado|http://capricourtreporting.com/
+Aspen Court Reporting|Glenwood Springs, CO, Marekani · +1 970-945-2272|Colorado|https://www.aspencourtreporting.com/
+Durango Court Reporter|+1 619-405-3680|Colorado|https://durangocourtreporter.com/
+Esquire Deposition Solutions, LLC|Denver, CO, Marekani · +1 303-316-0330|Colorado|https://www.esquiresolutions.com/?utm_medium=yext&utm_source=gmb&y_source=1_MTU0NTU1NjYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+Patterson Reporting & Video|Denver, CO, Marekani · +1 303-696-7680|Colorado|/maps/dir//Patterson+Reporting+%26+Video,+2170+S+Parker+Rd+Ste+263,+Denver,+CO+80231,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x876c7d66cae5ad9b:0x50bb40d9fa167642?sa=X&ved=1t:57443&ictx=111
+Rusk & Rusk Court Reporters|Grand Junction, CO, Marekani · +1 970-242-3074|Colorado|http://www.ruskandruskcourtreporters.com/
+Burnett & Nielsen Professional Reporters|Denver, CO, Marekani · +1 303-731-6185|Colorado|http://burnettnielsen.com/
+Stevens-Koenig Reporting|Denver, CO, Marekani · +1 303-988-8470|Colorado|http://www.skreporting.com/
+Denver Court Reporting & Video|Denver, CO, Marekani · +1 720-571-0457|Colorado|/maps/dir//Denver+Court+Reporting+%26+Video,+4600+S+Syracuse+St,+Denver,+CO+80237,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x876c876ffd008cb9:0x88f28598b533d64b?sa=X&ved=1t:57443&ictx=111
+Mile High Court Reporting & Video, Inc.|Golden, CO, Marekani · +1 303-202-0210|Colorado|/maps/dir//Mile+High+Court+Reporting+%26+Video,+Inc.,+14143+Denver+W+Pkwy+%23100,+Golden,+CO+80401,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x876b790c5a982893:0xca2605433a04f135?sa=X&ved=1t:57443&ictx=111
+Murphy Court Reporting, LLC|Broomfield, CO, Marekani · +1 303-522-1604|Colorado|http://www.murphycourtreportingllc.com/
+Meadors Court Reporting, LLC|Fort Collins, CO, Marekani · +1 970-482-1506|Colorado|http://meadorscourtreporting.com/
+Animas Reporting Services|Durango, CO, Marekani · +1 970-385-4268|Colorado|http://www.animasreporting.com/
+Javernick & Stenstrom|Aurora, CO, Marekani · +1 720-449-0329|Colorado|http://www.javernickstenstrom.net/
+Agren Blando Court Reporting & Video|Boulder, CO, Marekani · +1 303-443-0433|Colorado|http://agrenblando.com/
+Pacific Rim Reporting|Anchorage, AK, Marekani · +1 907-272-4383|Alaska|http://www.courtreportersalaska.com/
+Kron Associates Court Reporting|Anchorage, AK, Marekani · +1 907-276-3554|Alaska|http://www.kronassociates.com/
+Computer Matrix Court Reporters|Anchorage, AK, Marekani · +1 907-243-0668|Alaska|/maps/dir//Computer+Matrix+Court+Reporters,+329+F+St+%23222,+Anchorage,+AK+99501,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x56c8bd8652b8942b:0x49de479970e84fba?sa=X&ved=1t:57443&ictx=111
+Peninsula Reporting|Kenai, AK, Marekani · +1 907-283-4429|Alaska|http://peninsulareporting.com/
+Crystal Thompson Court Reporting Services, LLC|Fairbanks, AK, Marekani · +1 907-460-9535|Alaska|http://alaskareporting.com/contact.html
+Northern Lights Realtime|Anchorage, AK, Marekani · +1 907-337-2221|Alaska|http://www.nlrr.com/
+Glacier Stenographic Reporters|Juneau, AK, Marekani · +1 907-789-9028|Alaska|http://www.glaciersteno.com/
+GK Metro Court Reporting|Anchorage, AK, Marekani · +1 907-276-3876|Alaska|/maps/dir//GK+Metro+Court+Reporting,+1113+W+Fireweed+Ln+STE+200,+Anchorage,+AK+99503,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x56c897cee4a13cf3:0x5d4f5f38a6e9bcb?sa=X&ved=1t:57443&ictx=111
+Alaska Court Reporting & Transcribing Services|Anchorage, AK, Marekani · +1 907-563-9692|Alaska|/maps/dir//Alaska+Court+Reporting+%26+Transcribing+Services,+310+K+St+%23200,+Anchorage,+AK+99501,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x56c8bd86a936dfab:0x65b52a047d0d1ab?sa=X&ved=1t:57443&ictx=111
+Northern Lights Realtime & Reporting|Anchorage, AK, Marekani · +1 907-337-2221|Alaska|http://www.nlrr.com/Contact_NLRR.htm
+Transcripts Only|Anchorage, AK, Marekani · +1 907-529-4151|Alaska|http://www.transcriptsonly.com/
+Document Alaska|None|Alaska|http://www.documentalaska.com/
+SEAK Professional Services, LLC|Ketchikan, AK, Marekani · +1 907-225-1145|Alaska|/maps/dir//SEAK+Professional+Services,+LLC,+2415+Hemlock+St+%23101,+Ketchikan,+AK+99901,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x540c25a51059ffd7:0x988acf25f2ae9e94?sa=X&ved=1t:57443&ictx=111
+Ralph Rosenberg Court Reporters|Honolulu, HI, Marekani · +1 888-524-5888|Hawaii|https://www.hawaiicourtreporters.com/
+iDepo Hawaii, LLC|Honolulu, HI, Marekani · +1 808-664-6677|Hawaii|https://www.idepohawaii.com/
+Island Court Reporting & Transcription Services Oahu|Honolulu, HI, Marekani · +1 808-933-9800|Hawaii|https://www.islandcourtreporting.com/
+NAEGELI Deposition & Trial Court Reporters|Honolulu, HI, Marekani · +1 808-518-2222|Hawaii|https://www.naegeliusa.com/locations/honolulu-hawaii
+Ali'i Court Reporting|+1 808-394-2544|Hawaii|https://courtreporterhawaii.com/
+Powers & Associates Court Reporters|Honolulu, HI, Marekani · +1 808-536-2001|Hawaii|https://www.powersandassociates.us/
+Ann B. Matsumoto|Honolulu, HI, Marekani · +1 808-541-2061|Hawaii|http://www.hid.uscourts.gov/dsp_Reporters.cfm?pid=7&mid=34
+Alphabetum LLC|+1 808-536-0022|Hawaii|None
+Island Court Reporting & Transcription Services|Hilo, HI, Marekani · +1 808-933-9800|Hawaii|http://www.islandcourtreporting.com/
+Ralph Rosenberg Court Reporters|Kailua-Kona, HI, Marekani · +1 808-329-5443|Hawaii|http://www.hawaiicourtreporters.com/
+Hoey Court Reporting|Boston, MA, Marekani · +1 617-539-4449|Massachusetts|http://www.hoeycourtreporting.net/
+G & M Court Reporters & Video|Boston, MA, Marekani · +1 617-338-0030|Massachusetts|/maps/dir//G+%26+M+Court+Reporters+%26+Video,+42+Chauncy+St+%231a,+Boston,+MA+02111,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e37082eb1f6369:0x3309453f2435a5f8?sa=X&ved=1t:57443&ictx=111
+Boston Court Reporters|Cambridge, MA, Marekani · +1 617-871-6000|Massachusetts|http://www.bostonreporters.com/
+Worcester MA Court Reporters and Deposition Services|Worcester, MA, Marekani · +1 617-618-5822|Massachusetts|/maps/dir//Worcester+MA+Court+Reporters+and+Deposition+Services,+Worcester,+MA+01608,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e407ba1f5f4919:0xaa2dacc1a428157b?sa=X&ved=1t:57443&ictx=111
+Bramanti & Lyons Court Reporting, Inc.|Boston, MA, Marekani · +1 617-723-7321|Massachusetts|http://bramanti-lyons.com/contact.html
+Real-Time Court Reporting|Worcester, MA, Marekani · +1 508-767-1157|Massachusetts|http://www.realtimereporting.net/
+Affiliated Boston Court Reporters|Boston, MA, Marekani · +1 617-423-5841|Massachusetts|http://www.affiliatedbostoncourtreporters.com/
+Cambridge Court Reporters|Cambridge, MA, Marekani · +1 617-871-6000|Massachusetts|http://www.cambridgereporters.com/contact-us/
+Commonwealth Court Reporting|Hyde Park, MA, Marekani · +1 617-364-5865|Massachusetts|http://commonwealthcourtreporting.com/
+Goudreau & Grossi Court Reporting Service Inc|Taunton, MA, Marekani · +1 508-823-4659|Massachusetts|/maps/dir//Goudreau+%26+Grossi+Court+Reporting+Service+Inc,+63+Winthrop+St,+Taunton,+MA+02780,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e4f3558260b537:0x8aecfe34bf44708d?sa=X&ved=1t:57443&ictx=111
+O'Brien & Levine Court Reporting Solutions|Boston, MA, Marekani · +1 617-399-0130|Massachusetts|http://court-reporting.com/
+Huling Court Reporter & Court Reporting|Milford, MA, Marekani · +1 508-282-2307|Massachusetts|/maps/dir//Huling+Court+Reporter+%26+Court+Reporting,+56+Meade+St,+Milford,+MA+01757,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e47244ceebb6d7:0x9efbcfd123274197?sa=X&ved=1t:57443&ictx=111
+Shea Court Reporting|Boston, MA, Marekani · +1 617-227-3097|Massachusetts|/maps/dir//Shea+Court+Reporting,+15+Court+Square,+Boston,+MA+02108,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e37085e8e95719:0x933fb1c3fcb3d8ce?sa=X&ved=1t:57443&ictx=111
+Tarallo & Tarallo Court Reporting|Auburn, MA, Marekani · +1 508-832-0048|Massachusetts|/maps/dir//Tarallo+%26+Tarallo+Court+Reporting,+Auburn,+MA+01501,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e404b000000001:0x23f1f6eb573f9065?sa=X&ved=1t:57443&ictx=111
+C. J. Reporting|Andover, MA, Marekani · +1 617-763-1725|Massachusetts|/maps/dir//C.+J.+Reporting,+300+Brickstone+Square+suite+201+no+248,+Andover,+MA+01810,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e3071c589580df:0x1c3e253b511ebfa1?sa=X&ved=1t:57443&ictx=111
+Dunn Reporting Services, Inc.|Woburn, MA, Marekani · +1 617-422-0005|Massachusetts|http://www.dunndepo.com/
+Accurate Court Reporting|Springfield, MA, Marekani · +1 413-747-1806|Massachusetts|http://www.accuratecr.com/
+All Cape Court Reporting Inc|Bourne, MA, Marekani · +1 508-420-7904|Massachusetts|https://www.allcapecourtreporting.com/
+Esquire Deposition Solutions, LLC|Boston, MA, Marekani · +1 617-956-9920|Massachusetts|https://www.esquiresolutions.com/?utm_medium=yext&utm_source=gmb&y_source=1_MTU0NTU1NDUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+Real-Time Court Reporting|Springfield, MA, Marekani · +1 413-732-1157|Massachusetts|http://www.realtimereporting.net/
+Jones & Fuller Reporting, Inc.|Boston, MA, Marekani · +1 617-451-8900|Massachusetts|http://www.jonesfuller.com/
+Beacon Court Reporting Services|Hyannis, MA, Marekani · +1 774-678-4255|Massachusetts|https://beaconcourtreporting.com/
+Copley Court Reporting Inc|Lynn, MA, Marekani · +1 877-929-8085|Massachusetts|http://www.copleycourtreporters.com/
+Bay State Reporting|Worcester, MA, Marekani · +1 508-753-4121|Massachusetts|http://www.baystatereporting.com/
+Eyal Court Reporting, Inc.|Needham, MA, Marekani · +1 617-723-9432|Massachusetts|http://www.deposerve.com/
+Parisi Court Reporting|North Dartmouth, MA, Marekani · +1 508-984-5502|Massachusetts|/maps/dir//Parisi+Court+Reporting,+270+Hixville+Rd,+North+Dartmouth,+MA+02747,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e4e35419768ef3:0x6936de6252a23e86?sa=X&ved=1t:57443&ictx=111
+LMP Court Reporting|+1 508-641-5801|Massachusetts|http://lmpcourtreporting.com/
+Goudreau Court Reporting|Boston, MA, Marekani · +1 617-342-7151|Massachusetts|http://www.goudreaucourtreporting.com/Contact.html
+Flynn Reporting Associates|Framingham, MA, Marekani · +1 508-755-1303|Massachusetts|https://www.flynnreporting.com/
+A&c Court Reporting|Braintree, MA, Marekani · +1 617-650-5666|Massachusetts|http://www.acreporting.org/
+Catuogno Court Reporting|Worcester, MA, Marekani · +1 508-752-0640|Massachusetts|/maps/dir//Catuogno+Court+Reporting,+446+Main+St+%2316,+Worcester,+MA+01608,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e40666a5458229:0xd9b65743db67d121?sa=X&ved=1t:57443&ictx=111
+Catuogno Court Reporting (now Readback)|Springfield, MA, Marekani · +1 413-746-8100|Massachusetts|https://www.readback.legal/
+A&C Court Reporting and Transcription|Weymouth, MA, Marekani · +1 617-650-5666|Massachusetts|http://www.acreporting.org/
+Gill Reporting Inc|East Taunton, MA, Marekani · +1 508-822-0535|Massachusetts|/maps/dir//Gill+Reporting+Inc,+64+Grace+Meadows+Dr,+East+Taunton,+MA+02718,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e4f2dcb7ae924b:0x6fc89f7277a9e4d5?sa=X&ved=1t:57443&ictx=111
+Advanced Court Reporting|+1 781-383-1188|Massachusetts|http://www.advancedcourt.com/
+McCarthy Reporting Service|Worcester, MA, Marekani · +1 508-753-3889|Massachusetts|http://www.mccarthyreporting.com/
+Legal Stenographers|+1 508-753-5093|Massachusetts|https://legalstenographers.com/
+Laplante & Associates|New Bedford, MA, Marekani · +1 508-999-7499|Massachusetts|http://www.laplanteandassociates.com/
+Leavitt Reporting Inc|Weymouth, MA, Marekani · +1 781-335-6791|Massachusetts|/maps/dir//Leavitt+Reporting+Inc,+119+Broad+St,+Weymouth,+MA+02188,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e362fbf9c237c1:0x8a80a35b693da5d0?sa=X&ved=1t:57443&ictx=111
+Farmer Arsenault Brock LLC|Boston, MA, Marekani · +1 617-728-4404|Massachusetts|http://www.fabreporters.com/
+Ellen M. Fritch & Associates|Boston, MA, Marekani · +1 617-269-5448|Massachusetts|http://www.ellenmfritch.com/
+Ledgewood Court Reporting|+1 401-625-5455|Massachusetts|None
+De Terra Reporting Service|Acushnet, MA, Marekani · +1 508-763-2542|Massachusetts|/maps/dir//De+Terra+Reporting+Service,+1+Bow+Dr,+Acushnet,+MA+02743,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e4efe0daab6171:0x5ad82c35a8e3fc57?sa=X&ved=1t:57443&ictx=111
+The Varallo Group LLC|Worcester, MA, Marekani · +1 508-753-9282|Massachusetts|http://www.thevarallogroup.com/
+Philbin & Associates|Springfield, MA, Marekani · +1 413-499-2231|Massachusetts|https://philbin-associates.com/
+Lee & Associates|Braintree, MA, Marekani · +1 781-848-9693|Massachusetts|https://www.lee-associates.com/
+Copley Court Reporting, Inc.|Boston, MA, Marekani · +1 877-929-8085|Massachusetts|http://www.copleycourtreporters.com/
+Liberty Legal Resources|Springfield, MA, Marekani · +1 413-747-7655|Massachusetts|http://www.court-reporting.com/
+Advanced Court Reporting|Plymouth, MA, Marekani · +1 781-383-1188|Massachusetts|https://advancedcourt.com/
+Readback Active Reporting|Springfield, MA, Marekani · +1 888-256-7776|Massachusetts|https://www.readback.legal/
+About Time|Northampton, MA, Marekani · +1 413-585-8873|Massachusetts|/maps/dir//About+Time,+44+Conz+St,+Northampton,+MA+01060,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e6d74510d8a539:0xa0b499b46ae23c12?sa=X&ved=1t:57443&ictx=111
+Dunn Reporting Services Inc|Boston, MA, Marekani · +1 617-422-0005|Massachusetts|http://www.dunndepo.com/location/
+National Video Reporters Inc|Burlington, MA, Marekani · +1 781-937-9900|Massachusetts|http://www.legalvideo.net/
+Eyal Court Reporting Inc|West Newton, MA, Marekani · +1 800-322-3925|Massachusetts|https://www.deposerve.com/
+Mahaney Reporting 2G|+1 617-542-4207|Massachusetts|None
+K & L Office Specialists|Marlborough, MA, Marekani · +1 508-485-0022|Massachusetts|/maps/dir//K+%26+L+Office+Specialists,+45+Tucker+Ave,+Marlborough,+MA+01752,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e3f4d02f9bbc45:0xc6b77b58eb445028?sa=X&ved=1t:57443&ictx=111
+Advance Services|Franklin, MA, Marekani · +1 508-520-2076|Massachusetts|https://shop.advanceautoparts.com/
+Laplante & Associates|Boston, MA, Marekani · +1 617-973-5012|Massachusetts|/maps/dir//Laplante+%26+Associates,+1+S+Market+St+%23+3,+Boston,+MA+02109,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e370867602acab:0x96788350d8ba23ba?sa=X&ved=1t:57443&ictx=111
+None|None|Massachusetts|None
+None|None|Massachusetts|None
+
+
+Maine Court Reporting Services|Brewer, ME, Marekani · +1 207-989-3264|Maine|/maps/dir//Maine+Court+Reporting+Services,+60+Starlight+Dr,+Brewer,+ME+04412,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x4cae4c860812978b:0x679e7c38f6733d95?sa=X&ved=1t:57443&ictx=111
+Gaige & Feliccitti, LLC, Court Reporting Services|Portland, ME, Marekani · +1 207-854-5296|Maine|https://www.gandfreporting.com/
+Alley & Morrisette Reporting Service|Belgrade, ME, Marekani · +1 207-495-3900|Maine|http://mainecourtreporters.com/
+MVP Litigation Services|Augusta, ME, Marekani · +1 207-622-1616|Maine|http://www.mvplitigation.com/
+Gaige & Feliccitti, LLC, Court Reporting Services|Bangor, ME, Marekani · +1 207-854-5296|Maine|https://www.gandfreporting.com/
+Bickford & Melton Reporting|Litchfield, ME, Marekani · +1 207-268-4496|Maine|/maps/dir//Bickford+%26+Melton+Reporting,+28+Neck+Rd,+Litchfield,+ME+04350,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x4cb20e556af0314d:0xc2e3138a823f9811?sa=X&ved=1t:57443&ictx=111
+Bishop Reporting, Inc.|Portland, ME, Marekani · +1 207-233-4510|Maine|None
+Smith Atwood Video Services Inc|Portland, ME, Marekani · +1 207-773-5119|Maine|http://www.smithatwood.com/
+Trattel Court Reporting & Videography|Albuquerque, NM, Marekani · +1 505-830-0600|New Mexico|http://trattel.com/
+KMR Court Reporters, etc., LLC|+1 505-243-2007|New Mexico|https://kmr-court-reporters-etc.business.site/
+New Mexico Deposition and Court Reporters|Albuquerque, NM, Marekani · +1 505-244-3376|New Mexico|http://nmdepo.com/
+Independent Court Reporters|+1 505-865-3054|New Mexico|http://www.independentcourtreportersnm.com/
+Belle Vivienne, CRR New Mexico Court Reporter|Corrales, NM, Marekani · +1 908-307-1354|New Mexico|/maps/dir//Belle+Vivienne,+CRR+New+Mexico+Court+Reporter,+65+La+Pasada+De+Anacleto,+Corrales,+NM+87048,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x872277ffbaa32d01:0x1b95764a53b141b9?sa=X&ved=1t:57443&ictx=111
+Paul Baca Professional Court Reporters|Albuquerque, NM, Marekani · +1 505-843-9241|New Mexico|http://www.paulbacacourtreporters.com/
+New Mexico Depo|Albuquerque, NM, Marekani · +1 505-244-3376|New Mexico|http://nmdepo.com/
+Williams & Associates, LLC|Albuquerque, NM, Marekani · +1 505-843-7789|New Mexico|http://www.williamsnm.com/
+Trattel Court Reporting & Videography|Farmington, NM, Marekani · +1 505-830-0600|New Mexico|https://www.trattel.com/farmington/
+Gina Gruben, Inc.|Roswell, NM, Marekani · +1 806-339-4101|New Mexico|http://www.courtreportersite.com/
+Bean & Associates Professional Court Reporting|Santa Fe, NM, Marekani · +1 505-989-4949|New Mexico|http://www.beanandassociates.com/
+Kendra Tellez Court Reporting, Inc.|Albuquerque, NM, Marekani · +1 505-243-5691|New Mexico|http://www.kendrareporting.com/
+Trambley's Court Reporting|+1 505-292-2120|New Mexico|None
+Albuquerque Court Reporting Service|Albuquerque, NM, Marekani · +1 505-806-1202|New Mexico|https://abqcourtreporting.com/contact/
+Bean & Associates Professional Court Reporting|Albuquerque, NM, Marekani · +1 505-843-9494|New Mexico|http://www.beanandassociates.com/
+Hughes Southwest Court Reporters|Albuquerque, NM, Marekani · +1 505-843-8211|New Mexico|/maps/dir//Hughes+Southwest+Court+Reporters,+110+2nd+St+SW+STE+505,+Albuquerque,+NM+87102,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87220cbfced4d193:0x2551bb5a382b1cbf?sa=X&ved=1t:57443&ictx=111
+Cumbre Court Reporting Services, LLC|Santa Fe, NM, Marekani · +1 505-984-2244|New Mexico|https://cumbrecourtreporting.com/
+Trattel Court Reporting & Videography|Las Cruces, NM, Marekani · +1 575-382-5900|New Mexico|https://www.trattel.com/las-cruces/
+Trattel Court Reporting & Videography|Santa Fe, NM, Marekani · +1 505-830-0600|New Mexico|https://www.trattel.com/santa-fe/
+Russin Reporting LLC|Las Cruces, NM, Marekani · +1 575-202-4797|New Mexico|http://www.russinreporting.com/
+Waitz Certified Court|Albuquerque, NM, Marekani · +1 505-508-4942|New Mexico|None
+Wordswork Transcription|Santa Fe, NM, Marekani · +1 505-986-1086|New Mexico|/maps/dir//Wordswork+Transcription,+453+Cerrillos+Rd+Suite+B,+Santa+Fe,+NM+87501,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x871850422fc0deeb:0xae77e70cfd12e6b0?sa=X&ved=1t:57443&ictx=111
+Texas Court Reporters Association|Athens, TX, Marekani · +1 903-675-1806|Texas|https://www.tcra-online.com/
+Koole Court Reporters of Texas|San Antonio, TX, Marekani · +1 210-558-9484|Texas|/maps/dir//Koole+Court+Reporters+of+Texas,+8000+I-10+%23600,+San+Antonio,+TX+78230,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x865c60a0a74cba6f:0x495a58668c63e886?sa=X&ved=1t:57443&ictx=111
+Arlington Court Reporting, Inc.|Arlington, TX, Marekani · +1 817-946-3262|Texas|http://www.arlingtoncourtreporting.com/
+mayra malone court reporter|Houston, TX, Marekani · +1 713-250-5787|Texas|https://www.txs.uscourts.gov/page/rates-and-contact-information-court-reporters
+Continental Court Reporters, Inc.|Houston, TX, Marekani · +1 800-779-6981|Texas|http://texasdepos.com/
+Dallas Court Reporting & Video|Dallas, TX, Marekani · +1 469-527-2797|Texas|https://texascourtreporters.net/
+Atkinson-Baker Court Reporters|Houston, TX, Marekani · +1 800-288-3376|Texas|http://www.depo.com/
+Permian Court Reporters, Inc.|Midland, TX, Marekani · +1 432-683-3032|Texas|http://www.permiancourtreporters.com/
+Victory Court Reporting, Inc.|Dallas, TX, Marekani · +1 214-324-3733|Texas|http://www.victorycourtreporting.com/
+Hill & Romero Certified Court Reporters|San Antonio, TX, Marekani · +1 956-287-8898|Texas|https://hillandromero.com/
+Abilene Court Reporters|Abilene, TX, Marekani · +1 325-673-0712|Texas|http://abilenecourtreporters.net/
+Hill & Romero Certified Court Reporters|McAllen, TX, Marekani · +1 956-287-8898|Texas|https://hillandromero.com/
+Houston Court Reporting|Houston, TX, Marekani · +1 713-903-7187|Texas|/maps/dir//Houston+Court+Reporting,+440+Louisiana+St,+Houston,+TX+77002,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8640bf4e4af01efb:0x32c4e39ce188cbf1?sa=X&ved=1t:57443&ictx=111
+ABC Court Reporters LLC|Plano, TX, Marekani · +1 214-303-0222|Texas|/maps/dir//ABC+Court+Reporters+LLC,+903+18th+St+%23115,+Plano,+TX+75074,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x864c1ec1ed2e0e05:0xa7334653d4a2a48e?sa=X&ved=1t:57443&ictx=111
+Caprock Court Reporting|Lubbock, TX, Marekani · +1 806-795-4202|Texas|http://www.caprockcourtreporting.com/
+Five Star Court Reporting and Video|Dallas, TX, Marekani · +1 214-954-0352|Texas|http://www.fivestarreporting.com/
+Southwest Reporting & Video Service - Dallas, Texas Office|Dallas, TX, Marekani · +1 214-699-7848|Texas|http://www.courtreportingdallas.com/
+Continental Court Reporters, Inc.|Austin, TX, Marekani · +1 800-779-6981|Texas|https://www.texasdepos.com/
+FRL Texas|San Antonio, TX, Marekani · +1 210-222-9161|Texas|http://www.frltexas.com/
+Reliable Court Reporting|Beaumont, TX, Marekani · +1 409-832-1776|Texas|https://reliablecourtreporting.com/
+Veritext Legal Solutions|Austin, TX, Marekani · +1 800-497-0277|Texas|https://www.veritext.com/
+Amarillo Court Reporting|+1 806-374-4091|Texas|https://acreporting.com/
+Wendy Ward Roberts & Associates|Garland, TX, Marekani · +1 866-487-3376|Texas|https://www.texascourtreporters.net/
+Associated Court Reporters|Houston, TX, Marekani · +1 800-340-5881|Texas|http://acrtx.com/
+Court Reporting & Litigation Support|+1 903-758-2183|Texas|http://courtreportingls.com/
+Esquire Deposition Solutions, LLC|Houston, TX, Marekani · +1 713-524-4600|Texas|https://www.esquiresolutions.com/?utm_medium=yext&utm_source=gmb&y_source=1_MTU0NTU1NjctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+Southwest Reporting & Video Service, Inc.|Houston, TX, Marekani · +1 713-650-1800|Texas|http://www.swreporting.com/
+San Antonio Court Reporting|San Antonio, TX, Marekani · +1 210-227-1525|Texas|https://san-antonio-court-reporting.business.site/
+Ace Court Reporting Service|Edinburg, TX, Marekani · +1 956-380-1100|Texas|https://www.acecourtreporting.com/
+Associated Court Reporters|Austin, TX, Marekani · +1 800-340-5881|Texas|http://acrtx.com/
+Associated Court Reporters|Bryan, TX, Marekani · +1 979-260-5900|Texas|https://acrtx.com/
+Collins Realtime Reporting, P.C.|Dallas, TX, Marekani · +1 214-220-2449|Texas|http://www.collinsrealtime.net/
+Ross Reporting Services|Houston, TX, Marekani · +1 281-484-0770|Texas|https://www.rossreporting.com/
+Apex Dallas Court Reporters|Dallas, TX, Marekani · +1 214-227-9453|Texas|http://www.apexdallascourtreporters.com/
+Precise Court Reporters Austin Texas|+1 737-340-7010|Texas|https://precisereporters.com/
+Records Deposition Services-Texas|Dallas, TX, Marekani · +1 214-760-0222|Texas|http://www.rdstexas.com/
+Associated Court Reporters|Waco, TX, Marekani · +1 254-753-3330|Texas|http://acrtx.com/
+Gazelle Court Reporting|Dallas, TX, Marekani · +1 214-893-9474|Texas|https://gazellecourtreporting.com/
+MBA Reporting Services Inc|Plano, TX, Marekani · +1 972-231-1801|Texas|http://www.mbarsi.com/
+Greenwalt Court Reporting|Boerne, TX, Marekani · +1 830-537-4223|Texas|https://www.greenwaltcourtreporting.com/
+Carol Davis Reporting Records|Houston, TX, Marekani · +1 713-461-3804|Texas|http://www.caroldavis.com/
+Esquire Deposition Solutions, LLC|Dallas, TX, Marekani · +1 214-257-1436|Texas|https://www.esquiresolutions.com/?utm_medium=yext&utm_source=gmb&y_source=1_MTU0NTU1NjUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+Worldwide Court Reporters, Inc.|Houston, TX, Marekani · +1 800-745-1101|Texas|http://www.worldwidecourtreporters.com/
+Atkinson-Baker Court Reporters|Dallas, TX, Marekani · +1 800-288-3376|Texas|http://www.depo.com/
+Kim Tindall & Associates, LLC|San Antonio, TX, Marekani · +1 512-652-9980|Texas|http://kimtindallandassociates.com/
+Carlisle Reporting|Houston, TX, Marekani · +1 713-864-4443|Texas|https://carlislereporting.com/
+Amy Massey & Associates|+1 817-447-6721|Texas|http://amymasseyandassociates.com/
+Lexitas|Dallas, TX, Marekani · +1 214-373-4977|Texas|https://www.lexitaslegal.com/
+Kim Tindall & Associates - Austin|Austin, TX, Marekani · +1 512-652-9980|Texas|http://www.kimtindallandassociates.com/
+Panhandle Court Reporters LLC|Amarillo, TX, Marekani · +1 806-373-0602|Texas|http://www.panhandlecourtreporters.com/
+Advantage Reporting Service|Tomball, TX, Marekani · +1 281-376-9303|Texas|http://www.advantage-reporting.com/
+U.S. Legal Support Court Reporting Services|Houston, TX, Marekani · +1 713-653-7100|Texas|https://www.uslegalsupport.com/court-reporting-services-houston/?utm_source=GMBlisting&utm_medium=organic
+Carrifee Reporting|Tyler, TX, Marekani · +1 903-596-7714|Texas|http://www.carrifeereporting.com/
+Accuracy Plus Reporting Services LLC|Abilene, TX, Marekani · +1 325-677-3355|Texas|http://www.accuracyplusreporting.com/
+Court Reporters Clearinghouse|Houston, TX, Marekani · +1 713-626-2629|Texas|http://www.crcnational.com/
+Dickman Davenport, Inc.|Dallas, TX, Marekani · +1 214-855-5100|Texas|http://www.dickmandavenport.com/
+Kennedy Reporting Service Inc|Cedar Park, TX, Marekani · +1 512-474-2233|Texas|http://www.kennedyreporting.com/
+Quest Reporting Services|Dallas, TX, Marekani · +1 214-922-7000|Texas|/maps/dir//Quest+Reporting+Services,+3001+Knox+St+%23+303,+Dallas,+TX+75205,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x864e98c052142245:0x1279106a61cb8912?sa=X&ved=1t:57443&ictx=111
+DTEOS Court Reporting|Amarillo, TX, Marekani · +1 727-318-7322|Texas|http://dteoscourtreporting.com/
+Stryker Reporting|Grapevine, TX, Marekani · +1 817-494-0700|Texas|http://strykerreporting.com/
+Infinity Reporting Group, LLC|Houston, TX, Marekani · +1 832-930-4484|Texas|http://www.infinityreporting.net/
+Texas Court Reporting & Video|Addison, TX, Marekani · +1 469-527-2850|Texas|/maps/dir//Texas+Court+Reporting+%26+Video,+15305+Dallas+Pkwy,+Addison,+TX+75001,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x864c2172f8a20f0f:0x5cd18d40e5bbd81a?sa=X&ved=1t:57443&ictx=111
+US District Court Reporter|Lubbock, TX, Marekani · +1 806-744-1107|Texas|https://www.uscourts.gov/services-forms/federal-court-reporting-program
+Veritext Legal Solutions|Dallas, TX, Marekani · +1 800-336-4000|Texas|https://www.veritext.com/
+Cindi Bench Reporting|Stafford, TX, Marekani · +1 281-565-8222|Texas|http://www.cindibenchreporting.com/
+Ace Court Reporting Service|+1 956-380-1100|Texas|https://www.acecourtreporting.com/
+Bryant Stingley Inc. - McAllen, TX|McAllen, TX, Marekani · +1 956-618-2366|Texas|https://www.bryantstingley.com/
+Monarch Reporting Inc.|Hitchcock, TX, Marekani · +1 832-618-1234|Texas|http://www.monarchreporting.net/
+Horizon Reporters|Odessa, TX, Marekani · +1 432-582-2393|Texas|http://horizoncourtreporters.weebly.com/
+Ace Court Reporting Service|Corpus Christi, TX, Marekani · +1 956-380-1100|Texas|http://www.acecourtreporting.com/
+Bryant Stingley Inc. - Harlingen, TX|Harlingen, TX, Marekani · +1 956-428-0755|Texas|https://www.bryantstingley.com/
+Leigh & Associates Court Reporting and Video|Gilmer, TX, Marekani · +1 877-790-3376|Texas|http://www.leighreporting.com/
+Veritext Legal Solutions|Fort Worth, TX, Marekani · +1 800-336-4000|Texas|https://www.veritext.com/fort-worth/
+Kim Tindall & Associates - Dallas|Dallas, TX, Marekani · +1 214-838-5722|Texas|http://kimtindallandassociates.com/
+Lexitas|San Antonio, TX, Marekani · +1 210-481-7575|Texas|https://www.lexitaslegal.com/
+MSGLegal Court Reporters, Video & Courtroom Support|Lufkin, TX, Marekani · +1 877-783-0771|Texas|http://msglegal.net/
+Ace Court Reporting Service|Laredo, TX, Marekani · +1 956-380-1100|Texas|http://www.acecourtreporting.com/
+Sondra Cargle & Associates-Court|Amarillo, TX, Marekani · +1 806-355-8181|Texas|http://sondracargleassociates.com/
+Amarillo Court Reporting|Houston, TX, Marekani · +1 800-340-5881|Texas|/maps/dir//Amarillo+Court+Reporting,+1225+N+Loop+W,+Houston,+TX+77008,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8403b530880132a3:0x3eeea2f99817fb8?sa=X&ved=1t:57443&ictx=111
+Rasberry & Associates|El Paso, TX, Marekani · +1 915-533-1199|Texas|http://www.rasberry.com/
+Janis Rogers & Associates Certified Court Reporters and Video Conference Center|Coppell, TX, Marekani · +1 214-631-2655|Texas|/maps/dir//Janis+Rogers+%26+Associates+Certified+Court+Reporters+and+Video+Conference+Center,+8951+Cypress+Waters+Blvd+Suite+160,+Coppell,+TX+75019,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x864e9c6a70d81447:0xdaec8a50514f3d79?sa=X&ved=1t:57443&ictx=111
+Houston Court Reporting & Video|Houston, TX, Marekani · +1 281-671-4973|Texas|/maps/dir//Houston+Court+Reporting+%26+Video,+1700+Post+Oak+Blvd,+Houston,+TX+77056,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8640c1ef6e772cf7:0x5e48d45d93649f5e?sa=X&ved=1t:57443&ictx=111
+Delta Reporting & Video Services|McAllen, TX, Marekani · +1 956-619-1631|Texas|https://www.deltareporting.com/
+Lexitas|Austin, TX, Marekani · +1 512-478-2752|Texas|https://www.lexitaslegal.com/
+Lexitas|Houston, TX, Marekani · +1 713-375-0121|Texas|https://www.lexitaslegal.com/
+Court Reporting|Burleson, TX, Marekani · +1 817-447-6721|Texas|http://dallasftworthcourtreporter.com/about-us/
+Reporting USA|McAllen, TX, Marekani · +1 212-203-7872|Texas|http://www.reportingusa.com/
+U.S. Legal Support (Court Reporting Location)|Edinburg, TX, Marekani · +1 956-630-9410|Texas|http://www.uslegalsupport.com/
+Court Reporters Clearinghouse|Austin, TX, Marekani · +1 512-732-1805|Texas|http://www.crcnational.com/
+Permian Court Reporters Inc|Odessa, TX, Marekani · +1 432-333-4757|Texas|http://www.permiancourtreporters.com/
+Wright Watson & Associates|Austin, TX, Marekani · +1 512-474-4363|Texas|http://www.wrightwatson.com/
+Folks & Associates|Mesquite, TX, Marekani · +1 214-320-9823|Texas|http://folksassociates.com/
+Beth Howard & Associates|Dallas, TX, Marekani · +1 214-244-4420|Texas|http://depodallas.com/
+Victoria Co Court Reporters|Victoria, TX, Marekani · +1 361-573-9300|Texas|/maps/dir//Victoria+Co+Court+Reporters,+115+N+Bridge+St+%231,+Victoria,+TX+77901,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x86426134ad76447f:0xf4f4faef07bf888?sa=X&ved=1t:57443&ictx=111
+On the Record Reporting & Transcription, Inc.|+1 512-450-0342|Texas|http://www.ontherecordreporting.com/
+Coastal Bend Video and Reporting|Corpus Christi, TX, Marekani · +1 361-888-7585|Texas|http://www.coastalbendvideo.com/
+Acr Ink LLC|El Paso, TX, Marekani · +1 915-542-3422|Texas|https://www.acr-ink.com/
+Davidson Reporting, Inc.|+1 210-340-3656|Texas|None
+Nannell Mooney, Court Reporter|+1 325-646-5859|Texas|None
+Rogers Harvey & Crutcher|Lubbock, TX, Marekani · +1 806-744-7754|Texas|http://rogersharvey.com/
+All Litigation & Video Service, Llc|Houston, TX, Marekani · +1 888-310-2587|Texas|http://www.alvsreporting.com/
+HG Litigation|Dallas, TX, Marekani · +1 888-656-3376|Texas|/maps/dir//HG+Litigation,+2777+N+Stemmons+Fwy+%231025,+Dallas,+TX+75207,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x864e9eb568077a37:0xbe740f8ed36f9997?sa=X&ved=1t:57443&ictx=111
+Michael Raven, Inc., Court Reporting|+1 361-578-3135|Texas|None
+Cathy Sosebee & Associates|Lubbock, TX, Marekani · +1 806-763-0036|Texas|https://csareporting.com/
+Deposition Resources|Palestine, TX, Marekani · +1 903-729-3289|Texas|https://depositionresources.com/
+Integrity Legal Support Solutions|Austin, TX, Marekani · +1 512-320-8690|Texas|http://www.integritytexas.support/
+AV Litigation|Houston, TX, Marekani · +1 281-316-6000|Texas|http://avlitigation.com/
+Coastal Reporting Service|Houston, TX, Marekani · +1 713-224-1659|Texas|/maps/dir//Coastal+Reporting+Service,+13301+East+Fwy+%23202,+Houston,+TX+77015,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8640a3797390d4a7:0xa2a9c4c0ffdca285?sa=X&ved=1t:57443&ictx=111
+Shaw Reporting & Digital Video|Grand Prairie, TX, Marekani · +1 972-263-4353|Texas|http://www.shawreporting.com/
+Reporting USA|Addison, TX, Marekani · +1 214-370-0011|Texas|http://www.reportingusa.com/
+Jan Girouard & Associates|Beaumont, TX, Marekani · +1 409-832-2721|Texas|http://www.jangirouard.com/
+Hoffman Reporting|San Antonio, TX, Marekani · +1 210-736-3555|Texas|https://hoffmanreporting.com/contact-us.php
+QuickType LLC|+1 713-569-8807|Texas|None
+Kim Tindall & Associates - Houston|Houston, TX, Marekani · +1 832-408-2844|Texas|http://kimtindallandassociates.com/
+Julie A Jordan & Co|Austin, TX, Marekani · +1 512-451-8243|Texas|http://www.jordanreporting.com/free-conference-rooms/
+Deposition Video Services|College Station, TX, Marekani · +1 979-846-6655|Texas|/maps/dir//Deposition+Video+Services,+301+Holleman+Dr+E,+College+Station,+TX+77840,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x864683c955555555:0x9d6801dc90e7c345?sa=X&ved=1t:57443&ictx=111
+Lufkin Court Reporting - Video|Lufkin, TX, Marekani · +1 936-637-7593|Texas|http://www.lufkincourtreporting.com/
+Potter County Court Reporter|Amarillo, TX, Marekani · +1 806-379-2378|Texas|/maps/dir//Potter+County+Court+Reporter,+500+S+Fillmore+St+%23+407,+Amarillo,+TX+79101,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87014efb8025674d:0x1cec892ffde4229e?sa=X&ved=1t:57443&ictx=111
+Discovery Resource|Houston, TX, Marekani · +1 713-223-3300|Texas|https://www.discoveryresource.com/
+Austin Legal Video, LLC|+1 512-750-2167|Texas|None
+Echo Connection, LLC|+1 512-925-6810|Texas|https://echo-connection.com/
+Complete Litigation Support|Houston, TX, Marekani · +1 713-521-3330|Texas|https://www.clsvideo.com/
+Exceptional Reporting Services|Corpus Christi, TX, Marekani · +1 361-949-2988|Texas|https://www.exceptionalreporting.com/
+The Legal Connection|Austin, TX, Marekani · +1 512-892-5700|Texas|https://www.tlc-texas.com/
+Lexitas|Tyler, TX, Marekani · +1 903-593-3213|Texas|https://www.lexitaslegal.com/
+DEPONET SOLUTIONS|Henderson, TX, Marekani · +1 903-657-2795|Texas|http://www.deponetsolutions.com/
+Central Texas Litigation Support Services Inc.|Waco, TX, Marekani · +1 254-399-9400|Texas|https://www.centexlitigation.com/?utm_campaign=gmb
+District Court Reporters|San Angelo, TX, Marekani · +1 325-659-6574|Texas|/maps/dir//District+Court+Reporters,+112+W+Beauregard+Ave,+San+Angelo,+TX+76903,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8657ef5874df0237:0xd9bddaa8ef23dbfd?sa=X&ved=1t:57443&ictx=111
+Diversified Legal Services|San Antonio, TX, Marekani · +1 210-732-6800|Texas|https://www.diversifiedlegalservice.com/
+Strategic Litigation Partners|Katy, TX, Marekani · +1 713-574-6689|Texas|http://www.slplegal.com/
+Elite Deposition Technologies|Dallas, TX, Marekani · +1 866-896-2626|Texas|http://www.elitedeps.com/
+Hays County Court Reporter|San Marcos, TX, Marekani · +1 512-393-7630|Texas|/maps/dir//Hays+County+Court+Reporter,+110+E+Martin+Luther+King+Dr,+San+Marcos,+TX+78666,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x865ca8672a215abb:0x595dfd742a3fdd4?sa=X&ved=1t:57443&ictx=111
+Texas County Court Reporter|Guymon, OK, Marekani · +1 580-338-6916|Texas|/maps/dir//Texas+County+Court+Reporter,+1102+S+Ellison+St,+Guymon,+OK+73942,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x870628d87dc38f35:0x4ee60f984447051?sa=X&ved=1t:57443&ictx=111
+Mark Kislingbury's Academy Of Court Reporting|Houston, TX, Marekani · +1 281-859-0791|Texas|http://www.mkcourtreporting.com/
+Terry County Court Reporter|Brownfield, TX, Marekani · +1 806-637-6958|Texas|/maps/dir//Terry+County+Court+Reporter,+500+W+Main+St+%23+303W,+Brownfield,+TX+79316,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x86fc32c9a2f485f1:0x52b8a734c363ca15?sa=X&ved=1t:57443&ictx=111
+TEXDRA|Austin, TX, Marekani · +1 844-483-9372|Texas|https://www.texdra.org/contact
+Brown District Court Reporter|Brownwood, TX, Marekani · +1 325-646-4057|Texas|/maps/dir//Brown+District+Court+Reporter,+200+S+Broadway+St+%23+212,+Brownwood,+TX+76801,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8650c64d420e17f5:0xb3e84c7e18cf375d?sa=X&ved=1t:57443&ictx=111
+Magna Legal Services|Houston, TX, Marekani · +1 832-871-5100|Texas|https://magnals.com/
+Depo Texas|Dallas, TX, Marekani · +1 214-373-4977|Texas|/maps/dir//Depo+Texas,+6500+Greenville+Ave+%23+445,+Dallas,+TX+75206,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x864e9f9716bbdb7b:0x4f732e962aa17503?sa=X&ved=1t:57443&ictx=111
+Fredericks Reporting & Litigation, LLC|Austin, TX, Marekani · +1 512-477-9911|Texas|http://www.frltexas.com/
+CRS-Court Reporting Services|Friendswood, TX, Marekani · +1 281-992-3666|Texas|/maps/dir//CRS-Court+Reporting+Services,+607+Rustic+Ln,+Friendswood,+TX+77546,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x86409076ffe9020b:0x7eadf1454a61dabf?sa=X&ved=1t:57443&ictx=111
+perlich reporting services|Allen, TX, Marekani · +1 469-939-5606|Texas|http://www.perlichreporting.com/contact-us/
+HG Litigation Services|Austin, TX, Marekani · +1 512-535-0659|Texas|/maps/dir//HG+Litigation+Services,+700+Lavaca+St+STE+1400,+Austin,+TX+78701,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8644b50bd99e44a9:0x43ced4ac4d497880?sa=X&ved=1t:57443&ictx=111
+Kim Tindall & Associates|Houston, TX, Marekani · +1 832-408-2844|Texas|http://www.ktanda.com/
+Flores Rosemary|San Antonio, TX, Marekani · +1 210-340-6464|Texas|/maps/dir//Flores+Rosemary,+10100+Reunion+Pl,+San+Antonio,+TX+78216,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x865c8aa78110e07b:0xfe6694d5635da7f2?sa=X&ved=1t:57443&ictx=111
+Legal Solutions Court Reporting & Video|Dallas, TX, Marekani · +1 866-468-1023|Texas|/maps/dir//Legal+Solutions+Court+Reporting+%26+Video,+3131+McKinney+Ave+%23+300,+Dallas,+TX+75204,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x864e992d19c9d22f:0xc6e771c8672628f6?sa=X&ved=1t:57443&ictx=111
+Wyatt & Associates|Dallas, TX, Marekani · +1 214-220-0040|Texas|/maps/dir//Wyatt+%26+Associates,+3250+Cambrick+St+%23+16,+Dallas,+TX+75204,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x864e9ed6fbf960d1:0x1480c102f0873cc7?sa=X&ved=1t:57443&ictx=111
+Court Reporters Clearinghouse|San Antonio, TX, Marekani · +1 210-524-7700|Texas|/maps/dir//Court+Reporters+Clearinghouse,+8000+Frontage+Rd+%23+1500,+San+Antonio,+TX+78230,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x865c5e1e21f20925:0x89e1448b334ec438?sa=X&ved=1t:57443&ictx=111
+CPS Court Reporter|Belton, TX, Marekani|Texas|/maps/dir//CPS+Court+Reporter,+104+S+Main+St,+Belton,+TX+76513,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8645413e46aa3f05:0xe5ed092eaecceb1a?sa=X&ved=1t:57443&ictx=111
+Moore Howard Court Reporters|San Antonio, TX, Marekani · +1 210-222-9161|Texas|/maps/dir//Moore+Howard+Court+Reporters,+901+NE+Interstate+410+Loop+Suite+415,+San+Antonio,+TX+78209,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x865cf535120bcadd:0x12a045552259d157?sa=X&ved=1t:57443&ictx=111
+Ludlow Litigation|Irving, TX, Marekani · +1 833-336-3010|Texas|None
+Houston Certified Court Reporters|Houston, TX, Marekani · +1 713-650-1800|Texas|http://www.houstoncertifiedcourtreporters.com/about-us/contact.html
+Elite Reporting Services|Alvin, TX, Marekani · +1 713-623-4434|Texas|/maps/dir//Elite+Reporting+Services,+1656+County+Rd+577,+Alvin,+TX+77511,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x86408eb87fd057c1:0x71627ff27d8c4550?sa=X&ved=1t:57443&ictx=111
+Tx Virtual Assistant Services|Porter, TX, Marekani · +1 281-354-7495|Texas|/maps/dir//Tx+Virtual+Assistant+Services,+22857+Cumbre+Dr,+Porter,+TX+77365,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x86474c412066ae55:0xcdcce26487ebc7a7?sa=X&ved=1t:57443&ictx=111
+CCI Court Reporting|Houston, TX, Marekani · +1 713-365-0777|Texas|http://www.ccicourtreporting.com/
+Capitol Court Reporters|Burlington, VT, Marekani · +1 802-863-6067|Vermont|http://www.capitolcourtreporters.com/
+Double D Reporting|Arlington, VT, Marekani · +1 802-342-7199|Vermont|http://www.ddreporting.com/
+Vermont Court Reporting & Video|Shelburne, VT, Marekani · +1 802-231-4657|Vermont|/maps/dir//Vermont+Court+Reporting+%26+Video,+145+Pine+Haven+Shores,+Shelburne,+VT+05482,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x4cca7d407331940d:0x43f530a56c4ebf2f?sa=X&ved=1t:57443&ictx=111
+O'Brien Reporting Services Inc|Rutland, VT, Marekani · +1 802-747-0199|Vermont|/maps/dir//O%27Brien+Reporting+Services+Inc,+223+Killington+Ave,+Rutland,+VT+05701,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e024618d6fdad7:0x5a43fbc3347f8aa5?sa=X&ved=1t:57443&ictx=111
+Verbatim Reporters|Saxtons River, VT, Marekani · +1 802-869-1665|Vermont|https://vtsteno.com/
+Court Reporter - Karen L. Wright, RPR, LLC|+1 802-376-6002|Vermont|http://vermontsteno.com/
+Essex Junction Court Reporting & Deposition Services|Essex Junction, VT, Marekani · +1 802-231-4657|Vermont|/maps/dir//Essex+Junction+Court+Reporting+%26+Deposition+Services,+Essex+Junction,+VT+05452,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x4cca77206223fe19:0x7b39aeeaa45cc719?sa=X&ved=1t:57443&ictx=111
+Rutland Court Reporting & Deposition Services|Rutland, VT, Marekani · +1 802-231-4657|Vermont|/maps/dir//Rutland+Court+Reporting+%26+Deposition+Services,+Rutland,+VT+05701,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e025bd93852a47:0x22613cf6d0456813?sa=X&ved=1t:57443&ictx=111
+Burlington Court Reporting & Deposition Services|Burlington, VT, Marekani · +1 802-231-4657|Vermont|/maps/dir//Burlington+Court+Reporting+%26+Deposition+Services,+Burlington,+VT+05401,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x4cca7ba084f89dcf:0x3c43c2e3c482548?sa=X&ved=1t:57443&ictx=111
+NAEGELI Deposition & Trial Court Reporters|Tacoma, WA, Marekani · +1 253-565-4400|Washington|https://www.naegeliusa.com/locations/tacoma
+NAEGELI Deposition & Trial Court Reporters|Seattle, WA, Marekani · +1 206-622-3376|Washington|https://www.naegeliusa.com/locations/seattle
+NAEGELI Deposition & Trial Court Reporters|Kennewick, WA, Marekani · +1 509-943-5579|Washington|https://www.naegeliusa.com/locations/kennewick
+NAEGELI Deposition & Trial Court Reporters|Spokane, WA, Marekani · +1 509-838-6000|Washington|https://www.naegeliusa.com/locations/spokane
+Vernon Court Reporters|Tacoma, WA, Marekani · +1 800-553-1092|Washington|https://www.vernoncourtreporters.com/
+Schmitt Reporting & Video, Inc.|Vancouver, WA, Marekani · +1 360-695-5554|Washington|/maps/dir//Schmitt+Reporting+%26+Video,+Inc.,+400+Columbia+St+%23140,+Vancouver,+WA+98660,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x5495a8babe9c62cb:0x1ac6c6ce40c4b52b?sa=X&ved=1t:57443&ictx=111
+Northwest Court Reporters|Kent, WA, Marekani · +1 206-623-6136|Washington|http://www.northwestcourtreporters.com/
+Chatterton Court Reporting|Moses Lake, WA, Marekani · +1 509-765-6999|Washington|/maps/dir//Chatterton+Court+Reporting,+4981+Brent+Rd+NE,+Moses+Lake,+WA+98837,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x5499478e4e01b9fb:0x15946123b7e0b281?sa=X&ved=1t:57443&ictx=111
+Puget Sound Reporting|Tacoma, WA, Marekani · +1 800-576-7129|Washington|http://pugetsoundreporting.com/
+Atkinson-Baker Court Reporters|Seattle, WA, Marekani · +1 800-288-3376|Washington|http://www.depo.com/
+Central Court Reporting & Video|Spokane, WA, Marekani · +1 509-624-5296|Washington|http://www.centralcourtreporting.com/
+Seattle Deposition Reporters, LLC|Seattle, WA, Marekani · +1 800-657-1110|Washington|http://www.seadep.com/
+Likkel & Associates-Court Reporters|Everett, WA, Marekani · +1 425-259-3330|Washington|https://www.likkelcourtreporters.com/
+Crumb Court Reporting|Spokane, WA, Marekani · +1 509-315-4980|Washington|https://www.crumbreporting.com/
+Central Court Reporting & Video|Wenatchee, WA, Marekani · +1 509-663-0384|Washington|http://www.centralcourtreporting.com/
+Moburg Reporting|Federal Way, WA, Marekani · +1 206-622-3110|Washington|http://www.moburgreporting.com/
+Likkel & Associates Court Reporters|Bellingham, WA, Marekani · +1 360-733-2708|Washington|http://www.likkelcourtreporters.com/
+Olympic Court Reporting Services|Chimacum, WA, Marekani · +1 360-732-4600|Washington|/maps/dir//Olympic+Court+Reporting+Services,+1244+W+Valley+Rd,+Chimacum,+WA+98325,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x548fe62a9d336d1f:0x6feebedf76779d33?sa=X&ved=1t:57443&ictx=111
+Buell Realtime Reporting, LLC|Seattle, WA, Marekani · +1 206-287-9066|Washington|http://www.buellrealtime.com/
+B&A Litigation Services|Seattle, WA, Marekani · +1 253-627-6401|Washington|http://www.balitigation.com/
+BMA Court Reporters|Everett, WA, Marekani · +1 425-252-7277|Washington|http://bmacourtreporters.com/
+Affiliated Court Reporters|Edgewood, WA, Marekani · +1 253-924-0123|Washington|https://affiliatedcourtreporters.com/
+Dixie Cattell & Associates|Olympia, WA, Marekani · +1 360-352-2506|Washington|https://dca-reporters.com/
+Central Court Reporting & Video|Bellevue, WA, Marekani · +1 425-747-3016|Washington|http://www.centralcourtreporting.com/
+Lakeside Reporting|Bellevue, WA, Marekani · +1 833-365-3376|Washington|http://www.lakesidereporting.com/
+Central Court Reporting & Video|Yakima, WA, Marekani · +1 509-457-3377|Washington|http://www.centralcourtreporting.com/
+Yamaguchi Obien Mangio Reporting|Seattle, WA, Marekani · +1 206-622-6875|Washington|/maps/dir//Yamaguchi+Obien+Mangio+Reporting,+1200+5th+Ave+%231820,+Seattle,+WA+98101,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54906ab403730b41:0x56267f4fbf3a0be4?sa=X&ved=1t:57443&ictx=111
+Capitol Pacific Reporting|Olympia, WA, Marekani · +1 360-352-2054|Washington|http://www.capitolpacificreporting.com/
+Byers & Anderson Court Reporters|Tacoma, WA, Marekani · +1 253-627-6401|Washington|http://byersanderson.com/
+Snover Court Reporting|Spokane Valley, WA, Marekani · +1 509-467-0666|Washington|http://snovercourtreporting.com/
+Central Court Reporting & Video|Kennewick, WA, Marekani · +1 509-582-6858|Washington|http://www.centralcourtreporting.com/
+Grant Legal Services LLC|Seattle, WA, Marekani · +1 206-363-3982|Washington|http://www.grantlegalservices.com/
+Acta Court Reporting|Richland, WA, Marekani · +1 509-946-4328|Washington|/maps/dir//Acta+Court+Reporting,+Richland,+WA+99352,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x549870aeb2c279fd:0x1a04eadd362f05ec?sa=X&ved=1t:57443&ictx=111
+Acta Court Reporting|Richland, WA, Marekani · +1 509-946-4328|Washington|/maps/dir//Acta+Court+Reporting,+2620+Willowbrook+Ave,+Richland,+WA+99352,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54987752f334db79:0xe6fea0baee994766?sa=X&ved=1t:57443&ictx=111
+Lehmann Court Reporting|Vancouver, WA, Marekani · +1 360-553-2131|Washington|https://www.lehmannreporting.com/
+Washington Court Reporters Association|None|Washington|https://www.washingtoncourtreporters.org/
+Capitol Pacific Reporting Inc|Aberdeen, WA, Marekani · +1 800-407-0148|Washington|http://capitolpacificreporting.com/
+Wenatchee Valley Court Reporting|Wenatchee, WA, Marekani · +1 509-888-3376|Washington|None
+Stan Phillips Court Reporting|Omak, WA, Marekani · +1 509-826-5186|Washington|/maps/dir//Stan+Phillips+Court+Reporting,+505+Birch+St+N,+Omak,+WA+98841,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x549ce9ad7f958a67:0x4ccca01234e6a56c?sa=X&ved=1t:57443&ictx=111
+Roger G. Flygare & Associates, Inc.|Federal Way, WA, Marekani · +1 800-574-0414|Washington|http://www.flygare.com/
+Lakeside Reporting|Kirkland, WA, Marekani · +1 833-365-3376|Washington|http://www.lakesidereporting.com/
+Boice Proofreading|+1 815-600-1693|Washington|http://www.boiceproofreading.com/
+Esquire Deposition Solutions, LLC|Seattle, WA, Marekani · +1 206-624-9099|Washington|https://www.esquiresolutions.com/?utm_medium=yext&utm_source=gmb&y_source=1_NzQ5NTYyNzktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+NAEGELI Deposition & Trial Court Reporters|Portland, OR, Marekani · +1 503-227-1544|Washington|https://www.naegeliusa.com/locations/portland
+Central Court Reporting & Video|Sunnyside, WA, Marekani · +1 800-442-3376|Washington|http://www.centralcourtreporting.com/
+Henry Reporting|Everett, WA, Marekani · +1 360-312-0202|Washington|/maps/dir//Henry+Reporting,+1812+Hewitt+Ave,+Everett,+WA+98201,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x549aabf87d8fd98b:0xd830facc7362b0ee?sa=X&ved=1t:57443&ictx=111
+Schmitt Reporting & Video, Inc.|Portland, OR, Marekani · +1 503-245-4552|Washington|https://www.veritext.com/schmitt-reporting-and-video/
+Professional Court Services|Ellensburg, WA, Marekani · +1 509-306-9200|Washington|http://www.pcsehm.com/
+Kittitas County Court Reporter|Ellensburg, WA, Marekani · +1 509-962-7534|Washington|https://www.co.kittitas.wa.us/clerk/default.aspx
+K & K Reporting|Lewiston, ID, Marekani · +1 208-743-1380|Washington|http://kkreport.com/
+Dixie Court Reporting INC|+1 435-632-4194|Washington|http://www.dixiecourtreporting.com/
+Archer Associates|Longview, WA, Marekani · +1 360-423-2195|Washington|/maps/dir//Archer+Associates,+Longview,+WA+98632,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x54946c8c1f6a989f:0x36c21caa89e142e?sa=X&ved=1t:57443&ictx=111
+Spokane Reporting Service, Inc.|Spokane, WA, Marekani · +1 509-624-6255|Washington|/maps/dir//Spokane+Reporting+Service,+Inc.,+421+W+Riverside+Ave+Suite+1010,+Spokane,+WA+99201,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x549e1861b6273f69:0x86914b9295148ed5?sa=X&ved=1t:57443&ictx=111
+Verb8m Reporting, Inc.|Seattle, WA, Marekani · +1 206-467-0800|Washington|https://www.verb8m.net/
+Reed Jackson & Watkins Legal|Seattle, WA, Marekani · +1 206-624-3005|Washington|http://www.rjwtranscripts.com/
+Court Reporter Washington DC|Washington, DC, Marekani · +1 202-436-9475|Washington|http://courtreporter-washingtondc.com/
+Hutchings Court Reporters|Los Angeles, CA, Marekani · +1 323-888-6300|Washington|http://www.hutchings.com/
+Affiliated Court Reporters|Minneapolis, MN, Marekani|Washington|http://affiliatedreportersmn.com/
+Lehmann Court Reporting, Inc|Portland, OR, Marekani · +1 503-223-4040|Washington|https://www.lehmannreporting.com/
+Ace-Federal Reporters|Washington, DC, Marekani · +1 202-347-3700|Washington|http://acefederal.com/
+Washington DC Court Reporters|Washington, DC, Marekani · +1 202-879-1610|Washington|/maps/dir//Washington+DC+Court+Reporters,+500+Indiana+Ave+NW+%23+5500,+Washington,+DC+20001,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89b7b78f7f9028f3:0x44af03a9b65f74f2?sa=X&ved=1t:57443&ictx=111
+Olender Reporting Inc.|Washington, DC, Marekani · +1 866-420-4020|Washington|http://www.olenderreporting.com/
+CDA Reporting Court Reporting|Coeur d'Alene, ID, Marekani · +1 208-765-3666|Washington|/maps/dir//CDA+Reporting+Court+Reporting,+250+Northwest+Blvd+%23101A,+Coeur+d%27Alene,+ID+83814,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x5361c68b010353f3:0xb1502ca23d3d6466?sa=X&ved=1t:57443&ictx=111
+Markley Court Reporting|Vancouver, WA, Marekani · +1 360-693-6703|Washington|/maps/dir//Markley+Court+Reporting,+5504+NE+44th+St,+Vancouver,+WA+98661,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x5495afa039648541:0x642e0bb1eb0c8801?sa=X&ved=1t:57443&ictx=111
+Washington Reporting|Seattle, WA, Marekani · +1 206-274-1548|Washington|/maps/dir//Washington+Reporting,+320+W+Republican+St,+Seattle,+WA+98119,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x5490154328b19c55:0x3c8e402a3c1c1878?sa=X&ved=1t:57443&ictx=111
+MJB Express Court Reporting Services|Issaquah, WA, Marekani · +1 206-551-5316|Washington|http://mjbexpress.com/
+Excel Court Reporting|Tacoma, WA, Marekani · +1 253-536-5824|Washington|/maps/dir//Excel+Court+Reporting,+16022+17th+Ave+Ct+E,+Tacoma,+WA+98445,+Marekani/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x549102555c72808f:0xad80f11e5ccb5615?sa=X&ved=1t:57443&ictx=111
+Buell Realtime Reporting|Tacoma, WA, Marekani · +1 800-846-6989|Washington|https://www.buellrealtime.com/form/contact-buell
+Starkovich Reporting Services|Seattle, WA, Marekani · +1 206-323-0919|Washington|http://www.starkovichreporting.com/
