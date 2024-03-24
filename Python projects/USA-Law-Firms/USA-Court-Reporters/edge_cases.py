@@ -11,8 +11,9 @@ INITIAL_URL = 'https://www.google.com/search?q=court+reporters+in+Iowa&sca_esv=d
 
 TIMEOUT = 120000
 
-edge_states = ['Colorado', 'Alaska', 'Hawaii', 'Massachusetts',
-               'Maine', 'New Mexico', 'Texas', 'Vermont', 'Washington']
+# edge_states = ['New Hampshire', 'New Jersey', 'New York', 'North Carolina',
+#                'Ohio', 'North Dakota', 'Oklahoma', 'Oregon', 'Pennsylvania', 'Rhode Island', 'South Carolina', 'South Dakota', 'Tennessee', 'Utah', 'Virginia',  'West Virginia', 'Wisconsin', 'Wyoming', 'Washington, D.C.']
+edge_states = ['Wyoming']
 
 
 def get_other_pages(selector, edge_state):
