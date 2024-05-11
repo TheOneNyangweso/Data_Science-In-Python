@@ -4,34 +4,30 @@ import csv
 
 
 def gamesOK(games):
-    # Create the set of vertices (players) and edges (games)
+    # Create the set of vertices (players)
     V = {player for game in games for player in game}
-    E = {game for game in games} | {(v, u) for (u, v) in games}
+    # Create an edge set that includes both (u, v) and (v, u) for each game
+    E = {(u, v) for u, v in games} | {(v, u) for u, v in games}
 
+    # Recursive function to check the required properties
     def check_pairs(pairs):
-        # Base case: if no more pairs to check, return True
         if not pairs:
             return True
-
-        # Check the first pair in the list
-        u, v = pairs[0]
-        if (u, v) not in E and (v, u) not in E:
-            common_players = list(digraphs.N_out(
-                V, E, u) & digraphs.N_out(V, E, v))
+        (u, v), *rest = pairs
+        if (u, v) not in E:
+            common_players = graphs.N(V, E, u) & graphs.N(V, E, v)
             if len(common_players) < 2:
                 return False
+        return check_pairs(rest)
 
-        # Recursively check the rest of the pairs
-        return check_pairs(pairs[1:])
+    # Create a list of all pairs of distinct players using a comprehension
+    pairs = [(u, v) for u in V for v in V if u < v]
 
-    # Create a list of all pairs of distinct players
-    pairs = [(u, v) for u in V for v in V if u != v]
-
-    # Check if all players have the same number of games
-    degrees = [len(digraphs.N_out(V, E, player)) for player in V]
-    if len(set(degrees)) > 1:
+    # Check if all players have the same number of games using a comprehension
+    if len({len(graphs.N(V, E, player)) for player in V}) > 1:
         return False
 
+    # Call the recursive function
     return check_pairs(pairs)
 
 
