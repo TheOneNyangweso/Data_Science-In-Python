@@ -1,6 +1,10 @@
-import graphs
-import digraphs
+# import graphs  # for undirected graphs
+# import digraphs  # for directed graphs
+from digraphs import N_out, topOrdering
+from digraphs import maxMatching
 import csv
+import digraphs
+import graphs
 
 
 def gamesOK(games):
@@ -157,16 +161,16 @@ def scores(p, s, c, games):
     E = {(winner, loser) for winner, loser in games}
 
     # Calculate primary wins using N_out
-    primary_wins = {player: digraphs.N_out(V, E, player) for player in V}
+    primary_wins = {player: N_out(V, E, player) for player in V}
 
     # Calculate primary scores
     primary_scores = {player: p * len(wins)
                       for player, wins in primary_wins.items()}
 
-    # Calculate secondary wins using N_out
+    # Calculate secondary wins using NS_out and N_in
     secondary_wins = {
         player: {sec_player for opponent in primary_wins[player]
-                 for sec_player in digraphs.N_out(V, E, opponent) if sec_player != player}
+                 for sec_player in N_out(V, E, opponent) if sec_player != player}
         for player in V
     }
 
